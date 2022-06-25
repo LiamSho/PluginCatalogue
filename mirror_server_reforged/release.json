@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "mirror_server_reforged",
+  "latest_version": "1.0.3",
+  "etag": "\"a5631d3db2e0cf87ff6129d2418499b4379cecc611249bbbeccb74f8ee66e38b\"",
+  "releases": [
+    {
+      "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3",
+      "name": "1.0.3 (CRITICAL)",
+      "tag_name": "1.0.3",
+      "created_at": "2022-02-11T13:22:38Z",
+      "assets": [
+        {
+          "name": "MirrorServerReforged-v1.0.3.mcdr",
+          "size": 8422,
+          "download_count": 135,
+          "created_at": "2022-02-11T13:32:32Z",
+          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr"
+        }
+      ],
+      "description": "修复了一个特别严重的bug，这个bug会导致在镜像服开启的时候主服务器的QBM失效 感谢`MCDR群@今天你的js加分号了吗`",
+      "prerelease": false,
+      "parsed_version": "1.0.3"
+    },
+    {
+      "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2",
+      "name": "1.0.2",
+      "tag_name": "1.0.2",
+      "created_at": "2022-02-05T07:17:23Z",
+      "assets": [
+        {
+          "name": "MirrorServerReforged-v1.0.2.mcdr",
+          "size": 8354,
+          "download_count": 11,
+          "created_at": "2022-02-05T07:17:57Z",
+          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr"
+        }
+      ],
+      "description": "现在MSR会根据系统类型在初始化时自动设置正确地启动命令了~",
+      "prerelease": false,
+      "parsed_version": "1.0.2"
+    },
+    {
+      "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1",
+      "name": "1.0.1",
+      "tag_name": "1.0.1",
+      "created_at": "2022-01-25T01:25:09Z",
+      "assets": [
+        {
+          "name": "MirrorServerReforged-v1.0.1.mcdr",
+          "size": 8323,
+          "download_count": 22,
+          "created_at": "2022-01-25T01:25:31Z",
+          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.1/MirrorServerReforged-v1.0.1.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    },
+    {
+      "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.0",
+      "name": "1.0.0",
+      "tag_name": "1.0.0",
+      "created_at": "2022-01-24T08:06:21Z",
+      "assets": [
+        {
+          "name": "MirrorServerReforged-v1.0.0.mcdr",
+          "size": 8583,
+          "download_count": 3,
+          "created_at": "2022-01-24T10:55:37Z",
+          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.0/MirrorServerReforged-v1.0.0.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ]
+}

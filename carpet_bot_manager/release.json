@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "carpet_bot_manager",
+  "latest_version": "0.3.0",
+  "etag": "\"e32013c7a4a1a3337c8d17b1c4c3f7d0bec9d5c93bc25c74232c41aad9806132\"",
+  "releases": [
+    {
+      "url": "https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0",
+      "name": "CarpetBotManager v0.3.0",
+      "tag_name": "v0.3.0",
+      "created_at": "2021-09-07T17:05:53Z",
+      "assets": [
+        {
+          "name": "CarpetBotManager-v0.3.0.mcdr",
+          "size": 10168,
+          "download_count": 1428,
+          "created_at": "2021-09-07T17:13:43Z",
+          "browser_download_url": "https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr"
+        }
+      ],
+      "description": "**What's new**\n- Use nested translation file﻿\n- Move the entrypoint out of `__init__.py`\n- Sync online bot list after add bot\n- Always show spawn and kill button in `!!bot list` now\n",
+      "prerelease": false,
+      "parsed_version": "0.3.0"
+    }
+  ]
+}

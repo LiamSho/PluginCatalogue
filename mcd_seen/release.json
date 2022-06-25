@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "id": "mcd_seen",
+  "latest_version": "1.1.0",
+  "etag": "\"e256305a48277e1be28d6e1ef77de1a07614672196b5ac0708af32f1776ce212\"",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/Seen/releases/tag/1.1.0",
+      "name": "1.1.0 for MCDR2.0",
+      "tag_name": "1.1.0",
+      "created_at": "2021-08-19T02:12:43Z",
+      "assets": [
+        {
+          "name": "Seen-v1.1.0.mcdr",
+          "size": 10005,
+          "download_count": 1422,
+          "created_at": "2021-08-22T13:01:56Z",
+          "browser_download_url": "https://github.com/TISUnion/Seen/releases/download/1.1.0/Seen-v1.1.0.mcdr"
+        }
+      ],
+      "description": "The same as 1.1.0-pre1, if any problem found, just remind me in the issues",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
+    {
+      "url": "https://github.com/TISUnion/Seen/releases/tag/1.1.1",
+      "name": "1.1.1",
+      "tag_name": "1.1.1",
+      "created_at": "2018-12-24T17:43:41Z",
+      "assets": [
+        {
+          "name": "Seen-v1.1.1.mcdr",
+          "size": 10016,
+          "download_count": 1392,
+          "created_at": "2021-08-27T06:13:23Z",
+          "browser_download_url": "https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr"
+        }
+      ],
+      "description": "1. Fixed english help message\r\n2. Loading warning now will only be displayed when server running",
+      "prerelease": false,
+      "parsed_version": "1.1.1"
+    }
+  ]
+}

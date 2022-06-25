@@ -1,0 +1,21 @@
+{
+  "id": "xiaohuihuis_big_pie",
+  "name": "XiaoHuiHui's Big Pie",
+  "version": "0.0.2",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "labels": [
+    "information",
+    "tool",
+    "management",
+    "api"
+  ],
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {
+    "en_us": "Run any Python code in game!",
+    "zh_cn": "小灰灰的游戏内执行 Python 语句大饼"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "id": "mcdr_pycraft_bot",
+  "latest_version": "1.2.0",
+  "etag": "\"d35ccfe6d933093c0a4d46991c3236b8b85dc1d11099398af331a1f2cdb73145\"",
+  "releases": [
+    {
+      "url": "https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0",
+      "name": "MCDR Bot v1.2.0",
+      "tag_name": "v1.2.0",
+      "created_at": "2021-08-19T01:17:02Z",
+      "assets": [
+        {
+          "name": "MCDRBot-v1.2.0.mcdr",
+          "size": 76874,
+          "download_count": 1506,
+          "created_at": "2021-08-19T01:18:23Z",
+          "browser_download_url": "https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr"
+        }
+      ],
+      "description": "Make the `gamemode` field in the config file optional",
+      "prerelease": false,
+      "parsed_version": "1.2.0"
+    },
+    {
+      "url": "https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0",
+      "name": "MCDR Bot v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2021-08-17T01:18:06Z",
+      "assets": [
+        {
+          "name": "MCDRBot-v1.1.0.mcdr",
+          "size": 76409,
+          "download_count": 1309,
+          "created_at": "2021-08-17T01:19:33Z",
+          "browser_download_url": "https://github.com/MCDReforged/MCDR-bot/releases/download/v1.1.0/MCDRBot-v1.1.0.mcdr"
+        }
+      ],
+      "description": "MCDR 2.0 format\r\n\r\nupdated pycraft to PR#230 (~mc1.17)\r\n\r\n",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    }
+  ]
+}

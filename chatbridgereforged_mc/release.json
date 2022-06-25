@@ -1,0 +1,125 @@
+{
+  "schema_version": 2,
+  "id": "chatbridgereforged_mc",
+  "latest_version": "0.2.2",
+  "etag": "\"1193f8aae4a55f5633442d257d969f1364d5170f112a456408107a4697e24159\"",
+  "releases": [
+    {
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.2",
+      "name": "0.2.2-release",
+      "tag_name": "0.2.2",
+      "created_at": "2022-04-20T14:38:37Z",
+      "assets": [
+        {
+          "name": "ChatBridgeReforged_cqhttp.py",
+          "size": 39003,
+          "download_count": 13,
+          "created_at": "2022-04-20T14:40:43Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_cqhttp.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.py",
+          "size": 30583,
+          "download_count": 11,
+          "created_at": "2022-04-20T14:40:44Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_MC.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.pyz",
+          "size": 49100,
+          "download_count": 16,
+          "created_at": "2022-04-20T14:40:40Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_MC.pyz"
+        },
+        {
+          "name": "ChatBridgeReforged_Server.zip",
+          "size": 35589,
+          "download_count": 20,
+          "created_at": "2022-04-20T14:40:42Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_Server.zip"
+        }
+      ],
+      "description": "# 0.2.0\r\n## Description\r\nAdd new event on_player_joined and on_player_left\r\nNew cqhttp client\r\n\r\n## Changes\r\n### Server Change\r\n- New utility\r\n  - Rtext\r\n\r\n### BUGFIX and Improvements\r\n- better logging processing\r\n\r\n# 0.2.1\r\n### BUGFIX and Improvements\r\n- FIX BUG of CBR sever can't reply\r\n\r\n# 0.2.2\r\n### BUGFIX and Improvements\r\n- FIX #7 ",
+      "prerelease": false,
+      "parsed_version": "0.2.2"
+    },
+    {
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1",
+      "name": "0.1.1-release",
+      "tag_name": "0.1.1",
+      "created_at": "2022-03-04T06:07:00Z",
+      "assets": [
+        {
+          "name": "ChatBridgeReforged_cqhttp.py",
+          "size": 39325,
+          "download_count": 14,
+          "created_at": "2022-03-04T06:12:34Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_cqhttp.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.py",
+          "size": 29639,
+          "download_count": 8,
+          "created_at": "2022-03-04T06:12:32Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.pyz",
+          "size": 48090,
+          "download_count": 14,
+          "created_at": "2022-03-04T06:12:36Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz"
+        },
+        {
+          "name": "ChatBridgeReforged_Server.zip",
+          "size": 33384,
+          "download_count": 14,
+          "created_at": "2022-03-04T06:12:50Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_Server.zip"
+        }
+      ],
+      "description": "# 0.1.0\r\n## Description\r\nAdd new event `on_player_joined` and `on_player_left`\r\nNew cqhttp client\r\n## Changes\r\n### New event\r\n- Add `on_player_joined`\r\n- Add `on_player_left`\r\n### New cqhttp client\r\n- Multi connections in one client\r\n- Can be a plugin that no need to open a new `screen` or `tmux` session now\r\n- `restart guardian` is used now\r\n#### BUGFIX\r\n- Wrong message while reload plugin\r\n- Better viewing when connecting\r\n- Some other improvements\r\n# 0.1.1\r\n#### BUGFIX\r\n- Reload error in cqhttp.py\r\n- Handle UnicodeDeocdeError in server input\r\n- #5 Update requirement.txt",
+      "prerelease": false,
+      "parsed_version": "0.1.1"
+    },
+    {
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2",
+      "name": "0.0.2-release",
+      "tag_name": "0.0.2",
+      "created_at": "2022-01-09T16:38:58Z",
+      "assets": [
+        {
+          "name": "ChatBridgeReforged_cqhttp.py",
+          "size": 28222,
+          "download_count": 3,
+          "created_at": "2022-01-09T16:45:21Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_cqhttp.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.py",
+          "size": 28323,
+          "download_count": 8,
+          "created_at": "2022-01-09T16:45:13Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.pyz",
+          "size": 45978,
+          "download_count": 8,
+          "created_at": "2022-01-15T16:33:44Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.pyz"
+        },
+        {
+          "name": "ChatBridgeReforged_Server.zip",
+          "size": 33185,
+          "download_count": 9,
+          "created_at": "2022-01-09T16:45:01Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_Server.zip"
+        }
+      ],
+      "description": "# 0.0.1\r\n## Description\r\nFinally, I have done it.\r\n## Change between beta and release\r\n- not compatible anymore with CB and CBR beta\r\n- merge client_MC and client_MC0.9\r\n- change from GPL to LGPL\r\n# 0.0.2\r\n#### BUGFIX\r\n- restart spam when cli spam\r\n- plugin duplicate plugin id still keep load",
+      "prerelease": false,
+      "parsed_version": "0.0.2"
+    }
+  ]
+}

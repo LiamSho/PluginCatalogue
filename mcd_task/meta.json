@@ -1,0 +1,21 @@
+{
+  "id": "mcd_task",
+  "name": "Task",
+  "version": "2.2.0",
+  "repository": "https://github.com/TISUnion/Task",
+  "labels": [
+    "tool"
+  ],
+  "authors": [
+    "Pandaria",
+    "Fallen_Breath",
+    "Ra1ny_Yuki"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.1.3"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "A plugin to show tasks of project in progress"
+  }
+}

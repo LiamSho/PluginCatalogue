@@ -1,0 +1,23 @@
+{
+  "id": "stats_helper",
+  "name": "Stats Helper",
+  "version": "7.5.1",
+  "repository": "https://github.com/TISUnion/StatsHelper",
+  "labels": [
+    "tool",
+    "information"
+  ],
+  "authors": [
+    "Fallen_Breath"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.1.0-beta.1"
+  },
+  "requirements": [
+    "mcdreforged>=2.0.0b7"
+  ],
+  "description": {
+    "en_us": "A Minecraft statistic helper",
+    "zh_cn": "一个 Minecraft 统计信息助手"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "diamond_calc",
+  "name": "Diamond Calculator",
+  "version": "1.0.0",
+  "repository": "https://github.com/HuajiMUR233/DiamondCalc",
+  "labels": [
+    "tool"
+  ],
+  "authors": [
+    "Huaji_MUR233"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {}
+}

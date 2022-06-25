@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "id": "mirror_server_sync",
+  "latest_version": "1.0.1",
+  "etag": "\"ae0a10043a5b378856e698a743b23d52bba2f0d689b32ae629b470bc45b8c158\"",
+  "releases": [
+    {
+      "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1",
+      "name": "Mirror Server Sync V1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2022-05-18T06:17:50Z",
+      "assets": [
+        {
+          "name": "MirrorServerSync-v1.0.1.mcdr",
+          "size": 3361,
+          "download_count": 5,
+          "created_at": "2022-05-18T06:23:05Z",
+          "browser_download_url": "https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr"
+        }
+      ],
+      "description": "# Bug Fix:\r\n\r\n- Adding independent thread to each function\r\n- Fix !!msync recover feature\r\n\r\n**Full Changelog**: https://github.com/VisualSpliter/MirrorServerSync/commits/v1.0.1",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    },
+    {
+      "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.0",
+      "name": "Mirror Server Sync V1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2022-05-18T06:17:50Z",
+      "assets": [
+        {
+          "name": "MirrorServerSync-v1.0.0.mcdr",
+          "size": 3314,
+          "download_count": 0,
+          "created_at": "2022-05-17T08:58:02Z",
+          "browser_download_url": "https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.0/MirrorServerSync-v1.0.0.mcdr"
+        }
+      ],
+      "description": "First Release\r\nPlugin Feature Complete\r\n显示用法\r\n!!msync 显示用法\r\n!!msync peek 查看主服务器qb最新存档信息\r\n!!msync sync 备份当前镜像服存档，并同步主服务器qb最新存档\r\n!!msync recover 回档至同步前存档\r\n!!msync help 显示用法\r\n所有操作需要权限等级2",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ]
+}

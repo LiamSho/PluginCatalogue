@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "qq_robot",
+  "latest_version": "1.0.1",
+  "etag": "\"ae01a88f99f848ab66354b10076ef88b429833d4531688b23ae5cdfaee9d948f\"",
+  "releases": [
+    {
+      "url": "https://github.com/lky1433223/QQrobot/releases/tag/v1.0.1",
+      "name": "QQrobot-v1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2022-02-10T15:29:02Z",
+      "assets": [
+        {
+          "name": "QQrobot-v1.0.1.mcdr",
+          "size": 5174,
+          "download_count": 104,
+          "created_at": "2022-02-10T15:38:12Z",
+          "browser_download_url": "https://github.com/lky1433223/QQrobot/releases/download/v1.0.1/QQrobot-v1.0.1.mcdr"
+        }
+      ],
+      "description": "QQrobot，版本1.0.1",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    }
+  ]
+}

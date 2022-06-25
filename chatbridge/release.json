@@ -1,0 +1,152 @@
+{
+  "schema_version": 2,
+  "id": "chatbridge",
+  "latest_version": "2.2.0",
+  "etag": "\"6bb5dc53a99b6eabbaef07fdf4bc7d0e82c411fba9d3116ee9c3bacb40012ab9\"",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
+      "name": "",
+      "tag_name": "v2.2.0",
+      "created_at": "2022-03-10T06:22:09Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 41540,
+          "download_count": 187,
+          "created_at": "2022-03-10T06:23:41Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz"
+        }
+      ],
+      "description": "## CLI server changes:\r\n- Better thread name displaying\r\n- Auto-trim login timeout connections\r\n- Added secret `thread_dump` command in cli server for debug",
+      "prerelease": false,
+      "parsed_version": "2.2.0"
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1",
+      "name": "",
+      "tag_name": "v2.1.1",
+      "created_at": "2022-03-05T06:55:58Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 40894,
+          "download_count": 17,
+          "created_at": "2022-03-05T06:56:57Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz"
+        }
+      ],
+      "description": "- Added `!!help` command in khl bot\r\n- Fixed missing newline in !!help in discord bot (#21)",
+      "prerelease": false,
+      "parsed_version": "2.1.1"
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0",
+      "name": "",
+      "tag_name": "v2.1.0",
+      "created_at": "2021-11-16T11:24:40Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 40833,
+          "download_count": 186,
+          "created_at": "2021-11-16T11:27:38Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz"
+        }
+      ],
+      "description": "- removed hardcoded \"TIS\" in server (online command result in discord/khl bot), use new value `server_display_name` in config\r\n- also apply markdown formatting in stats result for discord bot\r\n- dumps config after load for easier updating",
+      "prerelease": false,
+      "parsed_version": "2.1.0"
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4",
+      "name": "",
+      "tag_name": "v2.0.4",
+      "created_at": "2021-11-12T15:25:48Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 40739,
+          "download_count": 9,
+          "created_at": "2021-11-12T15:26:35Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.4/ChatBridge.pyz"
+        }
+      ],
+      "description": "- online command: display_order support, in config",
+      "prerelease": false,
+      "parsed_version": "2.0.4"
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.3",
+      "name": "v2.0.3",
+      "tag_name": "v2.0.3",
+      "created_at": "2021-11-12T13:46:49Z",
+      "assets": [
+        {
+          "name": "ChatBridge.pyz",
+          "size": 40515,
+          "download_count": 3,
+          "created_at": "2021-11-12T13:47:48Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.3/ChatBridge.pyz"
+        }
+      ],
+      "description": "- online command client: fix wrong server name displaying with minecraft server\r\n- fixed some readme issues",
+      "prerelease": false,
+      "parsed_version": "2.0.3"
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.2",
+      "name": "",
+      "tag_name": "v2.0.2",
+      "created_at": "2021-10-04T11:34:32Z",
+      "assets": [
+        {
+          "name": "ChatBridge-v2.0.2.pyz",
+          "size": 40510,
+          "download_count": 64,
+          "created_at": "2021-10-04T11:36:16Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.2/ChatBridge-v2.0.2.pyz"
+        }
+      ],
+      "description": "- stop display !!qq prefix for qq bot\r\n- stats name display fix in qq bot\r\n- minecraft server support for online command\r\n- see commit log for more",
+      "prerelease": false,
+      "parsed_version": "2.0.2"
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.1",
+      "name": "",
+      "tag_name": "v2.0.1",
+      "created_at": "2021-10-02T13:26:04Z",
+      "assets": [
+        {
+          "name": "ChatBridge-v2.0.1.pyz",
+          "size": 39832,
+          "download_count": 52,
+          "created_at": "2021-10-02T13:26:37Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.1/ChatBridge-v2.0.1.pyz"
+        }
+      ],
+      "description": "see commit log",
+      "prerelease": false,
+      "parsed_version": "2.0.1"
+    },
+    {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.0",
+      "name": "Chatbridge v2.0.0",
+      "tag_name": "v2.0.0",
+      "created_at": "2021-10-01T20:35:18Z",
+      "assets": [
+        {
+          "name": "ChatBridge-v2.0.0.pyz",
+          "size": 38924,
+          "download_count": 71,
+          "created_at": "2021-10-01T20:36:43Z",
+          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.0/ChatBridge-v2.0.0.pyz"
+        }
+      ],
+      "description": "- Totally rewrote the codes, should looks nicer i guess\r\n- Pack everything in a single .pyz file\r\n  - CLI server, CLI client, MCDR plugin, cqhttp/discord/kaiheila bot, online command, in 1 file",
+      "prerelease": false,
+      "parsed_version": "2.0.0"
+    }
+  ]
+}

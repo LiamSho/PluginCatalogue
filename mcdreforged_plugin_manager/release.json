@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "mcdreforged_plugin_manager",
+  "latest_version": "1.2.0",
+  "etag": "\"75e30b2e382e26d70e00f7ad62ea2eeda0cf0ce68ff04eb71e61babcdc0f0a3b\"",
+  "releases": [
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.0",
+      "name": "MCDReforgedPluginManager v1.2.0",
+      "tag_name": "v1.2.0",
+      "created_at": "2022-04-23T08:17:07Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.2.0.mcdr",
+          "size": 21815,
+          "download_count": 35,
+          "created_at": "2022-04-23T08:20:17Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.2.0/MCDReforgedPluginManager-v1.2.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\n- Multiple plugins operation support for `install`, `uninstall`, and `upgrade` subcommands\r\n  - e.g. `!!mpm install here beep quick_backup_multi`\r\n\r\n## Changes\r\n\r\n- More information will be shown when using `upgrade` command\r\n\r\n",
+      "prerelease": false,
+      "parsed_version": "1.2.0"
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.1.1",
+      "name": "MCDReforgedPluginManager v1.1.1",
+      "tag_name": "v1.1.1",
+      "created_at": "2022-04-19T03:48:18Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.1.1.mcdr",
+          "size": 21551,
+          "download_count": 4,
+          "created_at": "2022-04-19T03:49:16Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.1.1/MCDReforgedPluginManager-v1.1.1.mcdr"
+        }
+      ],
+      "description": "## Fixes\r\n\r\n - Added the missing `install_path` key in the default config",
+      "prerelease": false,
+      "parsed_version": "1.1.1"
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.1.0",
+      "name": "MCDReforgedPluginManager v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2022-04-19T03:41:41Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.1.0.mcdr",
+          "size": 21448,
+          "download_count": 1,
+          "created_at": "2022-04-19T03:43:49Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.1.0/MCDReforgedPluginManager-v1.1.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\n - New config option `install_path`: allows you to specify where to install the plugin\r\n\r\n## Changes\r\n\r\n - Plugins will be upgraded to the same directory (multiple plugin path support)\r\n",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.0.0",
+      "name": "MCDReforgedPluginManager v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2022-04-16T14:37:29Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.0.0.mcdr",
+          "size": 21393,
+          "download_count": 4,
+          "created_at": "2022-04-17T08:39:08Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.0.0/MCDReforgedPluginManager-v1.0.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\nImplemented the MCDR side\r\n\r\n- Dependency checking\r\n- Update checking\r\n- Plugin installation & uninstallation\r\n- Plugin upgrading\r\n- Plugin searching",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ]
+}

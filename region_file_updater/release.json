@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "id": "region_file_updater",
+  "latest_version": "1.5.2",
+  "etag": "\"9097cb955d3880f862b34053f69ffeb6a5d38a98337dcb68e641d4ca334b3340\"",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.2",
+      "name": "RegionFileUpdater v1.5.2",
+      "tag_name": "v1.5.2",
+      "created_at": "2022-03-08T15:16:13Z",
+      "assets": [
+        {
+          "name": "RegionfileUpdater-v1.5.2.mcdr",
+          "size": 16049,
+          "download_count": 42,
+          "created_at": "2022-03-08T15:17:36Z",
+          "browser_download_url": "https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.2/RegionfileUpdater-v1.5.2.mcdr"
+        }
+      ],
+      "description": "- Added poi folders to default config (#3)\r\n- Now during regioin file sync, if source file doesn't exist, the destination file will be deleted to keep syncing",
+      "prerelease": false,
+      "parsed_version": "1.5.2"
+    },
+    {
+      "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.1",
+      "name": "RegionFileUpdater v1.5.1",
+      "tag_name": "v1.5.1",
+      "created_at": "2021-09-26T17:56:28Z",
+      "assets": [
+        {
+          "name": "RegionfileUpdater-v1.5.1.mcdr",
+          "size": 15962,
+          "download_count": 73,
+          "created_at": "2021-11-02T15:03:27Z",
+          "browser_download_url": "https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.1/RegionfileUpdater-v1.5.1.mcdr"
+        }
+      ],
+      "description": "- Fixed silly `SyntaxError` at loading",
+      "prerelease": false,
+      "parsed_version": "1.5.1"
+    },
+    {
+      "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.0",
+      "name": "RegionFileUpdater v1.5.0",
+      "tag_name": "v1.5.0",
+      "created_at": "2021-09-26T17:56:28Z",
+      "assets": [
+        {
+          "name": "RegionfileUpdater-v1.5.0.mcdr",
+          "size": 15979,
+          "download_count": 222,
+          "created_at": "2021-09-26T17:59:10Z",
+          "browser_download_url": "https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.0/RegionfileUpdater-v1.5.0.mcdr"
+        }
+      ],
+      "description": "- Add support for multi folder per region due to MC 1.17 change (#1)\r\n",
+      "prerelease": false,
+      "parsed_version": "1.5.0"
+    },
+    {
+      "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.4.1",
+      "name": "RegionFileUpdater v1.4.1",
+      "tag_name": "v1.4.1",
+      "created_at": "2021-08-16T09:44:49Z",
+      "assets": [
+        {
+          "name": "RegionfileUpdater-v1.4.1.mcdr",
+          "size": 15904,
+          "download_count": 1320,
+          "created_at": "2021-08-16T17:03:12Z",
+          "browser_download_url": "https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.4.1/RegionfileUpdater-v1.4.1.mcdr"
+        }
+      ],
+      "description": "For MCDR 2.0",
+      "prerelease": false,
+      "parsed_version": "1.4.1"
+    }
+  ]
+}
