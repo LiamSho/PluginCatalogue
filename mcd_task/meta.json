@@ -1,7 +1,7 @@
 {
   "id": "mcd_task",
   "name": "Task",
-  "version": "2.3.0-alpha.2+build.59",
+  "version": "2.3.0+build.62",
   "repository": "https://github.com/TISUnion/Task",
   "labels": [
     "tool"
@@ -16,6 +16,7 @@
   },
   "requirements": [],
   "description": {
-    "en_us": "A plugin to show tasks of project in progress"
+    "en_us": "A plugin to show tasks of project in progress",
+    "zh_cn": "用于展示进行中的工程任务的插件"
   }
 }
