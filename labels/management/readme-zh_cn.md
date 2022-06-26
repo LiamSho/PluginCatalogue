@@ -18,7 +18,7 @@
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2022/04/23 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | 2022/02/11 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Server Sync](/plugins/mirror_server_sync/readme-zh_cn.md) | [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile) | 一个简单的MCDR插件，用于同步Minecraft地图文件 | 2022/05/18 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于同步生存服存档至镜像服的插件 | 2022/04/07 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于同步生存服存档至镜像服的插件 | 2022/06/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mount](/plugins/mount/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置! | 2022/01/20 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 基于minecraft的白名单功能。 | 2021/10/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 创建永久的用 zip 压缩的备份 | 2021/08/17 | [`管理`](/labels/management/readme-zh_cn.md) |
