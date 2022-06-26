@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mcd_task",
   "latest_version": "2.3.1",
-  "etag": "\"17455419b0373bc6d39999fc4ef916f6c6738f2efa5c1660832848fa8ff82228\"",
+  "etag": "\"0b5f255c1502bc7da0472a7e144f2ac6ee27edef52514943e12928610b5d9f32\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.1",
