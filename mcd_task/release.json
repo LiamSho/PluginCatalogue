@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "mcd_task",
-  "latest_version": "2.3.0",
-  "etag": "\"faa38c9a7305e2e2033402c043651775d77c54f11546d9808b4a3cc1eec27b2c\"",
+  "latest_version": "2.3.1",
+  "etag": "\"6a53fd199c0dd3c6f85e383be9ef819ad9cb83372f3509f01ff6a3ee022f2fa9\"",
   "releases": [
+    {
+      "url": "https://github.com/TISUnion/Task/releases/tag/2.3.1",
+      "name": "2.3.1",
+      "tag_name": "2.3.1",
+      "created_at": "2022-06-26T03:09:22Z",
+      "assets": [
+        {
+          "name": "Task-v2.3.1+build.63.mcdr",
+          "size": 19013,
+          "download_count": 0,
+          "created_at": "2022-06-26T03:10:09Z",
+          "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.3.1/Task-v2.3.1%2Bbuild.63.mcdr"
+        }
+      ],
+      "description": "fixed file auto generation failure\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Task/compare/2.3.0...2.3.1",
+      "prerelease": false,
+      "parsed_version": "2.3.1"
+    },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.0",
       "name": "2.3.0",
@@ -13,7 +31,7 @@
         {
           "name": "Task-v2.3.0+build.62.mcdr",
           "size": 18996,
-          "download_count": 3,
+          "download_count": 4,
           "created_at": "2022-06-25T12:29:38Z",
           "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.3.0/Task-v2.3.0%2Bbuild.62.mcdr"
         }
