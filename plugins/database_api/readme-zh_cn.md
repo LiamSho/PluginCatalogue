@@ -8,9 +8,9 @@
 
 - 插件 ID: `database_api`
 - 插件名: DatabaseAPI
-- 版本: 0.1.0
+- 版本: 0.1.1
   - 元数据版本: 0.1.0
-  - 发布版本: 0.1.0
+  - 发布版本: 0.1.1
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
@@ -26,6 +26,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
 
 ### 介绍
 
@@ -70,5 +71,6 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [DatabaseAPI-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.1) | 0.1.1 | 2022/06/30 06:19:39 | 1.25KB | 0 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.1/DatabaseAPI-v0.1.0.mcdr) |
 | [DatabaseAPI-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.0) | 0.1.0 | 2022/06/30 04:17:28 | 1.13KB | 0 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.0/DatabaseAPI-v0.1.0.mcdr) |
 

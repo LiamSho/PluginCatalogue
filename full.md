@@ -701,9 +701,9 @@ A plugin to check cpu temp regularly.
 
 - Plugin ID: `database_api`
 - Plugin Name: DatabaseAPI
-- Version: 0.1.0
+- Version: 0.1.1
   - Metadata version: 0.1.0
-  - Release version: 0.1.0
+  - Release version: 0.1.1
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
@@ -719,6 +719,7 @@ A plugin to check cpu temp regularly.
 
 | Python package | Requirement |
 | --- | --- |
+| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
 
 ### Introduction
 
@@ -763,6 +764,7 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [DatabaseAPI-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.1) | 0.1.1 | 2022/06/30 06:19:39 | 1.25KB | 0 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.1/DatabaseAPI-v0.1.0.mcdr) |
 | [DatabaseAPI-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.0) | 0.1.0 | 2022/06/30 04:17:28 | 1.13KB | 0 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.0/DatabaseAPI-v0.1.0.mcdr) |
 
 ## daycount_nbt
