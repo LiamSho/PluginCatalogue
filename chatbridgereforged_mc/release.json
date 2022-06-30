@@ -1,47 +1,47 @@
 {
   "schema_version": 2,
   "id": "chatbridgereforged_mc",
-  "latest_version": "0.2.2",
-  "etag": "\"27f3fb4d4ce3cc58b4a7fa3e6babe948906cc2c672a241773eefc6bf81214c78\"",
+  "latest_version": "0.2.3",
+  "etag": "\"79e7ade996d13105d52e058f7127eaa8b41c9b800acf759f762f253d8150babf\"",
   "releases": [
     {
-      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.2",
-      "name": "0.2.2-release",
-      "tag_name": "0.2.2",
-      "created_at": "2022-04-20T14:38:37Z",
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.3",
+      "name": "0.2.3-release",
+      "tag_name": "0.2.3",
+      "created_at": "2022-06-30T05:42:04Z",
       "assets": [
         {
           "name": "ChatBridgeReforged_cqhttp.py",
-          "size": 39003,
-          "download_count": 15,
-          "created_at": "2022-04-20T14:40:43Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_cqhttp.py"
+          "size": 38978,
+          "download_count": 0,
+          "created_at": "2022-06-30T05:43:59Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.3/ChatBridgeReforged_cqhttp.py"
         },
         {
           "name": "ChatBridgeReforged_MC.py",
-          "size": 30583,
-          "download_count": 14,
-          "created_at": "2022-04-20T14:40:44Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_MC.py"
+          "size": 30685,
+          "download_count": 0,
+          "created_at": "2022-06-30T05:43:55Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.3/ChatBridgeReforged_MC.py"
         },
         {
           "name": "ChatBridgeReforged_MC.pyz",
-          "size": 49100,
-          "download_count": 18,
-          "created_at": "2022-04-20T14:40:40Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_MC.pyz"
+          "size": 49075,
+          "download_count": 0,
+          "created_at": "2022-06-30T05:43:57Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.3/ChatBridgeReforged_MC.pyz"
         },
         {
           "name": "ChatBridgeReforged_Server.zip",
-          "size": 35589,
-          "download_count": 23,
-          "created_at": "2022-04-20T14:40:42Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_Server.zip"
+          "size": 35613,
+          "download_count": 0,
+          "created_at": "2022-06-30T05:43:58Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.3/ChatBridgeReforged_Server.zip"
         }
       ],
-      "description": "# 0.2.0\r\n## Description\r\nAdd new event on_player_joined and on_player_left\r\nNew cqhttp client\r\n\r\n## Changes\r\n### Server Change\r\n- New utility\r\n  - Rtext\r\n\r\n### BUGFIX and Improvements\r\n- better logging processing\r\n\r\n# 0.2.1\r\n### BUGFIX and Improvements\r\n- FIX BUG of CBR sever can't reply\r\n\r\n# 0.2.2\r\n### BUGFIX and Improvements\r\n- FIX #7 ",
+      "description": "# 0.2.0\r\n## Description\r\nAdd new event on_player_joined and on_player_left\r\nNew cqhttp client\r\n\r\n## Changes\r\n### Server Change\r\n- New utility\r\n  - Rtext\r\n\r\n### BUGFIX and Improvements\r\n- better logging processing\r\n\r\n# 0.2.1\r\n### BUGFIX and Improvements\r\n- FIXED BUG of CBR sever can't reply\r\n\r\n# 0.2.2\r\n### BUGFIX and Improvements\r\n- FIXED #7 \r\n\r\n# 0.2.3\r\n### BUGFIX and Improvements\r\n- FIXED #11 \r\n- FIXED client non-string object log exception\r\n- FIXED say command in server, and patch some debug message\r\n- FIXED past help messages won't delete after reload\r\n- FIXED empty password ",
       "prerelease": false,
-      "parsed_version": "0.2.2"
+      "parsed_version": "0.2.3"
     },
     {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1",
