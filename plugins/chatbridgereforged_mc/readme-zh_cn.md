@@ -9,7 +9,7 @@
 - 插件 ID: `chatbridgereforged_mc`
 - 插件名: ChatBridgeReforged_MC
 - 版本: 0.2.2
-  - 元数据版本: 0.2.2-dev027
+  - 元数据版本: 0.2.3-dev028
   - 发布版本: 0.2.2
 - 总下载量: 40
 - 作者: [Ricky](https://github.com/R1ckyH)
