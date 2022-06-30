@@ -10,7 +10,9 @@
     "Andy Zhang"
   ],
   "dependencies": {},
-  "requirements": [],
+  "requirements": [
+    "sqlalchemy"
+  ],
   "description": {
     "en_us": "Database API to access database",
     "zh_cn": "访问数据库 API"
