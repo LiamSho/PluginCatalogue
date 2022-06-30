@@ -9,7 +9,7 @@
 - 插件 ID: `info`
 - 插件名: Info
 - 版本: 0.0.2
-  - 元数据版本: 0.0.2
+  - 元数据版本: 0.1.0
   - 发布版本: 0.0.2
 - 总下载量: 1687
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)

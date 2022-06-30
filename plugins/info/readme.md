@@ -9,7 +9,7 @@
 - Plugin ID: `info`
 - Plugin Name: Info
 - Version: 0.0.2
-  - Metadata version: 0.0.2
+  - Metadata version: 0.1.0
   - Release version: 0.0.2
 - Total downloads: 1687
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
