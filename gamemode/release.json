@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "gamemode",
+  "latest_version": "0.1.0",
   "etag": "\"8aac5601e2246f411b6fc0892fedde3f3a51874cca00c2a08f19bb4cd30de20b\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "0.1.0"
     }
-  ],
-  "latest_version": "0.1.0"
+  ]
 }
