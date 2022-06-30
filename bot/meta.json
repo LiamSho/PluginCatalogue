@@ -1,10 +1,11 @@
 {
-  "id": "uuid_api",
-  "name": "UUIDAPI",
-  "version": "0.1.1",
+  "id": "bot",
+  "name": "Bot",
+  "version": "0.1.0",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "labels": [
-    "api"
+    "tool",
+    "management"
   ],
   "authors": [
     "Andy Zhang"
@@ -12,7 +13,7 @@
   "dependencies": {},
   "requirements": [],
   "description": {
-    "en_us": "UUID API",
-    "zh_cn": "UUID API"
+    "en_us": "Manage carpet bot",
+    "zh_cn": "管理地毯假人"
   }
 }

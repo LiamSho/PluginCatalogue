@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "bot",
+  "etag": "\"ce64de8925f0557b4646ad4d2394d8d033c528305d5cf26599a5e689ffc7a3b5\"",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v0.1.0",
+      "name": "bot: v0.1.0",
+      "tag_name": "bot-v0.1.0",
+      "created_at": "2022-06-30T12:09:38Z",
+      "assets": [
+        {
+          "name": "Bot-v0.1.0.mcdr",
+          "size": 2014,
+          "download_count": 0,
+          "created_at": "2022-06-30T12:10:23Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v0.1.0/Bot-v0.1.0.mcdr"
+        }
+      ],
+      "description": "## 0.1.0 (2022-06-30)\n\n\n### Features\n\n* **bot:** ✨ support MCDR 2.0 ([a8db9a7](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/a8db9a7dabd23011ab9eed81c0ca1429369581ec))",
+      "prerelease": false,
+      "parsed_version": "0.1.0"
+    }
+  ],
+  "latest_version": "0.1.0"
+}
