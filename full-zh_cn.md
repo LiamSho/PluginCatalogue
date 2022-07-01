@@ -915,7 +915,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 1545
+- 总下载量: 1547
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -942,7 +942,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1545 | [下载](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
+| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1547 | [下载](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
 ## delayexe
 
@@ -1233,7 +1233,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 0.1.0
   - 元数据版本: 0.1.0
   - 发布版本: 0.1.0
-- 总下载量: 1692
+- 总下载量: 1694
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -1290,7 +1290,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.1.0) | 0.1.0 | 2022/06/30 05:59:40 | 2.1KB | 5 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.1.0/Info-v0.1.0.mcdr) |
+| [Info-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.1.0) | 0.1.0 | 2022/06/30 05:59:40 | 2.1KB | 7 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.1.0/Info-v0.1.0.mcdr) |
 | [Info-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1687 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 
 ## join_motd
@@ -1302,7 +1302,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 1882
+- 总下载量: 1884
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/joinMOTD
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -1328,7 +1328,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 82 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
+| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 84 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1800 | [下载](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
@@ -1340,7 +1340,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 3.1.3
   - 元数据版本: 3.1.3
   - 发布版本: 3.1.3
-- 总下载量: 2748
+- 总下载量: 2750
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/joinMOTD_Plus
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -1376,7 +1376,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [join_motd_plus_3.1.3.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1.3) | 3.1.3 | 2022/02/09 09:35:23 | 4.18KB | 200 | [下载](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.3/join_motd_plus_3.1.3.mcdr) |
+| [join_motd_plus_3.1.3.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.1.3) | 3.1.3 | 2022/02/09 09:35:23 | 4.18KB | 202 | [下载](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.1.3/join_motd_plus_3.1.3.mcdr) |
 | [join_motd_plus_3.0.1.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.1) | 3.0.1 | 2021/09/18 09:20:41 | 4.09KB | 608 | [下载](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.1/join_motd_plus_3.0.1.mcdr) |
 | [join_motd_plus_3.0.0.mcdr](https://github.com/alex3236/joinMOTD_Plus/releases/tag/v3.0.0) | 3.0.0 | 2021/08/25 03:32:07 | 3.19KB | 1347 | [下载](https://github.com/alex3236/joinMOTD_Plus/releases/download/v3.0.0/join_motd_plus_3.0.0.mcdr) |
 
@@ -1672,7 +1672,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.1.0
   - 元数据版本: 1.1.1
   - 发布版本: 1.1.0
-- 总下载量: 2822
+- 总下载量: 2824
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Seen
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1701,7 +1701,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Seen-v1.1.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.0) | 1.1.0 | 2021/08/22 13:01:56 | 9.77KB | 1428 | [下载](https://github.com/TISUnion/Seen/releases/download/1.1.0/Seen-v1.1.0.mcdr) |
+| [Seen-v1.1.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.0) | 1.1.0 | 2021/08/22 13:01:56 | 9.77KB | 1430 | [下载](https://github.com/TISUnion/Seen/releases/download/1.1.0/Seen-v1.1.0.mcdr) |
 | [Seen-v1.1.1.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.1) | 1.1.1 | 2021/08/27 06:13:23 | 9.78KB | 1394 | [下载](https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr) |
 
 ## mcd_task
@@ -1713,7 +1713,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 2.3.1
   - 元数据版本: 2.3.1+build.63
   - 发布版本: 2.3.1
-- 总下载量: 2873
+- 总下载量: 2875
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1740,7 +1740,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Task-v2.3.1+build.63.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.1) | 2.3.1 | 2022/06/26 03:10:09 | 18.57KB | 6 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.1/Task-v2.3.1%2Bbuild.63.mcdr) |
+| [Task-v2.3.1+build.63.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.1) | 2.3.1 | 2022/06/26 03:10:09 | 18.57KB | 8 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.1/Task-v2.3.1%2Bbuild.63.mcdr) |
 | [Task-v2.3.0+build.62.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.0) | 2.3.0 | 2022/06/25 12:29:38 | 18.55KB | 4 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.0/Task-v2.3.0%2Bbuild.62.mcdr) |
 | [Task-v2.2.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.2.0) | 2.2.0 | 2022/05/18 06:15:18 | 18.17KB | 30 | [下载](https://github.com/TISUnion/Task/releases/download/2.2.0/Task-v2.2.0.mcdr) |
 
