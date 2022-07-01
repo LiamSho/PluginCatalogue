@@ -9,7 +9,7 @@
 - Plugin ID: `gamemode`
 - Plugin Name: Gamemode
 - Version: 0.1.0
-  - Metadata version: 0.1.0
+  - Metadata version: 0.1.1
   - Release version: 0.1.0
 - Total downloads: 3
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -21,7 +21,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4 |
 
 ### Requirements
 

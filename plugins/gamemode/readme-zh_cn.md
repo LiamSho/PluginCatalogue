@@ -9,7 +9,7 @@
 - 插件 ID: `gamemode`
 - 插件名: Gamemode
 - 版本: 0.1.0
-  - 元数据版本: 0.1.0
+  - 元数据版本: 0.1.1
   - 发布版本: 0.1.0
 - 总下载量: 3
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -21,7 +21,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4 |
 
 ### 包依赖
 

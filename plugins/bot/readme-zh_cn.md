@@ -9,18 +9,19 @@
 - 插件 ID: `bot`
 - 插件名: Bot
 - 版本: 0.1.0
-  - 元数据版本: 0.1.0
+  - 元数据版本: 0.2.0
   - 发布版本: 0.1.0
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 管理地毯假人
+- 描述: 管理地毯模组假人
 
 ### 插件依赖
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4 |
 
 ### 包依赖
 
@@ -31,7 +32,7 @@
 
 # Bot
 
-> 地毯模组假人管理与放置
+> 管理地毯模组假人
 
 ## 使用方法
 

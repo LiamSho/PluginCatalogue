@@ -9,18 +9,19 @@
 - Plugin ID: `bot`
 - Plugin Name: Bot
 - Version: 0.1.0
-  - Metadata version: 0.1.0
+  - Metadata version: 0.2.0
   - Release version: 0.1.0
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
-- Description: Manage carpet bot
+- Description: Manage carpet bots
 
 ### Dependencies
 
 | Plugin ID | Requirement |
 | --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4 |
 
 ### Requirements
 
@@ -31,7 +32,7 @@
 
 # Bot
 
-> 地毯模组假人管理与放置
+> 管理地毯模组假人
 
 ## 使用方法
 
