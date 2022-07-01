@@ -1,7 +1,7 @@
 {
   "id": "gamemode",
   "name": "Gamemode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "labels": [
     "tool"
@@ -10,7 +10,7 @@
     "Andy Zhang"
   ],
   "dependencies": {
-    "minecraft_data_api": ">=1.4.1"
+    "minecraft_data_api": ">=1.4"
   },
   "requirements": [],
   "description": {
