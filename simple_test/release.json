@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "simple_test",
   "latest_version": "3.0.0",
-  "etag": "\"a1da79b75c07b96d0c2f6f856935ee8cc213fdde90d73c4c2c982796ea5aaa51\"",
+  "etag": "\"2ae5a527a097ae72d870ae33f6d85b0afcf434372e4903fc700efbfc80d8bc41\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/simple_test/releases/tag/v3.0.0",
@@ -13,7 +13,7 @@
         {
           "name": "simple_test-3.0.0.mcdr",
           "size": 6608,
-          "download_count": 109,
+          "download_count": 110,
           "created_at": "2021-10-25T09:03:07Z",
           "browser_download_url": "https://github.com/R1ckyH/simple_test/releases/download/v3.0.0/simple_test-3.0.0.mcdr"
         }
