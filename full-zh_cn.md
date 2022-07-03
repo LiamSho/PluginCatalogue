@@ -3176,7 +3176,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 插件 ID: `where_is`
 - 插件名: Where Is
 - 版本: 1.1.0
-  - 元数据版本: 1.1.0+build.2
+  - 元数据版本: 2.0.0+build.3
   - 发布版本: 1.1.0
 - 总下载量: 343
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)

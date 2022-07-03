@@ -3108,7 +3108,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Plugin ID: `where_is`
 - Plugin Name: Where Is
 - Version: 1.1.0
-  - Metadata version: 1.1.0+build.2
+  - Metadata version: 2.0.0+build.3
   - Release version: 1.1.0
 - Total downloads: 343
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
