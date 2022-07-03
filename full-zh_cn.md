@@ -371,7 +371,7 @@
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 178
+- 总下载量: 179
 - 作者: [DancingSnow0517](https://github.com/DancingSnow0517)
 - 仓库: https://github.com/DancingSnow0517/Bot_Manager
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md)
@@ -400,7 +400,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 178 | [下载](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
+| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 179 | [下载](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
 
@@ -411,7 +411,7 @@
 - 版本: 0.3.0
   - 元数据版本: 0.3.0
   - 发布版本: 0.3.0
-- 总下载量: 1448
+- 总下载量: 1449
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -440,7 +440,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1448 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1449 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
 ## carpet_tick
 
@@ -1877,7 +1877,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.4.1
   - 元数据版本: 1.4.1
   - 发布版本: 1.4.1
-- 总下载量: 2580
+- 总下载量: 2581
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
@@ -1907,7 +1907,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2580 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2581 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -3085,7 +3085,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 2055
+- 总下载量: 2056
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -3112,7 +3112,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 291 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
+| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 292 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 | [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1764 | [下载](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## uuid_api
@@ -3258,7 +3258,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 版本: 0.1.0
   - 元数据版本: 0.1.0
   - 发布版本: 0.1.0
-- 总下载量: 39
+- 总下载量: 40
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/MCDReforged/WorldCopier
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -3284,7 +3284,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 39 | [下载](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
+| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 40 | [下载](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
 
 ## xiaohuihuis_big_pie
 

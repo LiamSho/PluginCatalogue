@@ -371,7 +371,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 178
+- Total downloads: 179
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
@@ -400,7 +400,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 178 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
+| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 179 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
 
@@ -411,7 +411,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 0.3.0
   - Metadata version: 0.3.0
   - Release version: 0.3.0
-- Total downloads: 1448
+- Total downloads: 1449
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -440,7 +440,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1448 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1449 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
 ## carpet_tick
 
@@ -1876,7 +1876,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 2580
+- Total downloads: 2581
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -1906,7 +1906,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2580 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2581 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -3017,7 +3017,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 2055
+- Total downloads: 2056
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -3044,7 +3044,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 291 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
+| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 292 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 | [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1764 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## uuid_api
@@ -3190,7 +3190,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 - Version: 0.1.0
   - Metadata version: 0.1.0
   - Release version: 0.1.0
-- Total downloads: 39
+- Total downloads: 40
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/WorldCopier
 - Labels: [`Management`](/labels/management/readme.md)
@@ -3216,7 +3216,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 39 | [Download](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
+| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 40 | [Download](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
 
 ## xiaohuihuis_big_pie
 
