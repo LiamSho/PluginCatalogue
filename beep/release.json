@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "beep",
   "latest_version": "1.1.0",
-  "etag": "\"adfc8eb51b5e27122189a8095d7013183ac953bd5e2265c5e85dccb5ebe706d3\"",
+  "etag": "\"a2aaada5dc9b0aba5ca2d913218f4014457be8d7ec0a4b819587f594460c34ad\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Beep/releases/tag/v1.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "Beep-v1.1.0.mcdr",
           "size": 1777,
-          "download_count": 1939,
+          "download_count": 1940,
           "created_at": "2021-08-26T14:01:49Z",
           "browser_download_url": "https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr"
         }
