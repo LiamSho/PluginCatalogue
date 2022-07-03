@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "advanced_calculator",
   "latest_version": "0.1.0",
-  "etag": "\"ec5e9f0db95d220d5a57da1ab4a9135d8144cfae5efee6d06189e8f76df0e2c9\"",
+  "etag": "\"cfc917e5a37c9445d6b741a3d41d8d7b16c93b5edb802afef63c67d53cd949de\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-0.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "AdvancedCalculator-v0.1.0.mcdr",
           "size": 2189,
-          "download_count": 94,
+          "download_count": 96,
           "created_at": "2022-05-21T15:09:14Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-0.1.0/AdvancedCalculator-v0.1.0.mcdr"
         }
