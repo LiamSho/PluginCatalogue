@@ -9,13 +9,13 @@
 - 插件 ID: `where_is`
 - 插件名: Where Is
 - 版本: 2.0.0
-  - 元数据版本: 2.0.0+build.3
+  - 元数据版本: 2.0.1+build.4
   - 发布版本: 2.0.0
 - 总下载量: 343
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: 查询其他玩家的坐标
+- 描述: 查询玩家的坐标
 
 ### 插件依赖
 

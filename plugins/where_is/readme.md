@@ -9,13 +9,13 @@
 - Plugin ID: `where_is`
 - Plugin Name: Where Is
 - Version: 2.0.0
-  - Metadata version: 2.0.0+build.3
+  - Metadata version: 2.0.1+build.4
   - Release version: 2.0.0
 - Total downloads: 343
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Query other players' coordinates
+- Description: Query players' coordinates
 
 ### Dependencies
 
