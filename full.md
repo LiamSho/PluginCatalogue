@@ -2431,7 +2431,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 111
+- Total downloads: 112
 - Authors: [ShiinaRikka](https://github.com/lky1433223)
 - Repository: https://github.com/lky1433223/QQrobot
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2458,7 +2458,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QQrobot-v1.0.1.mcdr](https://github.com/lky1433223/QQrobot/releases/tag/v1.0.1) | 1.0.1 | 2022/02/10 15:38:12 | 5.05KB | 111 | [Download](https://github.com/lky1433223/QQrobot/releases/download/v1.0.1/QQrobot-v1.0.1.mcdr) |
+| [QQrobot-v1.0.1.mcdr](https://github.com/lky1433223/QQrobot/releases/tag/v1.0.1) | 1.0.1 | 2022/02/10 15:38:12 | 5.05KB | 112 | [Download](https://github.com/lky1433223/QQrobot/releases/download/v1.0.1/QQrobot-v1.0.1.mcdr) |
 
 ## quick_backup_multi
 
@@ -2596,7 +2596,7 @@ A plugin for run command quickly
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 1112
+- Total downloads: 1113
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2623,7 +2623,7 @@ Allow players to clone non-renewable items.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 1112 | [Download](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
+| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 1113 | [Download](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
 
 ## run_some_commands
 
@@ -2976,7 +2976,7 @@ testing basic server problem.
 - Version: 7.5.1
   - Metadata version: 7.5.1
   - Release version: 7.5.1
-- Total downloads: 6056
+- Total downloads: 6057
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
@@ -3004,7 +3004,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 123 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
+| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 124 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
 | [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 118 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
 | [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 71 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
 
