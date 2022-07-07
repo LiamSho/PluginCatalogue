@@ -11,7 +11,7 @@
 - 版本: 0.1.0
   - 元数据版本: 0.1.1
   - 发布版本: 0.1.0
-- 总下载量: 10
+- 总下载量: 11
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -84,5 +84,5 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Gamemode-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0) | 0.1.0 | 2022/06/30 09:29:07 | 3.02KB | 10 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr) |
+| [Gamemode-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0) | 0.1.0 | 2022/06/30 09:29:07 | 3.02KB | 11 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr) |
 
