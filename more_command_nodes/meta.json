@@ -1,7 +1,7 @@
 {
   "id": "more_command_nodes",
   "name": "MoreCommandNodes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "labels": [
     "api"
