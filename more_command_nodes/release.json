@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "more_command_nodes",
+  "etag": "\"c2d1f7401cf7c864b4ec1be2d250de387f0d4dbf2534324b8c29619ee2d632cc\"",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.0",
+      "name": "more_command_nodes: v1.0.0",
+      "tag_name": "more_command_nodes-v1.0.0",
+      "created_at": "2022-07-08T07:27:50Z",
+      "assets": [
+        {
+          "name": "MoreCommandNodes-v1.0.0.mcdr",
+          "size": 1371,
+          "download_count": 2,
+          "created_at": "2022-07-08T07:28:27Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.0/MoreCommandNodes-v1.0.0.mcdr"
+        }
+      ],
+      "description": "## 1.0.0 (2022-07-08)\n\n\n### Features\n\n* **more_command_nodes:** 🎉 release MoreCommandNodes ([4aefc2b](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/4aefc2b728482040a90200cd9e9c5612ed9726a5))",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ],
+  "latest_version": "1.0.0"
+}
