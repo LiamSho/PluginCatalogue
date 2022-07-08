@@ -1,7 +1,7 @@
 {
   "id": "player_manager",
   "name": "Player Manager",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "https://github.com/PRcT-Server/MCDRPlugins",
   "labels": [
     "tool",
