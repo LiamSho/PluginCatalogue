@@ -1,7 +1,26 @@
 {
   "schema_version": 2,
   "id": "player_manager",
-  "etag": "\"524558cf92d49acf9230dd4a48f543705ee30d676ce7cf4d3e7a32114851e646\"",
-  "releases": [],
-  "latest_version": "N/A"
+  "latest_version": "1.2.0",
+  "etag": "\"cdb5640dc4b8562fa1aaf60326be4bfb0ff2a208a7bf0b6175508049d3310c71\"",
+  "releases": [
+    {
+      "url": "https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.0",
+      "name": "PlayerManager-v1.2.0",
+      "tag_name": "player_manager-v1.2.0",
+      "created_at": "2022-07-08T00:53:24Z",
+      "assets": [
+        {
+          "name": "PlayerManager.mcdr",
+          "size": 5509,
+          "download_count": 0,
+          "created_at": "2022-07-08T00:56:25Z",
+          "browser_download_url": "https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.0/PlayerManager.mcdr"
+        }
+      ],
+      "description": "重构",
+      "prerelease": false,
+      "parsed_version": "1.2.0"
+    }
+  ]
 }
