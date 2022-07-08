@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 74
+Plugin Amount: 75
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -63,6 +63,7 @@ Plugin Amount: 74
 | [MirrorServerReforged](/plugins/mirror_server_reforged/readme.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+. | 2022/02/11 | [`Management`](/labels/management/readme.md) |
 | [Mirror Server Sync](/plugins/mirror_server_sync/readme.md) | [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile) | A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers | 2022/05/18 | [`Management`](/labels/management/readme.md) |
 | [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A plugin to sync survival server world to the mirror server | 2022/06/26 | [`Management`](/labels/management/readme.md) |
+| [MoreCommandNodes](/plugins/more_command_nodes/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | More command nodes | 2022/07/08 | [`API`](/labels/api/readme.md) |
 | [Mount](/plugins/mount/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | Mount different minecraft server into a mcdr server, with overwritten properties! | 2022/01/20 | [`Management`](/labels/management/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | 2022/02/02 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [multi_whitelist](/plugins/multi_whitelist/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin can control whitelist with multi servers. | 2021/10/26 | [`Management`](/labels/management/readme.md) |

@@ -6,7 +6,7 @@
 
 Plugin Index with label `API`
 
-Plugin Amount: 11
+Plugin Amount: 12
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -17,6 +17,7 @@ Plugin Amount: 11
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A api plugin to get the Minecraft server version | 2022/04/05 | [`API`](/labels/api/readme.md) |
+| [MoreCommandNodes](/plugins/more_command_nodes/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | More command nodes | 2022/07/08 | [`API`](/labels/api/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | 2022/02/02 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [OneBot API](/plugins/onebot_api/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | OneBot in MCDReforged | 2021/09/06 | [`API`](/labels/api/readme.md) |
 | [UUIDAPI](/plugins/uuid_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2022/06/30 | [`API`](/labels/api/readme.md) |

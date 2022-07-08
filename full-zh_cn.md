@@ -2191,6 +2191,81 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 | [MirrorSyncReforged-v1.2.1.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1) | 1.2.1 | 2022/04/07 09:33:53 | 5.03KB | 51 | [下载](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr) |
 | [MirrorSyncReforged-v1.2.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.0) | 1.2.0 | 2022/04/07 07:29:57 | 4.99KB | 1 | [下载](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.0/MirrorSyncReforged-v1.2.0.mcdr) |
 
+## more_command_nodes
+
+### 基本信息
+
+- 插件 ID: `more_command_nodes`
+- 插件名: MoreCommandNodes
+- 版本: 1.0.0
+  - 元数据版本: 1.0.0
+  - 发布版本: 1.0.0
+- 总下载量: 2
+- 作者: [Andy Zhang](https://github.com/AnzhiZhang)
+- 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 标签: [`API`](/labels/api/readme-zh_cn.md)
+- 描述: 更多的指令节点
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+
+### 介绍
+
+# MoreCommandNodes
+
+> 更多指令节点
+
+如果您想要添加更多自定义节点，欢迎提交 PR！
+
+## 节点列表
+
+```mermaid
+classDiagram
+    class FloatsArgument
+    class Position
+    class Facing
+    class EnumeratedText
+
+    FloatsArgument : +__init__(String name, int number)
+    FloatsArgument <|-- Position
+    Position : +__init__(String name)
+    FloatsArgument <|-- Facing
+    Facing : +__init__(String name)
+
+    EnumeratedText : +__init__(String name, Type[Enum] enum_class)
+```
+
+### FloatsArgument
+
+连续的多个浮点数节点。
+
+### Position
+
+坐标节点，连续的三个浮点数。
+
+### Facing
+
+朝向节点，连续的两个浮点数。
+
+### EnumeratedText
+
+与 MCDR 的 Enumeration 类似，但是使用 Enum 的值而不是名称作为节点文本。
+
+### 下载
+
+> :warning: 注意：使用插件之前，先阅读仓库中的 README。
+
+| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [MoreCommandNodes-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.0) | 1.0.0 | 2022/07/08 07:28:27 | 1.34KB | 2 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.0/MoreCommandNodes-v1.0.0.mcdr) |
+
 ## mount
 
 ### 基本信息
