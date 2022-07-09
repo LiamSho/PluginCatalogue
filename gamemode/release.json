@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "gamemode",
   "latest_version": "0.1.0",
-  "etag": "\"afcee8e48602f6ddef2afa9ea739c46e5d51d4559e64e066573254d8f024aa41\"",
+  "etag": "\"4514b8e2d1276d06cea22116bfe117b0879fc715358ab407e90cd5910532b12c\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0",
