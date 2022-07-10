@@ -1,27 +1,9 @@
 {
   "schema_version": 2,
   "id": "uuid_api",
-  "latest_version": "0.1.1",
-  "etag": "\"2e76c07fb91ff2ff61441dc42ee7fd71d02cc5e5a633f0e5f79e547a1f0484b0\"",
+  "latest_version": "0.1.0",
+  "etag": "\"d50638dc1853fdb7d9f5163ac7204d040e2907024f278d57e9ba0ad96c2f4658\"",
   "releases": [
-    {
-      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/uuid_api-v0.1.1",
-      "name": "uuid_api: v0.1.1",
-      "tag_name": "uuid_api-v0.1.1",
-      "created_at": "2022-06-30T12:08:05Z",
-      "assets": [
-        {
-          "name": "UUIDAPI-v0.1.1.mcdr",
-          "size": 1444,
-          "download_count": 4,
-          "created_at": "2022-06-30T12:08:40Z",
-          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/uuid_api-v0.1.1/UUIDAPI-v0.1.1.mcdr"
-        }
-      ],
-      "description": "## [0.1.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/uuid_api-v0.1.0...uuid_api-v0.1.1) (2022-06-30)\n\n\n### Bug Fixes\n\n* **uuid_api:** 🐛 fix import path ([ec63aa7](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/ec63aa74b3efa78d55c8700595aa32186054116d))",
-      "prerelease": false,
-      "parsed_version": "0.1.1"
-    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/uuid_api-v0.1.0",
       "name": "uuid_api: v0.1.0",
