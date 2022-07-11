@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "offline_whitelist",
+  "latest_version": "0.1.4",
   "etag": "\"9f6163002f1e3f2dac32c1f41be92985f67df24b7fda450d9b215fbefacda8ea\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "0.1.4"
     }
-  ],
-  "latest_version": "0.1.4"
+  ]
 }
