@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "where_is",
   "latest_version": "2.0.1",
-  "etag": "\"243d3b09a609d0ac37a6106322f1e3fc95a4a9aa5b302d6a6571f65c28baa122\"",
+  "etag": "\"ab6ea4b3621f2e5e1f528d112d30f08328127eb5112c7077ac29660428f1fced\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1",
@@ -13,7 +13,7 @@
         {
           "name": "WhereIs-v2.0.1+build.4.mcdr",
           "size": 19933,
-          "download_count": 18,
+          "download_count": 20,
           "created_at": "2022-07-04T11:22:55Z",
           "browser_download_url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr"
         }
@@ -21,6 +21,24 @@
       "description": "Fixed a configuration problem that enable items are not effective.\r\n\r\nDO NOT FORGET TO BACK YOUR CONFIGURATION UP BEFORE YOU UPATE TO 2.0 AND LATER VERSION\r\n[(See the known issue of this release)](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0)\r\n\r\n**Full Changelog**: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/compare/2.0.0...2.0.1",
       "prerelease": false,
       "parsed_version": "2.0.1"
+    },
+    {
+      "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0",
+      "name": "2.0.0",
+      "tag_name": "2.0.0",
+      "created_at": "2022-07-03T09:18:43Z",
+      "assets": [
+        {
+          "name": "WhereIs-v2.0.0+build.3.mcdr",
+          "size": 19936,
+          "download_count": 3,
+          "created_at": "2022-07-03T09:33:15Z",
+          "browser_download_url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr"
+        }
+      ],
+      "description": "# Feature updates\r\n\r\n1. New function: `!!here`. The same as [Here](https://github.com/TISUnion/Here)\r\n2. Now the dimension names are allow to be configured in configuration. Using these translation for vanilla dimensions requires `mcdr` mode for `dimension_translation_mode`. Non-vanilla dimensions are also supported and `mcdr` mode is not required for these dimensions (`minecraft` mode can't translate non-vanilla dimensions so these dimensions will always be tranlated with `mcdr` mode).\r\n\r\n# Known issue \r\nUpdating to this version will make all your configuration lost. Here're 2 ways to avoid this lost:\r\n1. Back your configuration up and configure after updating.\r\n2. Configure `command_prefix` and `highlight_time` item with new values before updating.\r\n\r\n**Full Changelog**: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/compare/1.1.0...2.0.0",
+      "prerelease": false,
+      "parsed_version": "2.0.0"
     },
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.1.0",
