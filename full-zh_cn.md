@@ -1389,7 +1389,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 2.0.1
   - 元数据版本: 2.1.1
   - 发布版本: 2.0.1
-- 总下载量: 62
+- 总下载量: 46
 - 作者: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - 仓库: https://github.com/HuajiMURsMC/jrrp
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1419,7 +1419,6 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
 | [Jrrp-v2.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/2.0.1) | 2.0.1 | 2022/04/12 02:53:46 | 14.0KB | 46 | [下载](https://github.com/HuajiMURsMC/jrrp/releases/download/2.0.1/Jrrp-v2.0.1.mcdr) |
-| [Jrrp-v1.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/1.0.1) | 1.0.1 | 2022/03/12 02:58:35 | 13.59KB | 16 | [下载](https://github.com/HuajiMURsMC/jrrp/releases/download/1.0.1/Jrrp-v1.0.1.mcdr) |
 
 ## jrrps
 
