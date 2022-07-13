@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 76
+插件数量: 77
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -83,6 +83,7 @@
 | [Simple OP](/plugins/simple_op/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op 以获取op, !!restart 以重启服务器 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple OP Modified](/plugins/simple_op_modified/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | !!op to get op, !!restart to restart | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | 2021/10/25 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [SimpleTranslator](/plugins/simple_translator/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [SmartBackup](/plugins/smart_backup/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个多功能Minecraft存档备份插件 | 2022/05/11 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [SmartServerTime](/plugins/smart_servertime/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft自动停起服务器插件 | 2022/05/11 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang) | 开关服助手 | 2022/06/30 | [`管理`](/labels/management/readme-zh_cn.md) |

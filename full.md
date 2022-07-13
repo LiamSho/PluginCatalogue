@@ -1389,7 +1389,7 @@ Features:
 - Version: 2.0.1
   - Metadata version: 2.1.1
   - Release version: 2.0.1
-- Total downloads: 46
+- Total downloads: 62
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/jrrp
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1419,6 +1419,7 @@ Features:
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [Jrrp-v2.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/2.0.1) | 2.0.1 | 2022/04/12 02:53:46 | 14.0KB | 46 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/2.0.1/Jrrp-v2.0.1.mcdr) |
+| [Jrrp-v1.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/1.0.1) | 1.0.1 | 2022/03/12 02:58:35 | 13.59KB | 16 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/1.0.1/Jrrp-v1.0.1.mcdr) |
 
 ## jrrps
 
@@ -2976,6 +2977,48 @@ testing basic server problem.
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [simple_test-3.0.0.mcdr](https://github.com/R1ckyH/simple_test/releases/tag/v3.0.0) | 3.0.0 | 2021/10/25 09:03:07 | 6.45KB | 110 | [Download](https://github.com/R1ckyH/simple_test/releases/download/v3.0.0/simple_test-3.0.0.mcdr) |
+
+## simple_translator
+
+### Basic Information
+
+- Plugin ID: `simple_translator`
+- Plugin Name: SimpleTranslator
+- Version: 1.3.1
+  - Metadata version: 1.3.1
+  - Release version: 1.3.1
+- Total downloads: 2
+- Authors: [skuzow](https://github.com/skuzow)
+- Repository: https://github.com/skuzow/simple-translator
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: In-game translator
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged ](https://pypi.org/project/mcdreforged ) | \>= 2.0.0 |
+| [googletrans ](https://pypi.org/project/googletrans ) | == 4.0.0rc1 |
+
+### Introduction
+
+*None*
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [SimpleTranslator-v1.3.1.mcdr](https://github.com/skuzow/simple-translator/releases/tag/v1.3.1) | 1.3.1 | 2022/07/12 11:30:33 | 13.5KB | 0 | [Download](https://github.com/skuzow/simple-translator/releases/download/v1.3.1/SimpleTranslator-v1.3.1.mcdr) |
+| [SimpleTranslator-v1.3.0.mcdr](https://github.com/skuzow/simple-translator/releases/tag/v1.3.0) | 1.3.0 | 2022/07/02 21:09:53 | 13.5KB | 0 | [Download](https://github.com/skuzow/simple-translator/releases/download/v1.3.0/SimpleTranslator-v1.3.0.mcdr) |
+| [Translator-v1.2.0.mcdr](https://github.com/skuzow/simple-translator/releases/tag/v1.2.0) | 1.2.0 | 2022/03/04 06:19:49 | 13.45KB | 2 | [Download](https://github.com/skuzow/simple-translator/releases/download/v1.2.0/Translator-v1.2.0.mcdr) |
 
 ## smart_backup
 

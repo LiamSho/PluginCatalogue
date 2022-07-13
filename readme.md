@@ -13,7 +13,7 @@ Full plugin information document [here](./full.md)
 
 -------
 
-Plugin Amount: 76
+Plugin Amount: 77
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -83,6 +83,7 @@ Plugin Amount: 76
 | [Simple OP](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op to get op, !!restart to restart the server | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
 | [Simple OP Modified](/plugins/simple_op_modified/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | !!op to get op, !!restart to restart | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
+| [SimpleTranslator](/plugins/simple_translator/readme.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`Tool`](/labels/tool/readme.md) |
 | [SmartBackup](/plugins/smart_backup/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Backup Plugin | 2022/05/11 | [`Management`](/labels/management/readme.md) |
 | [SmartServerTime](/plugins/smart_servertime/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Auto Start/Stop Plugin | 2022/05/11 | [`Management`](/labels/management/readme.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang) | Start and stop server helper | 2022/06/30 | [`Management`](/labels/management/readme.md) |
