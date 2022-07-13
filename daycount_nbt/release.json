@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "daycount_nbt",
   "latest_version": "2.2.0",
-  "etag": "\"bcaed114ec4b71a3ad13e9b651aecb13219b2ff73ee0d22756142f0b1f1beffa\"",
+  "etag": "\"1eb895204ea23f6e0c4c13b5074533b0bd66ce15eea730615a0153ab5140624f\"",
   "releases": [
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.0",
@@ -57,24 +57,6 @@
       "description": "## 🔨 问题修复\r\n- MCDR 至少升级至 2.2.0，避免文件编码导致的配置文件问题",
       "prerelease": false,
       "parsed_version": "2.1"
-    },
-    {
-      "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.2",
-      "name": "2.0.2",
-      "tag_name": "v2.0.2",
-      "created_at": "2021-09-10T09:28:38Z",
-      "assets": [
-        {
-          "name": "DayCountNBT-v2.0.2.mcdr",
-          "size": 1353,
-          "download_count": 984,
-          "created_at": "2021-09-10T09:31:21Z",
-          "browser_download_url": "https://github.com/alex3236/daycount-NBT/releases/download/v2.0.2/DayCountNBT-v2.0.2.mcdr"
-        }
-      ],
-      "description": "## 🔨 问题修复\r\n- 修复配置文件路径问题",
-      "prerelease": false,
-      "parsed_version": "2.0.2"
     },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.0.1",
