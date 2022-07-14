@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "leader_reforged",
   "latest_version": "1.1.2",
-  "etag": "\"b0374f92d3f8ba399d9548c285bd055b53371e6450a312cd592770649f1d3914\"",
+  "etag": "\"ed54b63de2781987bb72d0743f2fbe5afd404add4341f6a3d1d07858cf767f84\"",
   "releases": [
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.2",
@@ -57,24 +57,6 @@
       "description": "- Fixed bug `staticmethod object is not callable` on some Python interpreters.",
       "prerelease": false,
       "parsed_version": "1.1.0-patched"
-    },
-    {
-      "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0",
-      "name": "Release 1.1.0",
-      "tag_name": "v1.1.0",
-      "created_at": "2022-03-22T05:43:13Z",
-      "assets": [
-        {
-          "name": "leader_reforged-v1.1.0.mcdr",
-          "size": 9958,
-          "download_count": 4,
-          "created_at": "2022-03-22T05:45:03Z",
-          "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0/leader_reforged-v1.1.0.mcdr"
-        }
-      ],
-      "description": "This is Leader Reforged 1.1.0!\r\nWe have added some new features, so you can use it more conveniently!\r\n- Modified usage `!!leader`, now it shows help messages.\r\n- Added usage `!!leader + [Player]` for marking players.\r\n- Added usage `!!leader - [Player]` for unmarking players.\r\n- Added usage `!!leader ?` for querying present leaders.\r\n\r\nThere are many more changes behind, read our source code if you are interested in it.",
-      "prerelease": false,
-      "parsed_version": "1.1.0"
     },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.3",
