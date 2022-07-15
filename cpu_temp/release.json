@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "cpu_temp",
   "latest_version": "3.0.2",
-  "etag": "\"f2216e84a68ba7df57ad171ec26a46842ce86e1a00d16b25d9acf09139fbe859\"",
+  "etag": "\"d977f12d7fd05e065b4acfaecb9e25c2e2fda800744ba10f577f7effd6ef75f7\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2",
@@ -13,7 +13,7 @@
         {
           "name": "cpu_temp-3.0.2.mcdr",
           "size": 8621,
-          "download_count": 129,
+          "download_count": 131,
           "created_at": "2021-10-26T07:30:51Z",
           "browser_download_url": "https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr"
         }
