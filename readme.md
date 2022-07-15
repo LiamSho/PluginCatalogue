@@ -30,7 +30,7 @@ Plugin Amount: 76
 | [CarpetBotList](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | Help you manage your carpet fake player | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
 | [Cato Plugin](/plugins/cato/readme.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | 2022/03/10 | [`Tool`](/labels/tool/readme.md) |
-| [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/R1ckyH) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | 2022/07/04 | [`Tool`](/labels/tool/readme.md) |
+| [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/R1ckyH) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | 2022/07/15 | [`Tool`](/labels/tool/readme.md) |
 | [ColoredChat](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Support formatting codes for vanilla | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
 | [cpu_temp](/plugins/cpu_temp/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin to check cpu temp regularly. | 2021/10/26 | [`Information`](/labels/information/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | 2021/08/22 | [`Tool`](/labels/tool/readme.md) |
