@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridge",
   "latest_version": "2.2.0",
-  "etag": "\"84a7c0dd20c80bc9ea48eff0a5f52fc95dd1eaa65b427d48d55f79c80f4e50bd\"",
+  "etag": "\"74f345a4bd5a456a3b2d0b1ac4d4354060d02752dc9a14c7dccff6262ebc6310\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
@@ -57,42 +57,6 @@
       "description": "- removed hardcoded \"TIS\" in server (online command result in discord/khl bot), use new value `server_display_name` in config\r\n- also apply markdown formatting in stats result for discord bot\r\n- dumps config after load for easier updating",
       "prerelease": false,
       "parsed_version": "2.1.0"
-    },
-    {
-      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4",
-      "name": "",
-      "tag_name": "v2.0.4",
-      "created_at": "2021-11-12T15:25:48Z",
-      "assets": [
-        {
-          "name": "ChatBridge.pyz",
-          "size": 40739,
-          "download_count": 9,
-          "created_at": "2021-11-12T15:26:35Z",
-          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.4/ChatBridge.pyz"
-        }
-      ],
-      "description": "- online command: display_order support, in config",
-      "prerelease": false,
-      "parsed_version": "2.0.4"
-    },
-    {
-      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.3",
-      "name": "v2.0.3",
-      "tag_name": "v2.0.3",
-      "created_at": "2021-11-12T13:46:49Z",
-      "assets": [
-        {
-          "name": "ChatBridge.pyz",
-          "size": 40515,
-          "download_count": 3,
-          "created_at": "2021-11-12T13:47:48Z",
-          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.3/ChatBridge.pyz"
-        }
-      ],
-      "description": "- online command client: fix wrong server name displaying with minecraft server\r\n- fixed some readme issues",
-      "prerelease": false,
-      "parsed_version": "2.0.3"
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.2",
