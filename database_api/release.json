@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "database_api",
   "latest_version": "0.1.1",
-  "etag": "\"46d156390c33dfb69e7aa3fbd5cd3b200de918160035b89ea1b3c518d157256b\"",
+  "etag": "\"fbcfcd78cd6d83de2ac8d5ff00a985ca243ad207b6a29b99fe3d005d1f107d24\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.1",
