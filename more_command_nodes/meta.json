@@ -1,7 +1,7 @@
 {
   "id": "more_command_nodes",
   "name": "MoreCommandNodes",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "labels": [
     "api"
@@ -9,7 +9,9 @@
   "authors": [
     "Andy Zhang"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "mcdreforged": "^2.5"
+  },
   "requirements": [],
   "description": {
     "en_us": "More command nodes",

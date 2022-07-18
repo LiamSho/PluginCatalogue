@@ -1,9 +1,45 @@
 {
   "schema_version": 2,
   "id": "more_command_nodes",
-  "latest_version": "1.0.2",
-  "etag": "\"eb9bcef554c0cf1cb7d8a49b653fa09108d5fa3e4629c3eeeba7f1e69ad24bf3\"",
+  "latest_version": "1.1.0",
+  "etag": "\"593d0a2cd88063a252371e43ea4d3a8b41e76a14a62955bb1a2e2efcee7efe3d\"",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.1.0",
+      "name": "more_command_nodes: v1.1.0",
+      "tag_name": "more_command_nodes-v1.1.0",
+      "created_at": "2022-07-18T15:26:30Z",
+      "assets": [
+        {
+          "name": "MoreCommandNodes-v1.1.0.mcdr",
+          "size": 1428,
+          "download_count": 2,
+          "created_at": "2022-07-18T15:27:09Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.1.0/MoreCommandNodes-v1.1.0.mcdr"
+        }
+      ],
+      "description": "## [1.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/more_command_nodes-v1.0.3...more_command_nodes-v1.1.0) (2022-07-18)\n\n\n### Features\n\n* **more_command_nodes:** ✨ set EnumeratedText to inherit Enumeration ([ce366a7](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/ce366a7bc14876e66dc2509720ce91f452c8c1d9))",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.3",
+      "name": "more_command_nodes: v1.0.3",
+      "tag_name": "more_command_nodes-v1.0.3",
+      "created_at": "2022-07-18T14:28:53Z",
+      "assets": [
+        {
+          "name": "MoreCommandNodes-v1.0.3.mcdr",
+          "size": 1433,
+          "download_count": 0,
+          "created_at": "2022-07-18T14:35:28Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.3/MoreCommandNodes-v1.0.3.mcdr"
+        }
+      ],
+      "description": "## [1.0.3](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/more_command_nodes-v1.0.2...more_command_nodes-v1.0.3) (2022-07-18)\n\n\n### Bug Fixes\n\n* **more_command_nodes:** 🐛 fix FloatsArgument extra spaces issue ([97c12d5](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/97c12d568379959d527c7bc3d96e91e167854f47))",
+      "prerelease": false,
+      "parsed_version": "1.0.3"
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.2",
       "name": "more_command_nodes: v1.0.2",
