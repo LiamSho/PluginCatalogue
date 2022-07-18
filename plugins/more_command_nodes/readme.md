@@ -9,7 +9,7 @@
 - Plugin ID: `more_command_nodes`
 - Plugin Name: MoreCommandNodes
 - Version: 1.0.2
-  - Metadata version: 1.0.2
+  - Metadata version: 1.0.3
   - Release version: 1.0.2
 - Total downloads: 41
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)

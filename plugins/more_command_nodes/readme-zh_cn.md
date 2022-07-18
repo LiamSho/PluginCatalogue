@@ -9,7 +9,7 @@
 - 插件 ID: `more_command_nodes`
 - 插件名: MoreCommandNodes
 - 版本: 1.0.2
-  - 元数据版本: 1.0.2
+  - 元数据版本: 1.0.3
   - 发布版本: 1.0.2
 - 总下载量: 41
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
