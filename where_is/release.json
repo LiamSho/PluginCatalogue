@@ -1,27 +1,9 @@
 {
   "schema_version": 2,
   "id": "where_is",
-  "latest_version": "2.0.2",
-  "etag": "\"004ac6d0aa8cc8cda4282bb84411be128862ab41e7df4ca5cef042fcd058c467\"",
+  "latest_version": "2.0.1",
+  "etag": "\"0cccb0c934d774f526f965c6481fa943470108a595848996e2985940782f1edc\"",
   "releases": [
-    {
-      "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2",
-      "name": "2.0.2",
-      "tag_name": "2.0.2",
-      "created_at": "2022-07-20T13:25:17Z",
-      "assets": [
-        {
-          "name": "WhereIs-v2.0.2+build.5.mcdr",
-          "size": 19858,
-          "download_count": 2,
-          "created_at": "2022-07-20T13:51:22Z",
-          "browser_download_url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.5.mcdr"
-        }
-      ],
-      "description": "Fixed first time configuration load failure (once again xD\r\n\r\n**Full Changelog**: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/compare/2.0.1...2.0.2",
-      "prerelease": false,
-      "parsed_version": "2.0.2"
-    },
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1",
       "name": "2.0.1",
