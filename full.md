@@ -276,19 +276,21 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Plugin ID: `bot`
 - Plugin Name: Bot
 - Version: 0.1.0
-  - Metadata version: 0.2.0
+  - Metadata version: 1.0.0
   - Release version: 0.1.0
 - Total downloads: 61
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
-- Description: Manage carpet bots
+- Description: The best carpet bot manager!
 
 ### Dependencies
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.5 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | ^1.4 |
+| [more_command_nodes](/plugins/more_command_nodes/readme.md) | ^1.1.0 |
 
 ### Requirements
 
@@ -2509,7 +2511,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 4246
+- Total downloads: 4248
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2536,7 +2538,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1637 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
+| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1639 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
 | [PermanentBackup-v1.0.2.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2) | 1.0.2 | 2021/08/17 05:34:54 | 15.54KB | 1305 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr) |
 | [PermanentBackup-v1.0.1.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:05:01 | 15.5KB | 1304 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr) |
 

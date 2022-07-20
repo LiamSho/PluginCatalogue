@@ -9,19 +9,21 @@
 - Plugin ID: `bot`
 - Plugin Name: Bot
 - Version: 0.1.0
-  - Metadata version: 0.2.0
+  - Metadata version: 1.0.0
   - Release version: 0.1.0
 - Total downloads: 61
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
-- Description: Manage carpet bots
+- Description: The best carpet bot manager!
 
 ### Dependencies
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.5 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | ^1.4 |
+| [more_command_nodes](/plugins/more_command_nodes/readme.md) | ^1.1.0 |
 
 ### Requirements
 
