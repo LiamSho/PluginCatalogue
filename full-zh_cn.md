@@ -1195,7 +1195,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.2.2
   - 元数据版本: 1.2.2
   - 发布版本: 1.2.2
-- 总下载量: 6532
+- 总下载量: 6534
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Here
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -1221,7 +1221,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1015 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1017 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1502 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1323 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -1711,10 +1711,10 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 - 插件 ID: `mcd_task`
 - 插件名: Task
-- 版本: 2.3.1
-  - 元数据版本: 2.3.1+build.63
-  - 发布版本: 2.3.1
-- 总下载量: 2936
+- 版本: 2.3.2
+  - 元数据版本: 2.3.2+build.64
+  - 发布版本: 2.3.2
+- 总下载量: 2938
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -1741,9 +1741,9 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Task-v2.3.1+build.63.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.1) | 2.3.1 | 2022/06/26 03:10:09 | 18.57KB | 67 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.1/Task-v2.3.1%2Bbuild.63.mcdr) |
+| [Task-v2.3.2+build.64.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.2) | 2.3.2 | 2022/07/20 13:37:06 | 18.56KB | 0 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.2/Task-v2.3.2%2Bbuild.64.mcdr) |
+| [Task-v2.3.1+build.63.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.1) | 2.3.1 | 2022/06/26 03:10:09 | 18.57KB | 69 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.1/Task-v2.3.1%2Bbuild.63.mcdr) |
 | [Task-v2.3.0+build.62.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.0) | 2.3.0 | 2022/06/25 12:29:38 | 18.55KB | 5 | [下载](https://github.com/TISUnion/Task/releases/download/2.3.0/Task-v2.3.0%2Bbuild.62.mcdr) |
-| [Task-v2.2.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.2.0) | 2.2.0 | 2022/05/18 06:15:18 | 18.17KB | 31 | [下载](https://github.com/TISUnion/Task/releases/download/2.2.0/Task-v2.2.0.mcdr) |
 
 ## mcdr_pycraft_bot
 
@@ -2661,7 +2661,7 @@ classDiagram
 - 版本: 1.6.0
   - 元数据版本: 1.6.0
   - 发布版本: 1.6.0
-- 总下载量: 7331
+- 总下载量: 7333
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -2696,7 +2696,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 862 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
+| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 864 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 606 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 65 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 
@@ -3340,10 +3340,10 @@ classDiagram
 
 - 插件 ID: `where_is`
 - 插件名: Where Is
-- 版本: 2.0.1
-  - 元数据版本: 2.0.1+build.4
-  - 发布版本: 2.0.1
-- 总下载量: 412
+- 版本: 2.0.2
+  - 元数据版本: 2.0.2+build.5
+  - 发布版本: 2.0.2
+- 总下载量: 414
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -3372,9 +3372,9 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [WhereIs-v2.0.2+build.5.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 13:51:22 | 19.39KB | 2 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.5.mcdr) |
 | [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 57 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
 | [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 3 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
-| [WhereIs-v1.1.0+build.2.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.1.0) | 1.1.0 | 2022/07/02 09:07:25 | 18.12KB | 3 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.1.0/WhereIs-v1.1.0%2Bbuild.2.mcdr) |
 
 ## wiki_request
 
