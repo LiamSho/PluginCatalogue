@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "bot",
-  "latest_version": "1.0.0",
-  "etag": "\"31d51ee1ca7b03adfa80bb147d9e6af8b5470ebae218b3b12f373d93181a2523\"",
+  "latest_version": "1.0.1",
+  "etag": "\"f0e4503e8a5c8112d0da7c0948919d8b1e0c205bdc29aab04a7ebc56502311cf\"",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.1",
+      "name": "bot: v1.0.1",
+      "tag_name": "bot-v1.0.1",
+      "created_at": "2022-07-21T05:05:43Z",
+      "assets": [
+        {
+          "name": "Bot-v1.0.1.mcdr",
+          "size": 13369,
+          "download_count": 0,
+          "created_at": "2022-07-21T05:06:17Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.1/Bot-v1.0.1.mcdr"
+        }
+      ],
+      "description": "## [1.0.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/bot-v1.0.0...bot-v1.0.1) (2022-07-21)\n\n\n### Bug Fixes\n\n* **bot:** ✨ add config button for actions in info ([16fd490](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/16fd490b75374ce3b0e43c6a792bf5a5ff0d48d5))",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.0",
       "name": "bot: v1.0.0",
