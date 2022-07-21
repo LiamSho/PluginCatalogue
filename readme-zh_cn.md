@@ -17,7 +17,7 @@
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
-| [AdvancedCalculator](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 | 2022/07/18 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [AdvancedCalculator](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 | 2022/07/21 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme-zh_cn.md) | [noionion](https://github.com/2X-ercha) | For outline-model Whitelist | 2022/01/24 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Aluminum](/plugins/aluminum/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 一个 MCDR 插件管理器。 | 2021/10/23 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |

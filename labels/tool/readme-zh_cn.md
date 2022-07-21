@@ -10,7 +10,7 @@
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
-| [AdvancedCalculator](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 | 2022/07/18 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [AdvancedCalculator](/plugins/advanced_calculator/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供游戏内多种便捷计算 | 2022/07/21 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bingo](/plugins/bingo/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Bingo 游戏实用工具 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2022/07/21 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
