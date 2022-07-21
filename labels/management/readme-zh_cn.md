@@ -13,7 +13,7 @@
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme-zh_cn.md) | [noionion](https://github.com/2X-ercha) | For outline-model Whitelist | 2022/01/24 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Aluminum](/plugins/aluminum/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 一个 MCDR 插件管理器。 | 2021/10/23 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2022/06/30 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
+| [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2022/07/21 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2022/04/23 | [`管理`](/labels/management/readme-zh_cn.md) |
