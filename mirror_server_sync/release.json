@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mirror_server_sync",
   "latest_version": "1.0.1",
-  "etag": "\"243f6a40a43b69c8322c6f8dad6f66e3a063a8ab38714ce15f33bdbc85a9fb77\"",
+  "etag": "\"6a756492af12c133e58f65e9c264b3c2a64ab0802f2382fdba5f9aa92f12fc72\"",
   "releases": [
     {
       "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1",
@@ -13,7 +13,7 @@
         {
           "name": "MirrorServerSync-v1.0.1.mcdr",
           "size": 3361,
-          "download_count": 7,
+          "download_count": 9,
           "created_at": "2022-05-18T06:23:05Z",
           "browser_download_url": "https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr"
         }
