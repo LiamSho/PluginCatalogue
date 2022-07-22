@@ -13,7 +13,7 @@ Plugin Amount: 23
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme.md) | [noionion](https://github.com/2X-ercha) | For outline-model Whitelist | 2022/01/24 | [`Management`](/labels/management/readme.md) |
 | [Aluminum](/plugins/aluminum/readme.md) | [Alex3236](https://github.com/alex3236) | A MCDReforged plugin manager. | 2021/10/23 | [`Management`](/labels/management/readme.md) |
 | [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
-| [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2022/07/21 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
+| [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2022/07/22 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | 2022/04/23 | [`Management`](/labels/management/readme.md) |
