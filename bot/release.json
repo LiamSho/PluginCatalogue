@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "bot",
-  "latest_version": "1.0.1",
-  "etag": "\"e2fbecc84366f3704e999fd19bf22286a556f7f338d263e25ee9b72efb5ce3bc\"",
+  "latest_version": "1.0.2",
+  "etag": "\"c992295351111e7a2d509500e30e7e02634d0388dc81d7736cfa658bbcc95cbd\"",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.2",
+      "name": "bot: v1.0.2",
+      "tag_name": "bot-v1.0.2",
+      "created_at": "2022-07-22T02:15:29Z",
+      "assets": [
+        {
+          "name": "Bot-v1.0.2.mcdr",
+          "size": 13375,
+          "download_count": 0,
+          "created_at": "2022-07-22T02:16:19Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.2/Bot-v1.0.2.mcdr"
+        }
+      ],
+      "description": "## [1.0.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/bot-v1.0.1...bot-v1.0.2) (2022-07-22)\n\n\n### Bug Fixes\n\n* **bot:** 🐛 pass arg for raise exception ([22c74d6](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/22c74d6d08a49445e3f0cb8e9f4b7ebcd6ecda94))",
+      "prerelease": false,
+      "parsed_version": "1.0.2"
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.1",
       "name": "bot: v1.0.1",
@@ -13,7 +31,7 @@
         {
           "name": "Bot-v1.0.1.mcdr",
           "size": 13369,
-          "download_count": 9,
+          "download_count": 11,
           "created_at": "2022-07-21T05:06:17Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.1/Bot-v1.0.1.mcdr"
         }
