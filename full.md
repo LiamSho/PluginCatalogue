@@ -15,7 +15,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 - Version: 0.2.1
   - Metadata version: 0.2.1
   - Release version: 0.2.1
-- Total downloads: 151
+- Total downloads: 153
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -55,7 +55,7 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AdvancedCalculator-v0.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1) | 0.2.1 | 2022/07/21 13:20:06 | 2.38KB | 0 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.1/AdvancedCalculator-v0.2.1.mcdr) |
+| [AdvancedCalculator-v0.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1) | 0.2.1 | 2022/07/21 13:20:06 | 2.38KB | 2 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.1/AdvancedCalculator-v0.2.1.mcdr) |
 | [AdvancedCalculator-v0.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.0) | 0.2.0 | 2022/07/18 11:47:23 | 2.27KB | 22 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.0/AdvancedCalculator-v0.2.0.mcdr) |
 | [AdvancedCalculator-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-0.1.0) | 0.1.0 | 2022/05/21 15:09:14 | 2.14KB | 129 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-0.1.0/AdvancedCalculator-v0.1.0.mcdr) |
 
@@ -107,7 +107,7 @@ Offline server whitelist management
 - Version: 0.1.3
   - Metadata version: 0.1.3
   - Release version: 0.1.3
-- Total downloads: 416
+- Total downloads: 418
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/Aluminum
 - Labels: [`Management`](/labels/management/readme.md)
@@ -138,7 +138,7 @@ A MCDR plugin manager.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 412 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
+| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 414 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
 | [Aluminum-v0.1.2.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.2) | 0.1.2 | 2021/10/23 13:21:36 | 6.91KB | 2 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.2/Aluminum-v0.1.2.mcdr) |
 | [Aluminum-v0.1.1.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.1) | 0.1.1 | 2021/10/23 10:23:29 | 6.94KB | 1 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.1/Aluminum-v0.1.1.mcdr) |
 
@@ -151,7 +151,7 @@ A MCDR plugin manager.
 - Version: 1.1.3
   - Metadata version: 1.1.3
   - Release version: 1.1.3
-- Total downloads: 4206
+- Total downloads: 4208
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Labels: [`Management`](/labels/management/readme.md)
@@ -180,7 +180,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 544 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
+| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 546 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
 | [AutoPluginReloader-v1.1.2.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.2) | 1.1.2 | 2021/09/30 10:02:54 | 17.59KB | 102 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.2/AutoPluginReloader-v1.1.2.mcdr) |
 | [AutoPluginReloader-v1.1.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.1) | 1.1.1 | 2021/09/12 10:20:17 | 17.47KB | 886 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.1/AutoPluginReloader-v1.1.1.mcdr) |
 
@@ -473,7 +473,7 @@ flowchart LR
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 213
+- Total downloads: 215
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
@@ -502,7 +502,7 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 213 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
+| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 215 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
 
@@ -553,7 +553,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 61
+- Total downloads: 63
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/CarpetTick
 - Labels: [`Information`](/labels/information/readme.md)
@@ -580,7 +580,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetTick-v1.1.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.0) | 1.1.0 | 2022/04/07 09:28:18 | 3.48KB | 49 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.0/CarpetTick-v1.1.0.mcdr) |
+| [CarpetTick-v1.1.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.0) | 1.1.0 | 2022/04/07 09:28:18 | 3.48KB | 51 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.0/CarpetTick-v1.1.0.mcdr) |
 | [CarpetTick-v1.0.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0) | 1.0.0 | 2022/03/11 14:50:05 | 3.35KB | 12 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.0.0/CarpetTick-v1.0.0.mcdr) |
 
 ## carpetbotlist
@@ -863,7 +863,7 @@ A plugin to check cpu temp regularly.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 2058
+- Total downloads: 2060
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -889,7 +889,7 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 2058 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
+| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 2060 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
 
 ## database_api
 
@@ -1172,7 +1172,7 @@ Show time in Minecraft
 - Version: 0.1
   - Metadata version: 0.1.0
   - Release version: 0.1
-- Total downloads: 136
+- Total downloads: 138
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
@@ -1201,7 +1201,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [FasterTransfer-v0.1.0.mcdr](https://github.com/alex3236/FasterTransfer/releases/tag/v0.1) | 0.1 | 2021/10/04 07:59:17 | 935B | 136 | [Download](https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr) |
+| [FasterTransfer-v0.1.0.mcdr](https://github.com/alex3236/FasterTransfer/releases/tag/v0.1) | 0.1 | 2021/10/04 07:59:17 | 935B | 138 | [Download](https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr) |
 
 ## gamemode
 
@@ -1894,7 +1894,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 65
+- Total downloads: 67
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
 - Labels: [`Management`](/labels/management/readme.md)
@@ -1923,7 +1923,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDReforgedPluginManager-v1.2.0.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.0) | 1.2.0 | 2022/04/23 08:20:17 | 21.3KB | 55 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.2.0/MCDReforgedPluginManager-v1.2.0.mcdr) |
+| [MCDReforgedPluginManager-v1.2.0.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.0) | 1.2.0 | 2022/04/23 08:20:17 | 21.3KB | 57 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.2.0/MCDReforgedPluginManager-v1.2.0.mcdr) |
 | [MCDReforgedPluginManager-v1.1.1.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.1.1) | 1.1.1 | 2022/04/19 03:49:16 | 21.05KB | 4 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.1.1/MCDReforgedPluginManager-v1.1.1.mcdr) |
 | [MCDReforgedPluginManager-v1.1.0.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.1.0) | 1.1.0 | 2022/04/19 03:43:49 | 20.95KB | 2 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.1.0/MCDReforgedPluginManager-v1.1.0.mcdr) |
 
@@ -2361,7 +2361,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 1351
+- Total downloads: 1353
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
@@ -2389,7 +2389,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 125 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
+| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 127 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
 | [MultiRconAPI-V2.0.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0) | 2.0.0 | 2022/01/20 17:52:27 | 4.17KB | 13 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.0/MultiRconAPI-V2.0.0.pyz) |
 | [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1213 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
@@ -2648,7 +2648,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.2.1
   - Metadata version: 1.2.1
   - Release version: 1.2.1
-- Total downloads: 9
+- Total downloads: 11
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
@@ -2680,7 +2680,7 @@ Database-based Carpet fake player management
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1) | 1.2.1 | 2022/07/08 07:01:25 | 5.51KB | 9 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr) |
+| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1) | 1.2.1 | 2022/07/08 07:01:25 | 5.51KB | 11 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr) |
 | [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.0) | 1.2.0 | 2022/07/08 00:56:25 | 5.38KB | 0 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.0/PlayerManager.mcdr) |
 
 ## quick_backup_multi
@@ -2692,7 +2692,7 @@ Database-based Carpet fake player management
 - Version: 1.6.0
   - Metadata version: 1.6.0
   - Release version: 1.6.0
-- Total downloads: 7361
+- Total downloads: 7363
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2727,7 +2727,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 892 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
+| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 894 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 606 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 65 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 
@@ -2740,7 +2740,7 @@ Features:
 - Version: 2.0.0
   - Metadata version: 2.0.0
   - Release version: 2.0.0
-- Total downloads: 46
+- Total downloads: 48
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/quick_run_cmd
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2768,7 +2768,7 @@ A plugin for run command quickly
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [quick_run_cmd-2.0.0.mcdr](https://github.com/R1ckyH/quick_run_cmd/releases/tag/2.0.0) | 2.0.0 | 2021/12/24 12:37:07 | 9.28KB | 46 | [Download](https://github.com/R1ckyH/quick_run_cmd/releases/download/2.0.0/quick_run_cmd-2.0.0.mcdr) |
+| [quick_run_cmd-2.0.0.mcdr](https://github.com/R1ckyH/quick_run_cmd/releases/tag/2.0.0) | 2.0.0 | 2021/12/24 12:37:07 | 9.28KB | 48 | [Download](https://github.com/R1ckyH/quick_run_cmd/releases/download/2.0.0/quick_run_cmd-2.0.0.mcdr) |
 
 ## region_file_updater
 
@@ -3240,7 +3240,7 @@ testing basic server problem.
 - Version: 7.5.1
   - Metadata version: 7.5.1
   - Release version: 7.5.1
-- Total downloads: 6147
+- Total downloads: 6149
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
@@ -3268,7 +3268,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 212 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
+| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 214 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
 | [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 120 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
 | [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 71 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
 
@@ -3416,7 +3416,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 3.0
   - Metadata version: 3.0
   - Release version: 3.0
-- Total downloads: 172
+- Total downloads: 174
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Labels: [`Information`](/labels/information/readme.md)
@@ -3444,7 +3444,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 172 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
+| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 174 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
 
 ## world_copier
 
