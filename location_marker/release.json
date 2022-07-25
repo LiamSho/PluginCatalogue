@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "location_marker",
   "latest_version": "1.3.1",
-  "etag": "\"09487172207ab87523ebf3f772bfb0a254c6d54c79e06e44c4d3ec87e80c0135\"",
+  "etag": "\"8708d7a6b19c3832ac5d01de8abb174bfa7c49f6a4534f5f0fd7cc876c25a005\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1",
@@ -13,7 +13,7 @@
         {
           "name": "LocationMarker-v1.3.1.mcdr",
           "size": 17799,
-          "download_count": 1886,
+          "download_count": 1888,
           "created_at": "2021-08-16T17:09:34Z",
           "browser_download_url": "https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr"
         }
