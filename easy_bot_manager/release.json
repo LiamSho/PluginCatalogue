@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "easy_bot_manager",
   "latest_version": "0.2",
-  "etag": "\"06c27ee3cacfe09c78ad3b94c5cfaaf3224da5c31fb576bada3ab76c542d0661\"",
+  "etag": "\"2f8898b2a1a82440b02e2c74b15b32dc1a7ea58926ee861744fafd92dc78a043\"",
   "releases": [
     {
       "url": "https://github.com/LiuTed/EasyBotManager/releases/tag/v0.2",
@@ -13,7 +13,7 @@
         {
           "name": "EasyBotManager-v0.2.mcdr",
           "size": 9365,
-          "download_count": 15,
+          "download_count": 17,
           "created_at": "2022-06-23T07:16:44Z",
           "browser_download_url": "https://github.com/LiuTed/EasyBotManager/releases/download/v0.2/EasyBotManager-v0.2.mcdr"
         }
