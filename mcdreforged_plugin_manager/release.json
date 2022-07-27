@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "mcdreforged_plugin_manager",
-  "latest_version": "1.2.0",
-  "etag": "\"90cd69878b5239712c034b0754f64b05eda66d243adc37d7213fa83a7fe5899d\"",
+  "latest_version": "1.2.1",
+  "etag": "\"317c0b7c1569894a92d1d2c69baa31c30e3f967963a718b13e4cdbeb669cf4b6\"",
   "releases": [
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.1",
+      "name": "MCDReforgedPluginManager v1.2.1",
+      "tag_name": "v1.2.1",
+      "created_at": "2022-07-27T06:26:05Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.2.1.mcdr",
+          "size": 21808,
+          "download_count": 2,
+          "created_at": "2022-07-27T06:28:27Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.2.1/MCDReforgedPluginManager-v1.2.1.mcdr"
+        }
+      ],
+      "description": "## Changes\r\n\r\n- Looser requirements in requirements.txt",
+      "prerelease": false,
+      "parsed_version": "1.2.1"
+    },
     {
       "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.0",
       "name": "MCDReforgedPluginManager v1.2.0",
@@ -13,7 +31,7 @@
         {
           "name": "MCDReforgedPluginManager-v1.2.0.mcdr",
           "size": 21815,
-          "download_count": 66,
+          "download_count": 68,
           "created_at": "2022-04-23T08:20:17Z",
           "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.2.0/MCDReforgedPluginManager-v1.2.0.mcdr"
         }

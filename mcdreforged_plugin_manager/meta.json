@@ -1,7 +1,7 @@
 {
   "id": "mcdreforged_plugin_manager",
   "name": "MCDReforged Plugin Manager",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
   "labels": [
     "management"
@@ -13,8 +13,8 @@
     "mcdreforged": ">=2.0.0"
   },
   "requirements": [
-    "mcdreforged~=2.3.2",
-    "requests~=2.26.0"
+    "mcdreforged>=2.0.0",
+    "requests"
   ],
   "description": {
     "en_us": "Manage your mcdreforged plugins with ease",
