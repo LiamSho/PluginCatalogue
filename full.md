@@ -969,7 +969,7 @@ A plugin to check cpu temp regularly.
 - Version: 2.2.0
   - Metadata version: 2.2.0
   - Release version: 2.2.0
-- Total downloads: 4515
+- Total downloads: 4517
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -1001,7 +1001,7 @@ Feature:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.2.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.0) | 2.2.0 | 2022/01/10 04:14:00 | 1.58KB | 582 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.2.0/DayCountNBT-v2.2.0.mcdr) |
+| [DayCountNBT-v2.2.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.0) | 2.2.0 | 2022/01/10 04:14:00 | 1.58KB | 584 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.2.0/DayCountNBT-v2.2.0.mcdr) |
 | [DayCountNBT-v2.1.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1) | 2.1.1 | 2021/11/08 14:26:50 | 1.33KB | 142 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1.1/DayCountNBT-v2.1.1.mcdr) |
 | [DayCountNBT-v2.1.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1) | 2.1 | 2021/10/01 06:12:46 | 1.31KB | 145 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1/DayCountNBT-v2.1.0.mcdr) |
 
@@ -1291,7 +1291,7 @@ Make file transfers faster!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 6611
+- Total downloads: 6613
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1317,7 +1317,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1090 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1092 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1502 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1325 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -1689,7 +1689,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
-- Total downloads: 1913
+- Total downloads: 1915
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1717,7 +1717,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1913 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1915 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## mc_uuid
 
@@ -1930,7 +1930,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 2.1.0
   - Metadata version: 2.1.0
   - Release version: 2.1.0
-- Total downloads: 31
+- Total downloads: 33
 - Authors: [Flyky](https://github.com/Flyky)
 - Repository: https://github.com/Flyky/MCDRpost
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1959,7 +1959,7 @@ A MCDR plugin for post/teleport items
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRpost-v2.1.0.mcdr](https://github.com/Flyky/MCDRpost/releases/tag/2.1.0) | 2.1.0 | 2022/06/16 16:32:20 | 8.73KB | 31 | [Download](https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr) |
+| [MCDRpost-v2.1.0.mcdr](https://github.com/Flyky/MCDRpost/releases/tag/2.1.0) | 2.1.0 | 2022/06/16 16:32:20 | 8.73KB | 33 | [Download](https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr) |
 
 ## minecraft_data_api
 
@@ -1970,7 +1970,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 2888
+- Total downloads: 2890
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -2000,7 +2000,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2888 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2890 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -2602,7 +2602,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 4252
+- Total downloads: 4254
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2629,7 +2629,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1643 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
+| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1645 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
 | [PermanentBackup-v1.0.2.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2) | 1.0.2 | 2021/08/17 05:34:54 | 15.54KB | 1305 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr) |
 | [PermanentBackup-v1.0.1.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:05:01 | 15.5KB | 1304 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr) |
 
@@ -2675,6 +2675,7 @@ Database-based Carpet fake player management
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1) | 1.2.1 | 2022/07/08 07:01:25 | 5.51KB | 11 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr) |
+| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.0) | 1.2.0 | 2022/07/08 00:56:25 | 5.38KB | 0 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.0/PlayerManager.mcdr) |
 
 ## quick_backup_multi
 
@@ -2685,7 +2686,7 @@ Database-based Carpet fake player management
 - Version: 1.6.0
   - Metadata version: 1.6.0
   - Release version: 1.6.0
-- Total downloads: 7451
+- Total downloads: 7453
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2720,7 +2721,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 980 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
+| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 982 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 608 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 65 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 
@@ -3274,7 +3275,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 2199
+- Total downloads: 2201
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -3301,7 +3302,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 435 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
+| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 437 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 | [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1764 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## uuid_api
