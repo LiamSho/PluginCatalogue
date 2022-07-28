@@ -16,7 +16,7 @@
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 显示坐标并高亮玩家 | 2021/11/05 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Info](/plugins/info/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 获取服务器信息 | 2022/06/30 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Join MOTD](/plugins/join_motd/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 当玩家加入游戏时向其发送欢迎信息 | 2022/05/22 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 在玩家进入服务器时展示内容。（特色功能++） | 2022/02/09 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [joinMOTD++](/plugins/join_motd_plus/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 在玩家进入服务器时展示内容。（特色功能++） | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Location Marker](/plugins/location_marker/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | 一个服务端共享路标点管理器 | 2021/08/16 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Online](/plugins/online/readme-zh_cn.md) | [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu) | 为群组服展示所有在线玩家, 同时提供了点击事件以便于快速切换子服 | 2021/09/07 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | 2021/10/25 | [`信息`](/labels/information/readme-zh_cn.md) |
