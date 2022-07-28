@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "cato",
-  "latest_version": "1.0.0",
-  "etag": "\"aae29c4bce33055a58b44550074a9adc22c37c66db1abc5e1fde3d10e6bda640\"",
+  "latest_version": "1.1.0",
+  "etag": "\"1805a6a2103d74b2820c20842b3236426fe1834a26c05b108209bbe773953336\"",
   "releases": [
+    {
+      "url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0",
+      "name": "cato-v1.1.0",
+      "tag_name": "cato-v1.1.0",
+      "created_at": "2021-10-31T08:29:42Z",
+      "assets": [
+        {
+          "name": "Cato-v1.1.0.mcdr",
+          "size": 2969,
+          "download_count": 375,
+          "created_at": "2021-10-31T08:31:03Z",
+          "browser_download_url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr"
+        }
+      ],
+      "description": "[Support] HMCL 3.4.209 / Cato 1.1.1",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
     {
       "url": "https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0",
       "name": "cato-v1.0.0",
