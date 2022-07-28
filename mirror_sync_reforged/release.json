@@ -1,27 +1,9 @@
 {
   "schema_version": 2,
   "id": "mirror_sync_reforged",
-  "latest_version": "1.3.0",
-  "etag": "\"c0f46f95ad10235c9f7ba5a7f1b0e90c2383fa676da3a096663465892faf3c94\"",
+  "latest_version": "1.2.2",
+  "etag": "\"1b92c9d4bb84d8f7f3e5abe26f4725af465f4eb0dba7642d1f372e06bd4bcef7\"",
   "releases": [
-    {
-      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0",
-      "name": "MirrorSyncReforged v1.3.0",
-      "tag_name": "v1.3.0",
-      "created_at": "2022-07-23T18:23:57Z",
-      "assets": [
-        {
-          "name": "MirrorSyncReforged-v1.3.0.mcdr",
-          "size": 5225,
-          "download_count": 7,
-          "created_at": "2022-07-23T18:25:53Z",
-          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr"
-        }
-      ],
-      "description": "## News\r\n \r\n- Added config item `ignore_session_lock` to solve the backup failure problem caused by `session.lock` being occupied by the server (#3)",
-      "prerelease": false,
-      "parsed_version": "1.3.0"
-    },
     {
       "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2",
       "name": "MirrorSyncReforged v1.2.2",
