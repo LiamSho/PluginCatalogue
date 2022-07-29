@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "crash_restart",
   "latest_version": "1.0.0",
-  "etag": "\"68c9d74c7829dd0fd5a3d491ec5b8748edf05f7eccd2dffb401f2739a2d50cf1\"",
+  "etag": "\"0dd3dc3d1b79b6bdf4f25845f12eba0655f139f8b417c384708e42b569fcdc58\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0",
@@ -20,7 +20,7 @@
         {
           "name": "CrashRestart.py",
           "size": 2321,
-          "download_count": 1351,
+          "download_count": 1353,
           "created_at": "2021-08-22T04:31:29Z",
           "browser_download_url": "https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart.py"
         }
