@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "bingo",
   "latest_version": "0.0.2",
-  "etag": "\"ba4d7da07fb9fa5825c1160e98070133a2e0ab46a2a178cd54c0deaa14268cf2\"",
+  "etag": "\"7b8b1d55079dd996a4011ae0d21d3d8b102056880186e44bbbc8f31ecbe3a6f8\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2",
