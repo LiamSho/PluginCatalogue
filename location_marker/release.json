@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "location_marker",
   "latest_version": "1.3.1",
-  "etag": "\"620587f0a9cb5927be74cf3e60ca645724e0b986014f72b14f9ec513df9ee596\"",
+  "etag": "\"4a3c4a8472667a934af5f35901fb02520209956b918a38cd643d532e60d9dad9\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1",

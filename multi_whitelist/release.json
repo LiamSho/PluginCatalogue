@@ -1,26 +1,7 @@
 {
   "schema_version": 2,
   "id": "multi_whitelist",
-  "latest_version": "3.0.0",
-  "etag": "\"1ae05bc41abd6b826b9e08d497ca3b7f2c2098ccae5395e14a4e07f6c95d460c\"",
-  "releases": [
-    {
-      "url": "https://github.com/R1ckyH/multi_whitelist/releases/tag/v3.0.0",
-      "name": "v3.0",
-      "tag_name": "v3.0.0",
-      "created_at": "2021-10-26T16:07:37Z",
-      "assets": [
-        {
-          "name": "multi_whitelist-3.0.0.mcdr",
-          "size": 17402,
-          "download_count": 142,
-          "created_at": "2021-10-26T16:12:21Z",
-          "browser_download_url": "https://github.com/R1ckyH/multi_whitelist/releases/download/v3.0.0/multi_whitelist-3.0.0.mcdr"
-        }
-      ],
-      "description": "# News & Changes\r\nSupport for [MCDR2.0](https://github.com/Fallen-Breath/MCDReforged)\r\n# BUGFIX\r\nFix bugs\r\n## Known issue\r\nsome of the messages in zh_cn didn't translate\r\n## future\r\nmeight be transfer to [ChatBridgeReforged](https://github.com/R1ckyH/ChatBridgeReforged) plugin",
-      "prerelease": false,
-      "parsed_version": "3.0.0"
-    }
-  ]
+  "latest_version": "N/A",
+  "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
+  "releases": []
 }

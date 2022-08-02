@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "simple_op_modified",
   "latest_version": "1.1.0",
-  "etag": "\"5533a17e76e4cbaac7e9ef8d720a7a8f45dd7b31939efcfe6dc1759326c7ae54\"",
+  "etag": "\"7d07c554815012b136613e45451916c6893a7abf5febdc7c6d39f20e1ce8cf81\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0",
@@ -21,24 +21,6 @@
       "description": "Sync changes in LBS: countdown change and restart confirm is a configurable feature now",
       "prerelease": false,
       "parsed_version": "1.1.0"
-    },
-    {
-      "url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.0.0",
-      "name": "v1.0.0: First release for MCDR 2.0",
-      "tag_name": "1.0.0",
-      "created_at": "2021-08-19T09:15:00Z",
-      "assets": [
-        {
-          "name": "SimpleOPModified-v1.0.0.mcdr",
-          "size": 5837,
-          "download_count": 1301,
-          "created_at": "2021-08-19T09:22:07Z",
-          "browser_download_url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.0.0/SimpleOPModified-v1.0.0.mcdr"
-        }
-      ],
-      "description": "An enhanced version of SimpleOP\r\nWhat's difference?\r\n1. Need confirm to restart to prevent some mistake\r\n2. Auto give op, you can also disable this globally or just for some specified players\r\n3. Both 2 functions has permission level requirement, you can change this in `config/SimpleOPModified.json`",
-      "prerelease": false,
-      "parsed_version": "1.0.0"
     }
   ]
 }
