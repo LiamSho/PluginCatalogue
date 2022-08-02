@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridge",
   "latest_version": "2.2.0",
-  "etag": "\"0d7a3762e896ecadba9a0da7ae52dde169d1b8bebb7f4d08fac83d12bc725c7b\"",
+  "etag": "\"83a2c80789eb12949c3105735959865865a2881d1936c985ec0a68688cf6ca36\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
@@ -57,24 +57,6 @@
       "description": "- removed hardcoded \"TIS\" in server (online command result in discord/khl bot), use new value `server_display_name` in config\r\n- also apply markdown formatting in stats result for discord bot\r\n- dumps config after load for easier updating",
       "prerelease": false,
       "parsed_version": "2.1.0"
-    },
-    {
-      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4",
-      "name": "",
-      "tag_name": "v2.0.4",
-      "created_at": "2021-11-12T15:25:48Z",
-      "assets": [
-        {
-          "name": "ChatBridge.pyz",
-          "size": 40739,
-          "download_count": 9,
-          "created_at": "2021-11-12T15:26:35Z",
-          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.4/ChatBridge.pyz"
-        }
-      ],
-      "description": "- online command: display_order support, in config",
-      "prerelease": false,
-      "parsed_version": "2.0.4"
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.3",
