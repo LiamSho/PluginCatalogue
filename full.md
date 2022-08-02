@@ -510,7 +510,7 @@ flowchart LR
 - Version: 0.3.0
   - Metadata version: 0.3.0
   - Release version: 0.3.0
-- Total downloads: 1502
+- Total downloads: 1504
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -539,7 +539,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1502 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1504 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
 ## carpet_tick
 
@@ -722,7 +722,7 @@ Chatbridge v2
 - Version: 0.2.5
   - Metadata version: 0.2.5-dev030
   - Release version: 0.2.5
-- Total downloads: 24
+- Total downloads: 27
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -751,7 +751,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.5) | 0.2.5 | 2022/07/31 17:19:46 | 49.38KB | 0 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.5/ChatBridgeReforged_MC.pyz) |
+| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.5) | 0.2.5 | 2022/07/31 17:19:46 | 49.38KB | 3 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.5/ChatBridgeReforged_MC.pyz) |
 | [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1) | 0.1.1 | 2022/03/04 06:12:36 | 46.96KB | 16 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz) |
 | [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2) | 0.0.2 | 2022/01/15 16:33:44 | 44.9KB | 8 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.pyz) |
 
@@ -819,7 +819,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 - Version: 3.0.2
   - Metadata version: 3.0.2
   - Release version: 3.0.2
-- Total downloads: 154
+- Total downloads: 156
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
 - Labels: [`Information`](/labels/information/readme.md)
@@ -849,7 +849,7 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 154 | [Download](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
+| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 156 | [Download](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
 
 ## crash_restart
 
@@ -1291,7 +1291,7 @@ Make file transfers faster!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 6645
+- Total downloads: 6647
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1317,7 +1317,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1124 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1126 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1502 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1325 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -1399,7 +1399,7 @@ Make file transfers faster!
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 2045
+- Total downloads: 2047
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1425,7 +1425,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 239 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
+| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 241 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1806 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
@@ -1483,7 +1483,7 @@ Features:
 - Version: 2.0.1
   - Metadata version: 2.1.1
   - Release version: 2.0.1
-- Total downloads: 101
+- Total downloads: 103
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/jrrp
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1512,7 +1512,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Jrrp-v2.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/2.0.1) | 2.0.1 | 2022/04/12 02:53:46 | 14.0KB | 85 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/2.0.1/Jrrp-v2.0.1.mcdr) |
+| [Jrrp-v2.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/2.0.1) | 2.0.1 | 2022/04/12 02:53:46 | 14.0KB | 87 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/2.0.1/Jrrp-v2.0.1.mcdr) |
 | [Jrrp-v1.0.1.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/1.0.1) | 1.0.1 | 2022/03/12 02:58:35 | 13.59KB | 16 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/1.0.1/Jrrp-v1.0.1.mcdr) |
 
 ## jrrps
@@ -1689,7 +1689,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
-- Total downloads: 1930
+- Total downloads: 1932
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1717,7 +1717,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1930 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1932 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## mc_uuid
 
@@ -1847,7 +1847,7 @@ Shows tasks of project in progress
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 2850
+- Total downloads: 2852
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1876,7 +1876,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 1541 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
+| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 1543 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
 | [MCDRBot-v1.1.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 01:19:33 | 74.62KB | 1309 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.1.0/MCDRBot-v1.1.0.mcdr) |
 
 ## mcdreforged_plugin_manager
@@ -1970,7 +1970,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 2940
+- Total downloads: 2942
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -2000,7 +2000,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2940 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2942 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -2186,7 +2186,7 @@ Now, I'll introduce the content of the config file:
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 105
+- Total downloads: 107
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2213,7 +2213,7 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 11 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
+| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 13 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
 | [MirrorSyncReforged-v1.2.2.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2) | 1.2.2 | 2022/06/26 10:33:41 | 5.01KB | 25 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.2/MirrorSyncReforged-v1.2.2.mcdr) |
 | [MirrorSyncReforged-v1.2.1.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1) | 1.2.1 | 2022/04/07 09:33:53 | 5.03KB | 51 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr) |
 
@@ -2557,7 +2557,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 318
+- Total downloads: 320
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2589,7 +2589,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0) | 1.3.0 | 2022/06/19 10:33:00 | 102.35KB | 147 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.3.0/PCRC.pyz) |
+| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0) | 1.3.0 | 2022/06/19 10:33:00 | 102.35KB | 149 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.3.0/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.3) | 1.2.3 | 2022/03/28 07:00:16 | 101.56KB | 107 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.3/PCRC.pyz) |
 | [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.2) | 1.2.2 | 2022/03/11 19:45:35 | 101.52KB | 41 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.2/PCRC.pyz) |
 
@@ -2686,7 +2686,7 @@ Database-based Carpet fake player management
 - Version: 1.6.0
   - Metadata version: 1.6.0
   - Release version: 1.6.0
-- Total downloads: 7509
+- Total downloads: 7511
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2721,7 +2721,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1036 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
+| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1038 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 610 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 65 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 
@@ -3368,7 +3368,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 2.0.2
   - Metadata version: 2.0.2+build.6
   - Release version: 2.0.2
-- Total downloads: 460
+- Total downloads: 464
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Labels: [`Information`](/labels/information/readme.md)
@@ -3397,7 +3397,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 46 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
+| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 50 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
 | [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 59 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
 | [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 3 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
 
