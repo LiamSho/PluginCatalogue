@@ -56,7 +56,7 @@ Plugin Amount: 76
 | [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | 2022/07/20 | [`Tool`](/labels/tool/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
-| [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | 2022/04/23 | [`Management`](/labels/management/readme.md) |
+| [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | 2022/07/27 | [`Management`](/labels/management/readme.md) |
 | [MCDRpost](/plugins/mcdrpost/readme.md) | [Flyky](https://github.com/Flyky) | A MCDR plugin for post/teleport items | 2022/06/16 | [`Tool`](/labels/tool/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A api plugin to get the Minecraft server version | 2022/04/05 | [`API`](/labels/api/readme.md) |
@@ -75,7 +75,7 @@ Plugin Amount: 76
 | [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | 2022/07/08 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | 2022/03/11 | [`Management`](/labels/management/readme.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | 2021/12/24 | [`Tool`](/labels/tool/readme.md) |
-| [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2021/09/26 | [`Management`](/labels/management/readme.md) |
+| [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2022/03/08 | [`Management`](/labels/management/readme.md) |
 | [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | 2021/08/20 | [`Tool`](/labels/tool/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
