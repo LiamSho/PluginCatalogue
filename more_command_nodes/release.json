@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "more_command_nodes",
   "latest_version": "1.1.0",
-  "etag": "\"f6678d2f2f1b3864d9a61f88830fd6c64739bd3cdc3140b837a4719f54674971\"",
+  "etag": "\"4851f9baebed8fafdefe1e8d3d69d99bb2c6155c75e2fbeca1f2f56fa5ea54f4\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.1.0",
@@ -75,24 +75,6 @@
       "description": "## [1.0.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/more_command_nodes-v1.0.0...more_command_nodes-v1.0.1) (2022-07-08)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* **more_command_nodes:** 🐛 fix Exception used in FloatsArgument ([284ba8f](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/284ba8f4a9a58310faafcffa9196e035b2328ace))\r\n* **more_command_nodes:** 🐛 fix import util ([25f933b](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/25f933b11dfc35d914df43c133bece5efce6af75))\r\n* **more_command_nodes:** 🐛 fix range in FloatsArgument ([4fa552f](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/4fa552f5e4a5efb9296b1324a527d3888f90bb66))",
       "prerelease": false,
       "parsed_version": "1.0.1"
-    },
-    {
-      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.0",
-      "name": "more_command_nodes: v1.0.0",
-      "tag_name": "more_command_nodes-v1.0.0",
-      "created_at": "2022-07-08T07:27:50Z",
-      "assets": [
-        {
-          "name": "MoreCommandNodes-v1.0.0.mcdr",
-          "size": 1371,
-          "download_count": 2,
-          "created_at": "2022-07-08T07:28:27Z",
-          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.0/MoreCommandNodes-v1.0.0.mcdr"
-        }
-      ],
-      "description": "## 1.0.0 (2022-07-08)\n\n\n### Features\n\n* **more_command_nodes:** 🎉 release MoreCommandNodes ([4aefc2b](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/4aefc2b728482040a90200cd9e9c5612ed9726a5))",
-      "prerelease": false,
-      "parsed_version": "1.0.0"
     }
   ]
 }
