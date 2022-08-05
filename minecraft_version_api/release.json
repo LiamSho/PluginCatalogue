@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "minecraft_version_api",
   "latest_version": "1.1.0",
-  "etag": "\"f7365c052c1c3e418a9faf54e3969106e415ffaf4ca9b7afa0a944c79eb53066\"",
+  "etag": "\"c324ad459ac11b25fde6c12cac0c73b91210c4052dd760467c75bec7a66d2327\"",
   "releases": [
     {
       "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "MinecraftVersionAPI-v1.1.0.mcdr",
           "size": 3153,
-          "download_count": 43,
+          "download_count": 45,
           "created_at": "2022-04-05T05:25:12Z",
           "browser_download_url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.0/MinecraftVersionAPI-v1.1.0.mcdr"
         }

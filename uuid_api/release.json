@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "uuid_api",
   "latest_version": "0.1.1",
-  "etag": "\"b95d3051ea1d6eb8ec52f6c89c45eb64dc3a2819ae273a4754644be5b595d98c\"",
+  "etag": "\"bc236a04cc098cb4d457681aa829acd78ea030606a6435d84d898a6e208e9dc3\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/uuid_api-v0.1.1",
@@ -13,7 +13,7 @@
         {
           "name": "UUIDAPI-v0.1.1.mcdr",
           "size": 1444,
-          "download_count": 15,
+          "download_count": 17,
           "created_at": "2022-06-30T12:08:40Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/uuid_api-v0.1.1/UUIDAPI-v0.1.1.mcdr"
         }
