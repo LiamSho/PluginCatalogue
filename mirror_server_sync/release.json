@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "mirror_server_sync",
-  "latest_version": "1.0.0",
-  "etag": "\"7b3e4c17d0b044c02f1c4bbdd295412c232d8a883d1acba1aefa612a44079729\"",
+  "latest_version": "1.0.1",
+  "etag": "\"3a97a76c06db63606eaef7b65f9039c8e7bcd8c7fad7071aed4dae73ed50a3ad\"",
   "releases": [
+    {
+      "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1",
+      "name": "Mirror Server Sync V1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2022-05-18T06:17:50Z",
+      "assets": [
+        {
+          "name": "MirrorServerSync-v1.0.1.mcdr",
+          "size": 3361,
+          "download_count": 11,
+          "created_at": "2022-05-18T06:23:05Z",
+          "browser_download_url": "https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr"
+        }
+      ],
+      "description": "# Bug Fix:\r\n\r\n- Adding independent thread to each function\r\n- Fix !!msync recover feature\r\n\r\n**Full Changelog**: https://github.com/VisualSpliter/MirrorServerSync/commits/v1.0.1",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    },
     {
       "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.0",
       "name": "Mirror Server Sync V1.0.0",
