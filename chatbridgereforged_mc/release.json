@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridgereforged_mc",
   "latest_version": "0.2.5",
-  "etag": "\"adcfd3f628bc2357486f49148f32a21521b7c53582b9a5e514eb4ef8b558e638\"",
+  "etag": "\"0b9706d896d2128497bec67ae4f11a99fa634c6ac8de15d62739a3199ac74c31\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.5",
@@ -42,6 +42,45 @@
       "description": "# 0.2.0\r\n## Description\r\n- Add new event on_player_joined and on_player_left\r\n- New cqhttp client\r\n- Rtext added\r\n\r\n## Changes\r\n### Server Change\r\n- New utility\r\n  - Rtext\r\n\r\n### BUGFIX and Improvements\r\n- better logging processing\r\n\r\n# 0.2.1\r\n### BUGFIX and Improvements\r\n- FIXED BUG of CBR sever can't reply\r\n\r\n# 0.2.2\r\n### BUGFIX and Improvements\r\n- FIXED #7 \r\n\r\n# 0.2.3\r\n### BUGFIX and Improvements\r\n- FIXED #11 \r\n- FIXED client non-string object log exception\r\n- FIXED say command in server, and patch some debug message\r\n- FIXED past help messages won't delete after reload\r\n- FIXED empty password \r\n\r\n# 0.2.4\r\n### BUGFIX and Improvements\r\n\r\n- FIXED restart guardian end after receive stop from server\r\n- FIXED #11\r\n- FIXED CQ client restart Guardian\r\n- FIXED CQ client ping guardian\r\n- FIXED CQ client sending bug\r\n- Improved CQ client stop\r\n- Improved CQ client wordings\r\n- Split network and client at .pyz Client\r\n- Split Client Class of CBR Sever to a single .py file\r\n\r\n# 0.2.5\r\n### BUGFIX and Improvements\r\n\r\n- FIXED receiver and JSON decode error\r\n- FIXED guardian countdown error\r\n- Improved Formatter implement\r\n- Change file structure of .pyz client\r\n- Catch OS error while sending a message through a socket of the client",
       "prerelease": false,
       "parsed_version": "0.2.5"
+    },
+    {
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1",
+      "name": "0.1.1-release",
+      "tag_name": "0.1.1",
+      "created_at": "2022-03-04T06:07:00Z",
+      "assets": [
+        {
+          "name": "ChatBridgeReforged_cqhttp.py",
+          "size": 39325,
+          "download_count": 23,
+          "created_at": "2022-03-04T06:12:34Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_cqhttp.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.py",
+          "size": 29639,
+          "download_count": 8,
+          "created_at": "2022-03-04T06:12:32Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.py"
+        },
+        {
+          "name": "ChatBridgeReforged_MC.pyz",
+          "size": 48090,
+          "download_count": 16,
+          "created_at": "2022-03-04T06:12:36Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz"
+        },
+        {
+          "name": "ChatBridgeReforged_Server.zip",
+          "size": 33384,
+          "download_count": 14,
+          "created_at": "2022-03-04T06:12:50Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_Server.zip"
+        }
+      ],
+      "description": "# 0.1.0\r\n## Description\r\nAdd new event `on_player_joined` and `on_player_left`\r\nNew cqhttp client\r\n## Changes\r\n### New event\r\n- Add `on_player_joined`\r\n- Add `on_player_left`\r\n### New cqhttp client\r\n- Multi connections in one client\r\n- Can be a plugin that no need to open a new `screen` or `tmux` session now\r\n- `restart guardian` is used now\r\n#### BUGFIX\r\n- Wrong message while reload plugin\r\n- Better viewing when connecting\r\n- Some other improvements\r\n# 0.1.1\r\n#### BUGFIX\r\n- Reload error in cqhttp.py\r\n- Handle UnicodeDeocdeError in server input\r\n- #5 Update requirement.txt",
+      "prerelease": false,
+      "parsed_version": "0.1.1"
     },
     {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2",
