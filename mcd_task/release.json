@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mcd_task",
   "latest_version": "2.3.2",
-  "etag": "\"915788801fce4db9714ff6f8c42c237381d642e26a059b7ed6503f4b76810077\"",
+  "etag": "\"dd82d54680693c79495ab033f1766cf0beae4dde3f8fa9c1cd6044e4c7f6446e\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.3.2",
@@ -39,6 +39,24 @@
       "description": "fixed file auto generation failure\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Task/compare/2.3.0...2.3.1",
       "prerelease": false,
       "parsed_version": "2.3.1"
+    },
+    {
+      "url": "https://github.com/TISUnion/Task/releases/tag/2.3.0",
+      "name": "2.3.0",
+      "tag_name": "2.3.0",
+      "created_at": "2022-06-25T12:17:21Z",
+      "assets": [
+        {
+          "name": "Task-v2.3.0+build.62.mcdr",
+          "size": 18996,
+          "download_count": 5,
+          "created_at": "2022-06-25T12:29:38Z",
+          "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.3.0/Task-v2.3.0%2Bbuild.62.mcdr"
+        }
+      ],
+      "description": "1. Color scheme has been changed, now titles of tasks marked as done will be displayed in light gray instead of dark gray, and descriptions are dark green instead of light green (in help message) / light gray (in task detail).\r\n\r\n2. Command `!!task list-done` has been removed, and tasks marked as done will be just displayed in `!!task list` view.\r\n\r\n3. Now marking father task as done will make all its sub-tasks be treated as done (you can still see if this node is marked as done).\r\n\r\n4. Now you can use `!!task deadline <titles> clear` to remove the task deadline, and `!!task unres <titles> -all` to remove all its responsibles.\r\n\r\n**Full Changelog**: https://github.com/TISUnion/Task/compare/2.2.0...2.3.0",
+      "prerelease": false,
+      "parsed_version": "2.3.0"
     },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.2.0",
