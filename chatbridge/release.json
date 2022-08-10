@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridge",
   "latest_version": "2.2.0",
-  "etag": "\"6d684ad57a4b0ef39530fa5da6aa9fbc7e80abca0d3d6bc5974a8c40e880510a\"",
+  "etag": "\"b1e9b3d87c0fae91e19e5cec121c49c344538c4b3677312ce322149686029e52\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
@@ -93,24 +93,6 @@
       "description": "- online command client: fix wrong server name displaying with minecraft server\r\n- fixed some readme issues",
       "prerelease": false,
       "parsed_version": "2.0.3"
-    },
-    {
-      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.2",
-      "name": "",
-      "tag_name": "v2.0.2",
-      "created_at": "2021-10-04T11:34:32Z",
-      "assets": [
-        {
-          "name": "ChatBridge-v2.0.2.pyz",
-          "size": 40510,
-          "download_count": 65,
-          "created_at": "2021-10-04T11:36:16Z",
-          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.0.2/ChatBridge-v2.0.2.pyz"
-        }
-      ],
-      "description": "- stop display !!qq prefix for qq bot\r\n- stats name display fix in qq bot\r\n- minecraft server support for online command\r\n- see commit log for more",
-      "prerelease": false,
-      "parsed_version": "2.0.2"
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.1",

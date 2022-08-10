@@ -1,27 +1,9 @@
 {
   "schema_version": 2,
   "id": "daycount_nbt",
-  "latest_version": "2.2.0",
-  "etag": "\"e7410b23a8994d9cc1705f3b90c7c099a341bae77b369d70ad84a784a8fa2382\"",
+  "latest_version": "2.1.1",
+  "etag": "\"aef1376604e570a42e0841d229da72ee39998d85d0e9d09ef7ca53d18613adbd\"",
   "releases": [
-    {
-      "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.0",
-      "name": "2.2.0",
-      "tag_name": "v2.2.0",
-      "created_at": "2022-01-10T04:11:03Z",
-      "assets": [
-        {
-          "name": "DayCountNBT-v2.2.0.mcdr",
-          "size": 1617,
-          "download_count": 647,
-          "created_at": "2022-01-10T04:14:00Z",
-          "browser_download_url": "https://github.com/alex3236/daycount-NBT/releases/download/v2.2.0/DayCountNBT-v2.2.0.mcdr"
-        }
-      ],
-      "description": "## :rocket: 新特性！\r\n- **自定义命令**：现在，你可以自定义 daycount-NBT 的命令！\r\n\r\n## 🔧 改变\r\n- 使用 `str.format` 放置开服天数。**这意味着你需要将旧版本配置文件中的 `$day` 替换为 `{day}`**。\r\n\r\n## 📝 文档\r\n- 优化文档。",
-      "prerelease": false,
-      "parsed_version": "2.2.0"
-    },
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1",
       "name": "2.1.1",

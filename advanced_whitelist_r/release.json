@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "advanced_whitelist_r",
   "latest_version": "1.0.2",
-  "etag": "\"84364478982f9df6410c5bec4fb4ac041660edc71a30a140ca63cf9fae2d61e1\"",
+  "etag": "\"a647e6f80811f82ad21dff42915472e324bf23c18b6b7b90db735591a0d6a58a\"",
   "releases": [
     {
       "url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.2",
