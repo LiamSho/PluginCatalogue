@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "more_command_nodes",
   "latest_version": "1.1.0",
-  "etag": "\"1a66a486dc009ba12d1407c8510f18cb68d1e9c735db229031e0f351d8743bc5\"",
+  "etag": "\"0fb173cc278f5a3331fea799e7f2cc651ec1612236d28059c798d02e3765427f\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.1.0",
