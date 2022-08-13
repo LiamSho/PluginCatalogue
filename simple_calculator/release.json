@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "simple_calculator",
   "latest_version": "1.2.0",
-  "etag": "\"a6dac2a7530b1231b683d34b4cd9e8bc8054f6f8b935b6353f9dad6e6b3a6687\"",
+  "etag": "\"585d02cc651e22a33af494d513160f83eb3d0e578777462183e6f7b06012afea\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Calculator/releases/tag/v1.2.0",
@@ -13,7 +13,7 @@
         {
           "name": "SimpleCalculator-v1.2.0.mcdr",
           "size": 15912,
-          "download_count": 1744,
+          "download_count": 1746,
           "created_at": "2021-08-26T13:59:56Z",
           "browser_download_url": "https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr"
         }
