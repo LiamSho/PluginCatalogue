@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "database_api",
   "latest_version": "0.1.1",
-  "etag": "\"8422fc44de282f536b15493f2dbe4f9ac3ec254ea9c7c3660316d6e44797b017\"",
+  "etag": "\"61d3adb583cc7390c149570c1c0f6da0844a95333cb1827398c4e80d1638b3a8\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.1",
@@ -13,7 +13,7 @@
         {
           "name": "DatabaseAPI-v0.1.1.mcdr",
           "size": 1279,
-          "download_count": 25,
+          "download_count": 27,
           "created_at": "2022-06-30T06:31:33Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.1/DatabaseAPI-v0.1.1.mcdr"
         }
