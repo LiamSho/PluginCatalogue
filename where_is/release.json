@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "where_is",
   "latest_version": "2.0.2",
-  "etag": "\"110e446a42bbd5923b6b4fff0ba58490e0a8c79cb2ca3ffb2eac347ed4cd3534\"",
+  "etag": "\"cc314a86a403344b0fa7dbcb53983549e94dca6847d344ec71ec2cd0ee20fe16\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2",
@@ -21,24 +21,6 @@
       "description": "**Full Changelog**: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/compare/2.0.1...2.0.2",
       "prerelease": false,
       "parsed_version": "2.0.2"
-    },
-    {
-      "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1",
-      "name": "2.0.1",
-      "tag_name": "2.0.1",
-      "created_at": "2022-07-03T14:42:36Z",
-      "assets": [
-        {
-          "name": "WhereIs-v2.0.1+build.4.mcdr",
-          "size": 19933,
-          "download_count": 61,
-          "created_at": "2022-07-04T11:22:55Z",
-          "browser_download_url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr"
-        }
-      ],
-      "description": "Fixed a configuration problem that enable items are not effective.\r\n\r\nDO NOT FORGET TO BACK YOUR CONFIGURATION UP BEFORE YOU UPATE TO 2.0 AND LATER VERSION\r\n[(See the known issue of this release)](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0)\r\n\r\n**Full Changelog**: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/compare/2.0.0...2.0.1",
-      "prerelease": false,
-      "parsed_version": "2.0.1"
     },
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0",
