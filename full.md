@@ -679,7 +679,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.2.0
   - Metadata version: 2.2.0
   - Release version: 2.2.0
-- Total downloads: 799
+- Total downloads: 801
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -709,7 +709,7 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 394 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 396 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 17 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0) | 2.1.0 | 2021/11/16 11:27:38 | 39.88KB | 186 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz) |
 
@@ -1052,7 +1052,7 @@ Show time in Minecraft
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 116
+- Total downloads: 118
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/delayexe_mcdr
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
@@ -1079,7 +1079,7 @@ Show time in Minecraft
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DelayExe-v1.1.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.1.0) | 1.1.0 | 2022/05/09 23:51:26 | 4.87KB | 88 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.1.0/DelayExe-v1.1.0.mcdr) |
+| [DelayExe-v1.1.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.1.0) | 1.1.0 | 2022/05/09 23:51:26 | 4.87KB | 90 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.1.0/DelayExe-v1.1.0.mcdr) |
 | [DelayExe-v1.0.3.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.3) | 1.0.3 | 2022/01/07 05:38:57 | 3.59KB | 22 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.3/DelayExe-v1.0.3.mcdr) |
 | [DelayExe-v1.0.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.2) | 1.0.2 | 2022/01/07 01:30:16 | 3.58KB | 2 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.2/DelayExe-v1.0.2.mcdr) |
 
@@ -2686,7 +2686,7 @@ Database-based Carpet fake player management
 - Version: 1.6.0
   - Metadata version: 1.6.0
   - Release version: 1.6.0
-- Total downloads: 7784
+- Total downloads: 7786
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2721,7 +2721,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1305 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
+| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1307 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 614 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 65 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 
@@ -3125,7 +3125,7 @@ testing basic server problem.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 71
+- Total downloads: 73
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
 - Labels: [`Management`](/labels/management/readme.md)
@@ -3153,7 +3153,7 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SmartServerTime-v1.0.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.0.0) | 1.0.0 | 2022/05/11 00:00:58 | 8.18KB | 71 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.0.0/SmartServerTime-v1.0.0.mcdr) |
+| [SmartServerTime-v1.0.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.0.0) | 1.0.0 | 2022/05/11 00:00:58 | 8.18KB | 73 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.0.0/SmartServerTime-v1.0.0.mcdr) |
 
 ## start_stop_helper_r
 
@@ -3410,7 +3410,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 3.0
   - Metadata version: 3.0
   - Release version: 3.0
-- Total downloads: 210
+- Total downloads: 211
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Labels: [`Information`](/labels/information/readme.md)
@@ -3438,7 +3438,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 210 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
+| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 211 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
 
 ## world_copier
 
@@ -3486,7 +3486,7 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 - Version: 0.0.1
   - Metadata version: 0.0.2
   - Release version: 0.0.1
-- Total downloads: 50
+- Total downloads: 51
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
@@ -3522,5 +3522,5 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [XiaoHuiHui.sBigPie-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-0.0.1) | 0.0.1 | 2022/05/21 16:10:31 | 1.15KB | 50 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-0.0.1/XiaoHuiHui.sBigPie-v0.0.1.mcdr) |
+| [XiaoHuiHui.sBigPie-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-0.0.1) | 0.0.1 | 2022/05/21 16:10:31 | 1.15KB | 51 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-0.0.1/XiaoHuiHui.sBigPie-v0.0.1.mcdr) |
 
