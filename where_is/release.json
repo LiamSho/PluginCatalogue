@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "where_is",
   "latest_version": "2.0.2",
-  "etag": "\"2f37fe6f4a2fc2743cfd37cc6d29a213c1fc7108df4336ba11a17c122497e4ec\"",
+  "etag": "\"61e156506a57a04564376b5fa2f47fde899696f79c9493a6dd328ac112b8c794\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2",
@@ -13,7 +13,7 @@
         {
           "name": "WhereIs-v2.0.2+build.6.mcdr",
           "size": 19942,
-          "download_count": 162,
+          "download_count": 164,
           "created_at": "2022-07-20T15:56:45Z",
           "browser_download_url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr"
         }
