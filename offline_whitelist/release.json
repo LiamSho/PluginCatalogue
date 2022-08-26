@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "offline_whitelist",
   "latest_version": "0.1.4",
-  "etag": "\"0b4eb05880caf75e862c183bdc2d5fb794b510b521a59f0f137ab444dbff9714\"",
+  "etag": "\"9a5a26ecf74255199a68c575c5fd07bfd3b15e75f2a7923c87fdedfe9c57cf02\"",
   "releases": [
     {
       "url": "https://github.com/skuzow/offline-whitelist/releases/tag/v0.1.4",
@@ -13,7 +13,7 @@
         {
           "name": "OfflineWhitelist-v0.1.4.mcdr",
           "size": 16410,
-          "download_count": 16,
+          "download_count": 18,
           "created_at": "2022-07-11T13:07:56Z",
           "browser_download_url": "https://github.com/skuzow/offline-whitelist/releases/download/v0.1.4/OfflineWhitelist-v0.1.4.mcdr"
         }
