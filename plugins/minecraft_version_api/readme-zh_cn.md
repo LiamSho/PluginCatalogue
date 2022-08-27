@@ -8,9 +8,9 @@
 
 - 插件 ID: `minecraft_version_api`
 - 插件名: Minecraft Version API
-- 版本: 1.1.0
-  - 元数据版本: 1.1.0
-  - 发布版本: 1.1.0
+- 版本: 1.1.1
+  - 元数据版本: 1.1.1
+  - 发布版本: 1.1.1
 - 总下载量: 50
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MinecraftVersionAPI
@@ -27,7 +27,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [parse](https://pypi.org/project/parse) | ~=1.19.0 |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### 介绍
 
@@ -39,6 +39,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [MinecraftVersionAPI-v1.1.1.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.1) | 1.1.1 | 2022/08/27 15:59:41 | 3.05KB | 0 | [下载](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.1/MinecraftVersionAPI-v1.1.1.mcdr) |
 | [MinecraftVersionAPI-v1.1.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0) | 1.1.0 | 2022/04/05 05:25:12 | 3.08KB | 50 | [下载](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.0/MinecraftVersionAPI-v1.1.0.mcdr) |
 | [MinecraftVersionAPI-v1.0.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0) | 1.0.0 | 2022/04/02 16:19:02 | 2.97KB | 0 | [下载](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.0.0/MinecraftVersionAPI-v1.0.0.mcdr) |
 

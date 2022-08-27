@@ -26,7 +26,7 @@ Plugin Amount: 76
 | [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | 2022/07/22 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | 2021/09/07 | [`Tool`](/labels/tool/readme.md) |
-| [Carpet Tick](/plugins/carpet_tick/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Get server status using carpet /tick command | 2022/04/07 | [`Information`](/labels/information/readme.md) |
+| [Carpet Tick](/plugins/carpet_tick/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Get server status using carpet /tick command | 2022/08/27 | [`Information`](/labels/information/readme.md) |
 | [CarpetBotList](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | Help you manage your carpet fake player | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
 | [Cato Plugin](/plugins/cato/readme.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | 2022/03/10 | [`Tool`](/labels/tool/readme.md) |
@@ -59,7 +59,7 @@ Plugin Amount: 76
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | 2022/07/27 | [`Management`](/labels/management/readme.md) |
 | [MCDRpost](/plugins/mcdrpost/readme.md) | [Flyky](https://github.com/Flyky) | A MCDR plugin for post/teleport items | 2022/06/16 | [`Tool`](/labels/tool/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | 2021/08/16 | [`API`](/labels/api/readme.md) |
-| [Minecraft Version API](/plugins/minecraft_version_api/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A api plugin to get the Minecraft server version | 2022/04/05 | [`API`](/labels/api/readme.md) |
+| [Minecraft Version API](/plugins/minecraft_version_api/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A api plugin to get the Minecraft server version | 2022/08/27 | [`API`](/labels/api/readme.md) |
 | [MirrorServerReforged](/plugins/mirror_server_reforged/readme.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+. | 2022/02/11 | [`Management`](/labels/management/readme.md) |
 | [Mirror Server Sync](/plugins/mirror_server_sync/readme.md) | [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile) | A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers | 2022/05/18 | [`Management`](/labels/management/readme.md) |
 | [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A plugin to sync survival server world to the mirror server | 2022/07/23 | [`Management`](/labels/management/readme.md) |

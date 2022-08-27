@@ -10,7 +10,7 @@ Plugin Amount: 14
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
-| [Carpet Tick](/plugins/carpet_tick/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Get server status using carpet /tick command | 2022/04/07 | [`Information`](/labels/information/readme.md) |
+| [Carpet Tick](/plugins/carpet_tick/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Get server status using carpet /tick command | 2022/08/27 | [`Information`](/labels/information/readme.md) |
 | [cpu_temp](/plugins/cpu_temp/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin to check cpu temp regularly. | 2021/10/26 | [`Information`](/labels/information/readme.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2022/01/10 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Here](/plugins/here/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Broadcast your position and high light yourself | 2021/11/05 | [`Information`](/labels/information/readme.md) |

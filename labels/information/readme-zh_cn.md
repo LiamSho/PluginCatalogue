@@ -10,7 +10,7 @@
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
-| [Carpet Tick](/plugins/carpet_tick/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 使用 Carpet Mod 的 /tick 指令获取服务器信息 | 2022/04/07 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [Carpet Tick](/plugins/carpet_tick/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 使用 Carpet Mod 的 /tick 指令获取服务器信息 | 2022/08/27 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [cpu_temp](/plugins/cpu_temp/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器温度警报插件。 | 2021/10/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :calendar: 获取和输出服务器开服时间。 | 2022/01/10 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 显示坐标并高亮玩家 | 2021/11/05 | [`信息`](/labels/information/readme-zh_cn.md) |
