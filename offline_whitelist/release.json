@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "offline_whitelist",
   "latest_version": "0.1.4",
-  "etag": "\"0faee796c097031b0f19a4583a0648151f99118e8a7454cc36c0a5fe093291ab\"",
+  "etag": "\"e2a5696ae19da1553fa01710797b4f5f8fe674c1fe21174431c416c2c1073963\"",
   "releases": [
     {
       "url": "https://github.com/skuzow/offline-whitelist/releases/tag/v0.1.4",
