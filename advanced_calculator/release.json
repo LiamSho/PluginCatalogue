@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "advanced_calculator",
   "latest_version": "0.2.1",
-  "etag": "\"6348000dec6ab6be82ea8ca7456a3fc5c212f891ad93f17bca0b378d48eaecc9\"",
+  "etag": "\"5bfdc121384ef5428c1df27317ff895430048ce3e32bdeaf09d920fb1a56f757\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1",
