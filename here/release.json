@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "here",
   "latest_version": "1.2.2",
-  "etag": "\"250a808807c8a17d3b7391787de53de0a718fc6b02fcdac0bdecb476ef5edc6d\"",
+  "etag": "\"78cd1070e554cf668733e567c817711a578f0d39af40ff39baf1a7c908e1d79d\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Here/releases/tag/v1.2.2",
@@ -13,7 +13,7 @@
         {
           "name": "Here-v1.2.2.mcdr",
           "size": 16084,
-          "download_count": 1333,
+          "download_count": 1335,
           "created_at": "2021-11-05T10:52:58Z",
           "browser_download_url": "https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr"
         }
