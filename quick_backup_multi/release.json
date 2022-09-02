@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "quick_backup_multi",
-  "latest_version": "1.5.0",
-  "etag": "\"c9eeb7bda4742b9aaa529bd0b663d9c9d2363799829b12c41bb63574942c3356\"",
+  "latest_version": "1.6.0",
+  "etag": "\"524a82557e8cbaa4ee630a3c304168166023ca7951ceda7304cafa96a97cba8d\"",
   "releases": [
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0",
+      "name": "QuickBackupM v1.6.0",
+      "tag_name": "v1.6.0",
+      "created_at": "2022-03-11T07:54:41Z",
+      "assets": [
+        {
+          "name": "QuickBackupM-v1.6.0.mcdr",
+          "size": 22070,
+          "download_count": 1406,
+          "created_at": "2022-03-11T07:56:09Z",
+          "browser_download_url": "https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr"
+        }
+      ],
+      "description": "- Supports handling symbolic link world folder in the backing up / restoring logic (#29)",
+      "prerelease": false,
+      "parsed_version": "1.6.0"
+    },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0",
       "name": "QuickBackupM v1.5.0",
@@ -57,6 +75,24 @@
       "description": "- Fixed a English translation issue (#27)\r\n- Now QBM uses nested translation file format\r\n  - Requires MCDR >=2.1.2",
       "prerelease": false,
       "parsed_version": "1.4.3"
+    },
+    {
+      "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.2",
+      "name": "QuickBackupM v1.4.2",
+      "tag_name": "v1.4.2",
+      "created_at": "2021-08-29T15:33:36Z",
+      "assets": [
+        {
+          "name": "QuickBackupM-v1.4.2.mcdr",
+          "size": 22249,
+          "download_count": 1582,
+          "created_at": "2021-08-29T15:35:41Z",
+          "browser_download_url": "https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.2/QuickBackupM-v1.4.2.mcdr"
+        }
+      ],
+      "description": "Fixed `ignored_files` not working",
+      "prerelease": false,
+      "parsed_version": "1.4.2"
     },
     {
       "url": "https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.1",
