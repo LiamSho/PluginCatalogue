@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mcdrpost",
   "latest_version": "2.1.0",
-  "etag": "\"622bb66bfd62478b98401ff0b5e6aefe8764607301ea95de7682b83c4a1ef9cf\"",
+  "etag": "\"30ba86741cb2e2cc440107d94f5e1a6939fadfdc7c1b4353d3f78ee0b8b7038b\"",
   "releases": [
     {
       "url": "https://github.com/Flyky/MCDRpost/releases/tag/2.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "MCDRpost-v2.1.0.mcdr",
           "size": 8943,
-          "download_count": 68,
+          "download_count": 69,
           "created_at": "2022-06-16T16:32:20Z",
           "browser_download_url": "https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr"
         }
