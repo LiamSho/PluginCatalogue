@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "bot",
   "latest_version": "1.0.2",
-  "etag": "\"c51d78e5ea09f28a40945c3f88e384828ab1f8b060d6893708fdeb29aade47a5\"",
+  "etag": "\"4af500a448d145174a670930e97ed6b2dd04fc8e10d1b0378314ac9f7982f2b7\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.2",
