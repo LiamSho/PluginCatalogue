@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "pcrc",
   "latest_version": "1.3.0",
-  "etag": "\"1c00c5a1a79a12480cd5cdebf5fe947b3e48aa3b6b2e2efad161ce4739909451\"",
+  "etag": "\"f1ead427e1b0cfb7e7f035415689c89294adee82ff2967c063f90d03b598d4a8\"",
   "releases": [
     {
       "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0",
