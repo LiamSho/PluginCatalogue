@@ -1689,7 +1689,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.1
   - Metadata version: 1.3.1
   - Release version: 1.3.1
-- Total downloads: 2074
+- Total downloads: 2076
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1717,7 +1717,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2074 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2076 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## mc_uuid
 
@@ -2687,7 +2687,7 @@ Database-based Carpet fake player management
 - Version: 1.6.0
   - Metadata version: 1.6.0
   - Release version: 1.6.0
-- Total downloads: 7942
+- Total downloads: 7943
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2722,7 +2722,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1463 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
+| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1464 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 614 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 | [QuickBackupM-v1.4.4.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.4.4) | 1.4.4 | 2021/12/09 08:06:09 | 21.63KB | 65 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.4.4/QuickBackupM-v1.4.4.mcdr) |
 
@@ -2928,7 +2928,7 @@ Let player run whitelisted vanilla command
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 3140
+- Total downloads: 3141
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/SimpleOP
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2955,7 +2955,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleOP-v1.2.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:44:28 | 1.93KB | 1821 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.2.0/SimpleOP-v1.2.0.mcdr) |
+| [SimpleOP-v1.2.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:44:28 | 1.93KB | 1822 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.2.0/SimpleOP-v1.2.0.mcdr) |
 | [SimpleOP-v1.1.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.1.0) | 1.1.0 | 2021/08/22 03:50:39 | 1.89KB | 1319 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.1.0/SimpleOP-v1.1.0.mcdr) |
 
 ## simple_op_modified
@@ -2967,7 +2967,7 @@ Let player run whitelisted vanilla command
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 2766
+- Total downloads: 2767
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/SimpleOPModified
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2993,7 +2993,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleOPModified-v1.1.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0) | 1.1.0 | 2021/08/23 06:23:11 | 5.57KB | 1465 | [Download](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr) |
+| [SimpleOPModified-v1.1.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0) | 1.1.0 | 2021/08/23 06:23:11 | 5.57KB | 1466 | [Download](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr) |
 | [SimpleOPModified-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.0.0) | 1.0.0 | 2021/08/19 09:22:07 | 5.7KB | 1301 | [Download](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.0.0/SimpleOPModified-v1.0.0.mcdr) |
 
 ## simple_test
