@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "minecraft_version_api",
   "latest_version": "1.1.1",
-  "etag": "\"de511104d07e0877919dbf463954d8b7e34a55fd3753ff01d9d17ceb94e23a1a\"",
+  "etag": "\"198c1a627ab2dd2e27a21d1c6f4bf9806797d568f780b8289eaca78f28a58f95\"",
   "releases": [
     {
       "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.1",
@@ -21,24 +21,6 @@
       "description": "## Fixes\r\n\r\n- Fixed the dependencies on `mcdreforged` and `parse`",
       "prerelease": false,
       "parsed_version": "1.1.1"
-    },
-    {
-      "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0",
-      "name": "MinecraftVersionAPI v1.1.0",
-      "tag_name": "v1.1.0",
-      "created_at": "2022-04-05T05:20:21Z",
-      "assets": [
-        {
-          "name": "MinecraftVersionAPI-v1.1.0.mcdr",
-          "size": 3153,
-          "download_count": 50,
-          "created_at": "2022-04-05T05:25:12Z",
-          "browser_download_url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.0/MinecraftVersionAPI-v1.1.0.mcdr"
-        }
-      ],
-      "description": "## Changes\r\n\r\n - 22w03a, 22w05a, 22w06a, 22w07a will be normalized to 1.18.2 snapshots\r\n - Supports MCDReforged [`get_server_information`](https://mcdreforged.readthedocs.io/zh_CN/latest/plugin_dev/classes/ServerInterface.html#get-server-information) api (MCDR 2.1+)\r\nHowever you can still use this plugin with MCDR 2.1-",
-      "prerelease": false,
-      "parsed_version": "1.1.0"
     },
     {
       "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0",
