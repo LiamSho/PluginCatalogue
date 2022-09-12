@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "info",
   "latest_version": "0.1.0",
-  "etag": "\"6def8081ea7e2e08c1f3fbe7760c17b7cd416cc48739f0e52f475919cb8e056e\"",
+  "etag": "\"29348359377b4c060e760f057d5d2a53fe8e1f663f70e28e0c2dfcbb6acd2ed1\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "Info-v0.1.0.mcdr",
           "size": 2150,
-          "download_count": 199,
+          "download_count": 201,
           "created_at": "2022-06-30T05:59:40Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.1.0/Info-v0.1.0.mcdr"
         }
