@@ -1,7 +1,7 @@
 {
   "id": "delayexe",
   "name": "Delay Exe",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "repository": "https://github.com/kmcsr/delayexe_mcdr",
   "labels": [
     "tool",
@@ -11,7 +11,8 @@
     "zyxkad"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0"
+    "mcdreforged": ">=2.0.0",
+    "kpi": ">=1.0.1"
   },
   "requirements": [],
   "description": {
