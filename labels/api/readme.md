@@ -6,7 +6,7 @@
 
 Plugin Index with label `API`
 
-Plugin Amount: 12
+Plugin Amount: 13
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Plugin Amount: 12
 | [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2022/01/10 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/09/18 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
+| [LoginProxy](/plugins/login_proxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | 2022/09/19 | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A api plugin to get the Minecraft server version | 2022/08/27 | [`API`](/labels/api/readme.md) |
