@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "login_proxy",
+  "latest_version": "0.2.0",
   "etag": "\"d91a2eb8285cf18144fb6454edf3acd7548605f7aa463f0ecff7008a53d48074\"",
   "releases": [
     {
@@ -39,6 +40,5 @@
       "prerelease": false,
       "parsed_version": "0.1.0"
     }
-  ],
-  "latest_version": "0.2.0"
+  ]
 }
