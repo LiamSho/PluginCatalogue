@@ -1,7 +1,7 @@
 {
   "id": "login_proxy",
   "name": "LoginProxy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": "https://github.com/kmcsr/login_proxy_mcdr",
   "labels": [
     "management",
@@ -13,11 +13,11 @@
   ],
   "dependencies": {
     "mcdreforged": ">=2.0.0",
-    "kpi": ">=1.0.2"
+    "kpi": ">=1.1.0"
   },
   "requirements": [],
   "description": {
     "en_us": "A Minecraft login proxy Plugin",
-    "zh_cn": "一个Minecraft服务器登录代理插件"
+    "zh_cn": "一个Minecraft服务器登录代理兼白名单插件"
   }
 }
