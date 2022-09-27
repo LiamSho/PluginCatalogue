@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mcdrpost",
   "latest_version": "2.1.0",
-  "etag": "\"7506f6ea5f94745e0e1c25f0430b775a18003c256ac8dd5e3faeaf07e12f15d5\"",
+  "etag": "\"bee5d4b751920663ce417578b0f918d751ad103fa741b555dc2e7ccaf5775b28\"",
   "releases": [
     {
       "url": "https://github.com/Flyky/MCDRpost/releases/tag/2.1.0",
