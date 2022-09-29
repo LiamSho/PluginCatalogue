@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "kpi",
+  "latest_version": "1.1.0",
   "etag": "\"b854054acbbc64b361e54a3681ba19c24f6405033df019a43e361859dc3b46fa\"",
   "releases": [
     {
@@ -75,6 +76,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.1.0"
+  ]
 }
