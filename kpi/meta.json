@@ -1,0 +1,20 @@
+{
+  "id": "kpi",
+  "name": "KPI",
+  "version": "1.1.0",
+  "repository": "https://github.com/kmcsr/kpi_mcdr",
+  "labels": [
+    "api"
+  ],
+  "authors": [
+    "zyxkad"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.0.0"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "A MCDR plugins codes share library",
+    "zh_cn": "一个MCDR插件代码共享库"
+  }
+}
