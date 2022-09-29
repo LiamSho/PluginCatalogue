@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "bingo",
   "latest_version": "0.0.2",
-  "etag": "\"0b9754550c23b9e544d9bd60c22dc072e8c4f9b507c539747a6b6385a896d7de\"",
+  "etag": "\"bec6a5561b5f8c2a6f19e8756d7245bd252a72ae22b6db113f94542205edef52\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2",
@@ -13,7 +13,7 @@
         {
           "name": "Bingo-v0.0.2.mcdr",
           "size": 1345,
-          "download_count": 29,
+          "download_count": 31,
           "created_at": "2022-06-16T14:14:47Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr"
         }
