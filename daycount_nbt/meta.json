@@ -1,7 +1,7 @@
 {
   "id": "daycount_nbt",
   "name": "DayCount NBT",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "repository": "https://github.com/alex3236/daycount-NBT",
   "labels": [
     "information",
@@ -13,9 +13,7 @@
   "dependencies": {
     "mcdreforged": ">=2.2.0"
   },
-  "requirements": [
-    "nbtlib>=2.0.0"
-  ],
+  "requirements": [],
   "description": {
     "en_us": ":calendar: Get and export server opening times.",
     "zh_cn": ":calendar: 获取和输出服务器开服时间。"
