@@ -1,26 +1,7 @@
 {
   "schema_version": 2,
   "id": "world_copier",
-  "latest_version": "0.1.0",
-  "etag": "\"4f8bcf0f7bc5ecb6cc2329e16ceb1af77766e454e36540d90ad1a0db5a20deca\"",
-  "releases": [
-    {
-      "url": "https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0",
-      "name": "0.1.0",
-      "tag_name": "v0.1.0",
-      "created_at": "2022-04-03T07:40:13Z",
-      "assets": [
-        {
-          "name": "WorldCopier-v0.1.0.mcdr",
-          "size": 3144,
-          "download_count": 81,
-          "created_at": "2022-04-03T07:41:35Z",
-          "browser_download_url": "https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr"
-        }
-      ],
-      "description": "awa",
-      "prerelease": false,
-      "parsed_version": "0.1.0"
-    }
-  ]
+  "latest_version": "N/A",
+  "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
+  "releases": []
 }
