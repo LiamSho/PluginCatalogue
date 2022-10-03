@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "bot",
-  "latest_version": "1.0.2",
-  "etag": "\"14838ba033726ee4c5a2d43bca672eca70f5e3bffe8890594bc52641224d0d0b\"",
+  "latest_version": "1.0.3",
+  "etag": "\"363ef1bddc217cb00a3006daab2a674c3ed3dc61e97a71e32eee0571b09df8c2\"",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.3",
+      "name": "bot: v1.0.3",
+      "tag_name": "bot-v1.0.3",
+      "created_at": "2022-10-03T22:19:47Z",
+      "assets": [
+        {
+          "name": "Bot-v1.0.2.mcdr",
+          "size": 13387,
+          "download_count": 0,
+          "created_at": "2022-10-03T22:20:24Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.3/Bot-v1.0.2.mcdr"
+        }
+      ],
+      "description": "## [1.0.3](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/bot-v1.0.2...bot-v1.0.3) (2022-07-23)\n\n\n### Bug Fixes\n\n* **bot:** ✏️ fix help message arguments typo ([f4337ed](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/f4337ed63f2ee5f8dcc5323d7d0bc9b6becdeed3))\n* **bot:** 🐛 correcting usages of IllegalDimensionException ([a89d530](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/a89d5309041bdc25c3eddbe495f6069b785f8eaf))",
+      "prerelease": false,
+      "parsed_version": "1.0.3"
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.2",
       "name": "bot: v1.0.2",
