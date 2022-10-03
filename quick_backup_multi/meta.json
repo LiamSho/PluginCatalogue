@@ -1,7 +1,7 @@
 {
   "id": "quick_backup_multi",
   "name": "Quick Backup Multi",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "repository": "https://github.com/TISUnion/QuickBackupM",
   "labels": [
     "management"
