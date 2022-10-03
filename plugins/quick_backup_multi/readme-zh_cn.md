@@ -9,7 +9,7 @@
 - 插件 ID: `quick_backup_multi`
 - 插件名: Quick Backup Multi
 - 版本: 1.6.0
-  - 元数据版本: 1.6.0
+  - 元数据版本: 1.7.0
   - 发布版本: 1.6.0
 - 总下载量: 8047
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
