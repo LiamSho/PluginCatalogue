@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "auto_plugin_reloader",
   "latest_version": "1.1.3",
-  "etag": "\"79abadcc1fec7a631885dc99c7b7718839e3f021dba4ee043467d5185e16a940\"",
+  "etag": "\"4118f7e718cef17860be0fb6f83d7dfdd0ae82c4dc3bdbf7275ad40a7f0c6957\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3",
@@ -13,7 +13,7 @@
         {
           "name": "AutoPluginReloader-v1.1.3.mcdr",
           "size": 18007,
-          "download_count": 701,
+          "download_count": 703,
           "created_at": "2021-10-01T18:23:47Z",
           "browser_download_url": "https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr"
         }
