@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "world_copier",
   "latest_version": "0.1.0",
-  "etag": "\"4da1a39cef0c32ce0bb3aebe61294a8ddcd56b74d698b907339ae603d47f1d9f\"",
+  "etag": "\"855fdaf2610a7877b40dfd99b5bff48469c5a49a35377275cb6da592a8a8d931\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0",
@@ -13,7 +13,7 @@
         {
           "name": "WorldCopier-v0.1.0.mcdr",
           "size": 3144,
-          "download_count": 84,
+          "download_count": 85,
           "created_at": "2022-04-03T07:41:35Z",
           "browser_download_url": "https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr"
         }
