@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "mirror_server_reforged",
-  "latest_version": "1.0.2",
-  "etag": "\"07e9ca18148ca5b81cdcbb146d840a9d59578ef915b4643c58c841295a8d85fe\"",
+  "latest_version": "1.0.3",
+  "etag": "\"12cc1525ef7e5f6eaa5e88412597c260ed42cb13c5751d2fbda1e3d60568d4e4\"",
   "releases": [
+    {
+      "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3",
+      "name": "1.0.3 (CRITICAL)",
+      "tag_name": "1.0.3",
+      "created_at": "2022-02-11T13:22:38Z",
+      "assets": [
+        {
+          "name": "MirrorServerReforged-v1.0.3.mcdr",
+          "size": 8422,
+          "download_count": 266,
+          "created_at": "2022-02-11T13:32:32Z",
+          "browser_download_url": "https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr"
+        }
+      ],
+      "description": "修复了一个特别严重的bug，这个bug会导致在镜像服开启的时候主服务器的QBM失效 感谢`MCDR群@今天你的js加分号了吗`",
+      "prerelease": false,
+      "parsed_version": "1.0.3"
+    },
     {
       "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2",
       "name": "1.0.2",
