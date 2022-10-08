@@ -316,7 +316,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 `!!bot kill <name>` 下线假人
 
-`!!bot action [index]` 执行假人动作
+`!!bot action <name> [index]` 执行假人动作
 
 `!!bot info <name>` 查看假人信息
 
