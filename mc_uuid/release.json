@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mc_uuid",
   "latest_version": "1.0.0",
-  "etag": "\"ee9cc9eb03e76e1b9cd743ba5eff5d5cb2c840cba6ab0a352174e1d45e4e7088\"",
+  "etag": "\"15e924d20ff59932ed93f0035642ff7e7597f951825b47b9087934faaa7ff1a8\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMURsMC/MCUUID/releases/tag/1.0.0",
@@ -13,7 +13,7 @@
         {
           "name": "MinecraftUUIDAPI-v1.0.0.mcdr",
           "size": 1891,
-          "download_count": 1576,
+          "download_count": 1578,
           "created_at": "2021-08-16T15:53:02Z",
           "browser_download_url": "https://github.com/HuajiMURsMC/MCUUID/releases/download/1.0.0/MinecraftUUIDAPI-v1.0.0.mcdr"
         }
