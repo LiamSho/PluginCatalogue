@@ -61,7 +61,7 @@
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2022/07/27 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MCDRpost](/plugins/mcdrpost/readme-zh_cn.md) | [Flyky](https://github.com/Flyky) | 一个用于邮寄/传送物品的MCDR插件 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
-| [Minecraft Version API](/plugins/minecraft_version_api/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于获取 Minecraft 服务端版本的 API 插件 | 2022/08/27 | [`API`](/labels/api/readme-zh_cn.md) |
+| [Minecraft Version API](/plugins/minecraft_version_api/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于获取 Minecraft 服务端版本的 API 插件 | 2022/04/05 | [`API`](/labels/api/readme-zh_cn.md) |
 | [MirrorServerReforged](/plugins/mirror_server_reforged/readme-zh_cn.md) | [GamerNoTitle](https://github.com/GamerNoTitle) | [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)的重置版，适用于MCDR 2.0+的镜像服插件 | 2022/02/11 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Server Sync](/plugins/mirror_server_sync/readme-zh_cn.md) | [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile) | 一个简单的MCDR插件，用于同步Minecraft地图文件 | 2022/05/18 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Sync Reforged](/plugins/mirror_sync_reforged/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于同步生存服存档至镜像服的插件 | 2022/07/23 | [`管理`](/labels/management/readme-zh_cn.md) |
