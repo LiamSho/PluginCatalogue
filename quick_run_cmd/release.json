@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "quick_run_cmd",
   "latest_version": "2.0.0",
-  "etag": "\"a8fb3a6b684a1a1555f7fcbb7b53f6fb6803b25c2ec5c8d6cbb2f86e60c45e97\"",
+  "etag": "\"f73aa2801f5ef2a94bfec49402a63e6f1dc79bbe1bc167e5d0c1da2bfdbb5d4a\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/quick_run_cmd/releases/tag/2.0.0",
@@ -13,7 +13,7 @@
         {
           "name": "quick_run_cmd-2.0.0.mcdr",
           "size": 9504,
-          "download_count": 60,
+          "download_count": 62,
           "created_at": "2021-12-24T12:37:07Z",
           "browser_download_url": "https://github.com/R1ckyH/quick_run_cmd/releases/download/2.0.0/quick_run_cmd-2.0.0.mcdr"
         }
