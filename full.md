@@ -229,7 +229,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 55
+- Total downloads: 56
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -264,7 +264,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 38 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
+| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 39 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
 | [Bingo-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.1) | 0.0.1 | 2022/06/16 12:57:06 | 1.31KB | 17 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.1/Bingo-v0.0.1.mcdr) |
 
 ## bot
@@ -680,7 +680,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.3.0
   - Metadata version: 2.3.0
   - Release version: 2.3.0
-- Total downloads: 945
+- Total downloads: 948
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -710,7 +710,7 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 96 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 99 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 437 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 18 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 
@@ -2768,7 +2768,7 @@ Database-based Carpet fake player management
 - Version: 1.7.0
   - Metadata version: 1.7.0
   - Release version: 1.7.0
-- Total downloads: 8139
+- Total downloads: 8140
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2803,7 +2803,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 89 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
+| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 90 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
 | [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1570 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 615 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 

@@ -229,7 +229,7 @@
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 55
+- 总下载量: 56
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -264,7 +264,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 38 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
+| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 39 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
 | [Bingo-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.1) | 0.0.1 | 2022/06/16 12:57:06 | 1.31KB | 17 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.1/Bingo-v0.0.1.mcdr) |
 
 ## bot
@@ -680,7 +680,7 @@ flowchart LR
 - 版本: 2.3.0
   - 元数据版本: 2.3.0
   - 发布版本: 2.3.0
-- 总下载量: 945
+- 总下载量: 948
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/ChatBridge
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -710,7 +710,7 @@ flowchart LR
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 96 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 99 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 437 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 18 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 
@@ -2836,7 +2836,7 @@ classDiagram
 - 版本: 1.7.0
   - 元数据版本: 1.7.0
   - 发布版本: 1.7.0
-- 总下载量: 8139
+- 总下载量: 8140
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/QuickBackupM
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -2871,7 +2871,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 89 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
+| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 90 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
 | [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1570 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 615 | [下载](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 
