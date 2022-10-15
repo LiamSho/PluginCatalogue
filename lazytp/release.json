@@ -2,10 +2,10 @@
   "schema_version": 2,
   "id": "lazytp",
   "latest_version": "2.0.1",
-  "etag": "\"aeb28c26fde65895755abcf78e36b587fc6857458d3b6d230656bb8a9364f5dc\"",
+  "etag": "\"6c8fc093796234945cb69e1d38e126f2d23478b739cffd8d7a38411830ab49d2\"",
   "releases": [
     {
-      "url": "https://github.com/Lazy-Bing-Server/LazyTP/releases/tag/2.0.1",
+      "url": "https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.1",
       "name": "2.0.1",
       "tag_name": "2.0.1",
       "created_at": "2021-08-27T16:12:37Z",
@@ -15,7 +15,7 @@
           "size": 20019,
           "download_count": 1396,
           "created_at": "2021-08-27T16:14:43Z",
-          "browser_download_url": "https://github.com/Lazy-Bing-Server/LazyTP/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr"
+          "browser_download_url": "https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr"
         }
       ],
       "description": "Metadata fixes, License included in MCDR file",
@@ -23,7 +23,7 @@
       "parsed_version": "2.0.1"
     },
     {
-      "url": "https://github.com/Lazy-Bing-Server/LazyTP/releases/tag/2.0.0",
+      "url": "https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.0",
       "name": "2.0.0 for MCDR 2.1+",
       "tag_name": "2.0.0",
       "created_at": "2021-08-27T15:59:55Z",
@@ -33,7 +33,7 @@
           "size": 7561,
           "download_count": 1316,
           "created_at": "2021-08-27T16:04:24Z",
-          "browser_download_url": "https://github.com/Lazy-Bing-Server/LazyTP/releases/download/2.0.0/LazyTeleport-v2.0.0.mcdr"
+          "browser_download_url": "https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.0/LazyTeleport-v2.0.0.mcdr"
         }
       ],
       "description": "first release",
