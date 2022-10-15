@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "quick_run_cmd",
   "latest_version": "2.0.0",
-  "etag": "\"f73aa2801f5ef2a94bfec49402a63e6f1dc79bbe1bc167e5d0c1da2bfdbb5d4a\"",
+  "etag": "\"6db988485291dfe883d64a375ba787e616675a3c9b661b3492c79e452c5b2c30\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/quick_run_cmd/releases/tag/2.0.0",
