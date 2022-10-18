@@ -1292,7 +1292,7 @@ Make file transfers faster!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 6998
+- Total downloads: 6999
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1318,7 +1318,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1474 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1475 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1504 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1325 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -2386,7 +2386,7 @@ classDiagram
 - Version: 0.1.0-beta1
   - Metadata version: 0.1.0-beta2
   - Release version: 0.1.0-beta1
-- Total downloads: 42
+- Total downloads: 43
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Mount
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2426,7 +2426,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 42 | [Download](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
+| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 43 | [Download](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
 
 ## multi_rcon_api
 
@@ -2933,7 +2933,7 @@ Allow players to clone non-renewable items.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 1504
+- Total downloads: 1505
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -2958,7 +2958,7 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1504 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1505 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## simple_calculator
 
@@ -3452,7 +3452,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 2.0.2
   - Metadata version: 2.0.2+build.6
   - Release version: 2.0.2
-- Total downloads: 677
+- Total downloads: 678
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Labels: [`Information`](/labels/information/readme.md)
@@ -3481,7 +3481,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 253 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
+| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 254 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
 | [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 61 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
 | [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 6 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
 

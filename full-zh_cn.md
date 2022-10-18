@@ -1292,7 +1292,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.2.2
   - 元数据版本: 1.2.2
   - 发布版本: 1.2.2
-- 总下载量: 6998
+- 总下载量: 6999
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Here
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -1318,7 +1318,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1474 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1475 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1504 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1325 | [下载](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -2454,7 +2454,7 @@ classDiagram
 - 版本: 0.1.0-beta1
   - 元数据版本: 0.1.0-beta2
   - 发布版本: 0.1.0-beta1
-- 总下载量: 42
+- 总下载量: 43
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Mount
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -2494,7 +2494,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 42 | [下载](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
+| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 43 | [下载](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
 
 ## multi_rcon_api
 
@@ -3001,7 +3001,7 @@ classDiagram
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 1504
+- 总下载量: 1505
 - 作者: [FlyingShuriken](https://github.com/FlyingShuriken)
 - 仓库: https://github.com/FlyingShuriken/MCDR-plugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -3026,7 +3026,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1504 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1505 | [下载](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
 
 ## simple_calculator
 
@@ -3520,7 +3520,7 @@ classDiagram
 - 版本: 2.0.2
   - 元数据版本: 2.0.2+build.6
   - 发布版本: 2.0.2
-- 总下载量: 677
+- 总下载量: 678
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -3549,7 +3549,7 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 253 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
+| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 254 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
 | [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 61 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
 | [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 6 | [下载](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
 
