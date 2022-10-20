@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "smart_backup",
   "latest_version": "1.4.2",
-  "etag": "\"a867791c9ffc1305ec711d143ba086f60cbe254c240d6743ddd7c81c48040900\"",
+  "etag": "\"b91d2826ec25e71e3fb86cb13607cc79342e3b87479cac8c7a19207e103cddd2\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.2",
@@ -13,7 +13,7 @@
         {
           "name": "SmartBackup-v1.4.2.mcdr",
           "size": 27043,
-          "download_count": 89,
+          "download_count": 91,
           "created_at": "2022-05-11T17:33:33Z",
           "browser_download_url": "https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.2/SmartBackup-v1.4.2.mcdr"
         }
