@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "player_manager",
   "latest_version": "1.2.1",
-  "etag": "\"0c3258d20e8cddaad2e4d616fddcf839d19a775ec3cd075aa5f77458169e9d0b\"",
+  "etag": "\"27535c57907dd9d797f8e924f5e32452ef389ca6fae5127f737b934cc37ac8fb\"",
   "releases": [
     {
       "url": "https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1",
@@ -13,7 +13,7 @@
         {
           "name": "PlayerManager.mcdr",
           "size": 5640,
-          "download_count": 29,
+          "download_count": 30,
           "created_at": "2022-07-08T07:01:25Z",
           "browser_download_url": "https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr"
         }
