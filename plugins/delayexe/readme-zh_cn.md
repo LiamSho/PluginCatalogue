@@ -11,7 +11,7 @@
 - 版本: 1.2.1
   - 元数据版本: 1.2.1
   - 发布版本: 1.2.1
-- 总下载量: 151
+- 总下载量: 153
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/delayexe_mcdr
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
@@ -39,7 +39,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [DelayExe-v1.2.1.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/09/18 02:03:14 | 4.77KB | 14 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.1/DelayExe-v1.2.1.mcdr) |
+| [DelayExe-v1.2.1.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/09/18 02:03:14 | 4.77KB | 16 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.1/DelayExe-v1.2.1.mcdr) |
 | [DelayExe-v1.2.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.0) | 1.2.0 | 2022/09/18 00:48:47 | 4.76KB | 2 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.0/DelayExe-v1.2.0.mcdr) |
 | [DelayExe-v1.1.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.1.0) | 1.1.0 | 2022/05/09 23:51:26 | 4.87KB | 107 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.1.0/DelayExe-v1.1.0.mcdr) |
 | [DelayExe-v1.0.3.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.3) | 1.0.3 | 2022/01/07 05:38:57 | 3.59KB | 22 | [下载](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.3/DelayExe-v1.0.3.mcdr) |
