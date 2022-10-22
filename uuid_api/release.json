@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "uuid_api",
   "latest_version": "0.1.1",
-  "etag": "\"d68d0ddb26436744c7c7ffd4fcf9a1c96db71f3b1a2c3d3daaf35c71ad9e4ad8\"",
+  "etag": "\"3328d54cf660baa2b9362cf9730504dfa352d6d33ac306fbbcbf740b7778ac15\"",
   "releases": [
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/uuid_api-v0.1.1",
