@@ -1764,27 +1764,20 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `login_proxy`
-- Plugin Name: LoginProxy
-- Version: 0.3.0
-  - Metadata version: 0.3.0
-  - Release version: 0.3.0
+- Version: *Data fetching failed*
 - Total downloads: 9
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Labels: [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
-- Description: A Minecraft login proxy Plugin
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme.md) | \>=1.1.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 

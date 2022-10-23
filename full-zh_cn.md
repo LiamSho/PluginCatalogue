@@ -1764,27 +1764,20 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `login_proxy`
-- 插件名: LoginProxy
-- 版本: 0.3.0
-  - 元数据版本: 0.3.0
-  - 发布版本: 0.3.0
+- 版本: *数据拉取失败*
 - 总下载量: 9
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 一个Minecraft服务器登录代理兼白名单插件
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.1.0 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 介绍
 
