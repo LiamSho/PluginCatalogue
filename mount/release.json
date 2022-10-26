@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mount",
   "latest_version": "0.1.0-beta1",
-  "etag": "\"73efe3b80ad0b5321370141a0ea6a7c9c6efe7d8ea07b54d53702d4bb7c01380\"",
+  "etag": "\"ab234c33d15d3f24887f315cb6e290242dcbff0b0a069a92e22bb9d57e821511\"",
   "releases": [
     {
       "url": "https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1",
@@ -13,7 +13,7 @@
         {
           "name": "Mount-v0.1.0-beta1.pyz",
           "size": 27038,
-          "download_count": 46,
+          "download_count": 47,
           "created_at": "2022-01-20T18:05:17Z",
           "browser_download_url": "https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz"
         }
