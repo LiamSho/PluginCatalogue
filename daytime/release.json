@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"5a241eb2c983ec296e41516d0f86582f55befbfb772470c8fa2708e33a19429a\"",
   "id": "daytime",
   "latest_version": "1.1.0",
-  "etag": "\"5a241eb2c983ec296e41516d0f86582f55befbfb772470c8fa2708e33a19429a\"",
   "releases": [
     {
       "url": "https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"b08883566f17e3e8af9f7791cd5c84e95d9106dce3022adc7d05865b0c2d937f\"",
   "id": "lite_file_manager",
   "latest_version": "1.3.0",
-  "etag": "\"b08883566f17e3e8af9f7791cd5c84e95d9106dce3022adc7d05865b0c2d937f\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"ae20a0402ec64904b69ac39ac79f4012dd1a5cb3d09ba45a9ae3fe85efaabc63\"",
   "id": "mcdreforged_plugin_manager",
   "latest_version": "1.2.1",
-  "etag": "\"ae20a0402ec64904b69ac39ac79f4012dd1a5cb3d09ba45a9ae3fe85efaabc63\"",
   "releases": [
     {
       "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.1",

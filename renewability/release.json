@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"80eb15a4c899277155fb52969490a2c647119b768f5d32032fb30afe2fe03b91\"",
   "id": "renewability",
   "latest_version": "1.1.0",
-  "etag": "\"80eb15a4c899277155fb52969490a2c647119b768f5d32032fb30afe2fe03b91\"",
   "releases": [
     {
       "url": "https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0",

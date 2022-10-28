@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"4c27e45f640852efb37d7ae46915ffb4e9e04f550bf71bac28c9b33edfae7f1b\"",
   "id": "multi_whitelist",
   "latest_version": "3.0.0",
-  "etag": "\"4c27e45f640852efb37d7ae46915ffb4e9e04f550bf71bac28c9b33edfae7f1b\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/multi_whitelist/releases/tag/v3.0.0",

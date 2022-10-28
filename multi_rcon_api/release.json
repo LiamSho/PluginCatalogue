@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"227744ef58dce1e0af314aef13bdc3af91e34a45be29b31f61509dbb9a5f7ee8\"",
   "id": "multi_rcon_api",
   "latest_version": "2.0.1",
-  "etag": "\"227744ef58dce1e0af314aef13bdc3af91e34a45be29b31f61509dbb9a5f7ee8\"",
   "releases": [
     {
       "url": "https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1",

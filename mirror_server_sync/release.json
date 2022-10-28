@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"4a21061f645516dc3e35da3318ae4f96182457b8b21d9a47e6803bbfd8366523\"",
   "id": "mirror_server_sync",
   "latest_version": "1.0.1",
-  "etag": "\"4a21061f645516dc3e35da3318ae4f96182457b8b21d9a47e6803bbfd8366523\"",
   "releases": [
     {
       "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1",

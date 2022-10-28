@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"0ada40443bdb44e26b08e3493c76fe100ac05273017bc2e9afa4dedf1ff58bf0\"",
   "id": "minecraft_version_api",
   "latest_version": "1.1.1",
-  "etag": "\"0ada40443bdb44e26b08e3493c76fe100ac05273017bc2e9afa4dedf1ff58bf0\"",
   "releases": [
     {
       "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.1",

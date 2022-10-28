@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"5e1d69a8e6ab19f2231d5a0d817ea258abb9fbb651723acf09504ca951987cc9\"",
   "id": "online",
   "latest_version": "1.4.0",
-  "etag": "\"5e1d69a8e6ab19f2231d5a0d817ea258abb9fbb651723acf09504ca951987cc9\"",
   "releases": [
     {
       "url": "https://github.com/FAS-Server/Online/releases/tag/v1.4.0",

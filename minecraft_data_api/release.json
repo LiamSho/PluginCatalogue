@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"4709593e90e586a0fb6c30f76d22d849cb146279685623b2dd657de3cd7e9430\"",
   "id": "minecraft_data_api",
   "latest_version": "1.4.1",
-  "etag": "\"4709593e90e586a0fb6c30f76d22d849cb146279685623b2dd657de3cd7e9430\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"01706df0e0117acad49ea11b1123bb14f2b27dad0cbf66c9b89c5ca759e9e1d9\"",
   "id": "wiki_request",
   "latest_version": "3.0",
-  "etag": "\"01706df0e0117acad49ea11b1123bb14f2b27dad0cbf66c9b89c5ca759e9e1d9\"",
   "releases": [
     {
       "url": "https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0",

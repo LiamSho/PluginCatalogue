@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"8cfc2616720cd2810d13d94c5e6d355b981697b30350b9e742269b9f98d49b41\"",
   "id": "run_some_commands",
   "latest_version": "1.0.0",
-  "etag": "\"8cfc2616720cd2810d13d94c5e6d355b981697b30350b9e742269b9f98d49b41\"",
   "releases": [
     {
       "url": "https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0",

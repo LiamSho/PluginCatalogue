@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"ffb3a39489230c502863aef81228f2f9447a763db86c0eb58738aafecc4ad5b9\"",
   "id": "simple_op",
   "latest_version": "1.2.0",
-  "etag": "\"ffb3a39489230c502863aef81228f2f9447a763db86c0eb58738aafecc4ad5b9\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/SimpleOP/releases/tag/v1.2.0",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"870a241e0a515227624dc1dd6877e78ea741cff6db781eef9d570353c99903dd\"",
   "id": "where_is",
   "latest_version": "2.0.2",
-  "etag": "\"870a241e0a515227624dc1dd6877e78ea741cff6db781eef9d570353c99903dd\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2",

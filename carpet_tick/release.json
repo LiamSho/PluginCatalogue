@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"92df4e5164e37ff0a35111ea3b50cfacf7c62ff5a8a1f176341da07a2c793194\"",
   "id": "carpet_tick",
   "latest_version": "1.1.1",
-  "etag": "\"92df4e5164e37ff0a35111ea3b50cfacf7c62ff5a8a1f176341da07a2c793194\"",
   "releases": [
     {
       "url": "https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.1",

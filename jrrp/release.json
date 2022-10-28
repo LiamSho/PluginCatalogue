@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"9859740bbae47f16417b4d35054049379b1b7fa6ae91919c0fec765a822dacb6\"",
   "id": "jrrp",
   "latest_version": "3.0.0",
-  "etag": "\"9859740bbae47f16417b4d35054049379b1b7fa6ae91919c0fec765a822dacb6\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMURsMC/jrrp/releases/tag/3.0.0",

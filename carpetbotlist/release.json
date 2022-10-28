@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"4ca03138517ab4e1bdc548c4cdad4fb0a59a600695bd3b78f50ea16fd726c9c0\"",
   "id": "carpetbotlist",
   "latest_version": "2.1.1",
-  "etag": "\"4ca03138517ab4e1bdc548c4cdad4fb0a59a600695bd3b78f50ea16fd726c9c0\"",
   "releases": [
     {
       "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.1",

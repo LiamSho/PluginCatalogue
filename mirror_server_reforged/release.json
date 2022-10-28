@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"ddeaff483e2b30cb8492b20022611d50ebe739eec7feb4be8df2b5283915c629\"",
   "id": "mirror_server_reforged",
   "latest_version": "1.0.3",
-  "etag": "\"ddeaff483e2b30cb8492b20022611d50ebe739eec7feb4be8df2b5283915c629\"",
   "releases": [
     {
       "url": "https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3",

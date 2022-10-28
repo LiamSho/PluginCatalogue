@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"80bcb4000b053cc143f332c938fc7e7d0bdcf2b2846d1390cf8db236acbc1b5b\"",
   "id": "simple_op_modified",
   "latest_version": "1.1.0",
-  "etag": "\"80bcb4000b053cc143f332c938fc7e7d0bdcf2b2846d1390cf8db236acbc1b5b\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0",

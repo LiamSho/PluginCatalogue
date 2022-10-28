@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"8b41666d8ca474a673d36663b786a8f2ccd3ebd530caeffdea00df566bf2f696\"",
   "id": "mount",
   "latest_version": "0.1.0-beta1",
-  "etag": "\"8b41666d8ca474a673d36663b786a8f2ccd3ebd530caeffdea00df566bf2f696\"",
   "releases": [
     {
       "url": "https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1",

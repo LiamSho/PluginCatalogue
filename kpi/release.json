@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"8b1d458e22b5b46c26ba46ac126eb817892f50269f785f8f121426ee80fc67ca\"",
   "id": "kpi",
   "latest_version": "1.2.0",
-  "etag": "\"8b1d458e22b5b46c26ba46ac126eb817892f50269f785f8f121426ee80fc67ca\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.2.0",

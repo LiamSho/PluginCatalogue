@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"365f4ff859ee0cf371222546c9805ebbeed30748f95c778866ee0d4a9de2f68e\"",
   "id": "smart_servertime",
   "latest_version": "1.2.0",
-  "etag": "\"365f4ff859ee0cf371222546c9805ebbeed30748f95c778866ee0d4a9de2f68e\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.0",

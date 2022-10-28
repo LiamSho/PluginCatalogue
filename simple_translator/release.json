@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"4cac1ccf3f4cb669fffc94e2290e310b2b174f8d653dd46bdbecdbecd8b516e1\"",
   "id": "simple_translator",
   "latest_version": "1.3.1",
-  "etag": "\"4cac1ccf3f4cb669fffc94e2290e310b2b174f8d653dd46bdbecdbecd8b516e1\"",
   "releases": [
     {
       "url": "https://github.com/skuzow/simple-translator/releases/tag/v1.3.1",

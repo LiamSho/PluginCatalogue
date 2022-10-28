@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"838447775ee4439ebb52d9a2c6f40df5095bc119189a17dca029dee1d48e7f4b\"",
   "id": "jrrps",
   "latest_version": "2.3.2",
-  "etag": "\"838447775ee4439ebb52d9a2c6f40df5095bc119189a17dca029dee1d48e7f4b\"",
   "releases": [
     {
       "url": "https://github.com/SkyDynamic/jrrps/releases/tag/2.3.2",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"27069568ca49d8738bebc379167ef1427fbbeba0722ddbe65ea0e0a62e057872\"",
   "id": "chatbridgereforged_mc",
   "latest_version": "0.2.5",
-  "etag": "\"27069568ca49d8738bebc379167ef1427fbbeba0722ddbe65ea0e0a62e057872\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.5",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"301fe017ae01d3428748d0b7e46f13b3f557ce11319414469f370e8d72c35f51\"",
   "id": "region_file_updater",
   "latest_version": "1.5.2",
-  "etag": "\"301fe017ae01d3428748d0b7e46f13b3f557ce11319414469f370e8d72c35f51\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.2",

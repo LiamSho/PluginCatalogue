@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"63bcb034cc1b56c645f0f395e7daaf8afa1b52e5283ec8377ef46de9dc335546\"",
   "id": "world_copier",
   "latest_version": "0.1.0",
-  "etag": "\"63bcb034cc1b56c645f0f395e7daaf8afa1b52e5283ec8377ef46de9dc335546\"",
   "releases": [
     {
       "url": "https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0",

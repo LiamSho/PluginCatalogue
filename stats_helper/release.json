@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"8311efb707eb145230cffd8cac5044f1bfcf217139a85e006b7b2f1f05a2cba2\"",
   "id": "stats_helper",
   "latest_version": "7.5.1",
-  "etag": "\"8311efb707eb145230cffd8cac5044f1bfcf217139a85e006b7b2f1f05a2cba2\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1",

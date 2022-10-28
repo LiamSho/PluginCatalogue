@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"8cd5a34dd87086feb3cc6e297f8497e9babba255169e569c33467d8c854b4211\"",
   "id": "beep",
   "latest_version": "1.1.0",
-  "etag": "\"8cd5a34dd87086feb3cc6e297f8497e9babba255169e569c33467d8c854b4211\"",
   "releases": [
     {
       "url": "https://github.com/TISUnion/Beep/releases/tag/v1.1.0",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"2bf4ecfa8ef62c020f5563f2dd63418515e5c692c3486251d6c27c3c394b4ba5\"",
   "id": "onebot_api",
   "latest_version": "1.0.1",
-  "etag": "\"2bf4ecfa8ef62c020f5563f2dd63418515e5c692c3486251d6c27c3c394b4ba5\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1",

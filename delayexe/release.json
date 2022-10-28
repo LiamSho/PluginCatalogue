@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"e879451324ec327572b40c2b34ee1aa476b40fde2550fa185f2ae56b97d82718\"",
   "id": "delayexe",
   "latest_version": "1.2.2",
-  "etag": "\"e879451324ec327572b40c2b34ee1aa476b40fde2550fa185f2ae56b97d82718\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.2",

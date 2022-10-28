@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"d6114dbda2d6ad3d8958842a3cc0d64acfb4a58b0bab3e25af6394b6faa5b14f\"",
   "id": "leader_reforged",
   "latest_version": "1.1.2",
-  "etag": "\"d6114dbda2d6ad3d8958842a3cc0d64acfb4a58b0bab3e25af6394b6faa5b14f\"",
   "releases": [
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.2",

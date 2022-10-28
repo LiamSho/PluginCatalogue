@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"d6d0538f0b78728b0e7166a8fc05f92f388a578fc3cd85c43f70a7b357149083\"",
   "id": "cpu_temp",
   "latest_version": "3.0.2",
-  "etag": "\"d6d0538f0b78728b0e7166a8fc05f92f388a578fc3cd85c43f70a7b357149083\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2",

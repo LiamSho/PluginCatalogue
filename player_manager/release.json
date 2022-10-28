@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"27535c57907dd9d797f8e924f5e32452ef389ca6fae5127f737b934cc37ac8fb\"",
   "id": "player_manager",
   "latest_version": "1.2.1",
-  "etag": "\"27535c57907dd9d797f8e924f5e32452ef389ca6fae5127f737b934cc37ac8fb\"",
   "releases": [
     {
       "url": "https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1",

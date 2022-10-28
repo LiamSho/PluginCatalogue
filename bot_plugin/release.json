@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"fbc88cfea859007dbdd6bb5142c31c27125a700449a39f8639799a30975bb9b1\"",
   "id": "bot_plugin",
   "latest_version": "1.0.0",
-  "etag": "\"fbc88cfea859007dbdd6bb5142c31c27125a700449a39f8639799a30975bb9b1\"",
   "releases": [
     {
       "url": "https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0",

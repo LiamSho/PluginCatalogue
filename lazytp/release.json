@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"6c8fc093796234945cb69e1d38e126f2d23478b739cffd8d7a38411830ab49d2\"",
   "id": "lazytp",
   "latest_version": "2.0.1",
-  "etag": "\"6c8fc093796234945cb69e1d38e126f2d23478b739cffd8d7a38411830ab49d2\"",
   "releases": [
     {
       "url": "https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.1",

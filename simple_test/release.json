@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
+  "etag": "\"3a51b91350d349ae5f566291339c42e9b0d8f3c3d43f91b604a8c0d97ea8932c\"",
   "id": "simple_test",
   "latest_version": "3.0.0",
-  "etag": "\"3a51b91350d349ae5f566291339c42e9b0d8f3c3d43f91b604a8c0d97ea8932c\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/simple_test/releases/tag/v3.0.0",
