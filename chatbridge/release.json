@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"df6ccaeff3c4c701ac13bbc8d9f951a47085c8e243a96e03530168aadb5daa67\"",
+  "etag": "\"84d2b9d2df4e39eb8bf32120e433d94525230b333c8fa0921ae69257fb99a7b8\"",
   "id": "chatbridge",
   "latest_version": "2.3.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "ChatBridge.pyz",
           "size": 41595,
-          "download_count": 148,
+          "download_count": 151,
           "created_at": "2022-09-10T10:05:24Z",
           "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz"
         }
