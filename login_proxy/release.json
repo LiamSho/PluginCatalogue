@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"23cdbb6b3816b7d76a9fafe13f00a654ad260c243c9ecbedbf93bda6a7555eef\"",
+  "etag": "\"a3f9f41547f09a7154e75d14d112f8486db062c061e243a4f7ba27b49fbc4b12\"",
   "id": "login_proxy",
   "latest_version": "0.3.1",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "LoginProxy-v0.3.1.mcdr",
           "size": 23265,
-          "download_count": 2,
+          "download_count": 4,
           "created_at": "2022-10-23T06:38:37Z",
           "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.1/LoginProxy-v0.3.1.mcdr"
         }
@@ -31,7 +31,7 @@
         {
           "name": "LoginProxy-v0.3.0.mcdr",
           "size": 21857,
-          "download_count": 5,
+          "download_count": 7,
           "created_at": "2022-09-20T23:13:39Z",
           "browser_download_url": "https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.0/LoginProxy-v0.3.0.mcdr"
         }
