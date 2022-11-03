@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"fcfda426ce1a1f1c99be5785e98324f62984724aadc44c803f04ec14542b8649\"",
+  "etag": "\"42c0ac58fbfc4300c8f6b811da7b494725751eb8e59eca646062b5188ba1ae6a\"",
   "id": "advanced_whitelist_r",
   "latest_version": "1.0.2",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "AdvancedWhitelistR-v1.0.2.mcdr",
           "size": 3582,
-          "download_count": 167,
+          "download_count": 169,
           "created_at": "2022-01-24T15:38:16Z",
           "browser_download_url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.2/AdvancedWhitelistR-v1.0.2.mcdr"
         }
