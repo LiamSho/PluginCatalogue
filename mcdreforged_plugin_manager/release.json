@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"eab4d8320cfe30ea37b914fb2e1508ca3cb7b2c663712de8545982605b069b5a\"",
+  "etag": "\"f22f7b3d28ca42596aad20a85aff668c291cb931b2cc3a324b79fb3793f8a907\"",
   "id": "mcdreforged_plugin_manager",
   "latest_version": "1.2.1",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "MCDReforgedPluginManager-v1.2.1.mcdr",
           "size": 21808,
-          "download_count": 162,
+          "download_count": 163,
           "created_at": "2022-07-27T06:28:27Z",
           "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.2.1/MCDReforgedPluginManager-v1.2.1.mcdr"
         }
