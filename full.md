@@ -680,7 +680,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 - Version: 2.3.0
   - Metadata version: 2.3.0
   - Release version: 2.3.0
-- Total downloads: 1043
+- Total downloads: 1044
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -710,7 +710,7 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 187 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 188 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 443 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 18 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 
@@ -1758,40 +1758,6 @@ Browse / Import / Export files in the server in Minecraft!
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2151 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
-
-## login_proxy
-
-### Basic Information
-
-- Plugin ID: `login_proxy`
-- Version: *Data fetching failed*
-- Total downloads: 15
-- Authors: [zyxkad](https://github.com/zyxkad)
-- Repository: https://github.com/kmcsr/login_proxy_mcdr
-- Labels: [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
-
-### Dependencies
-
-*Data fetching failed*
-
-### Requirements
-
-*Data fetching failed*
-
-### Introduction
-
-*None*
-
-### Download
-
-> :warning: Warning: Read the README file in plugin repository before using it.
-
-| File | Version | Upload Time | Size | Downloads | Operations |
-| --- | --- | --- | --- | --- | --- |
-| [LoginProxy-v0.3.1.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.1) | 0.3.1 | 2022/10/23 06:38:37 | 22.72KB | 4 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.1/LoginProxy-v0.3.1.mcdr) |
-| [LoginProxy-v0.3.0.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.0) | 0.3.0 | 2022/09/20 23:13:39 | 21.34KB | 7 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.0/LoginProxy-v0.3.0.mcdr) |
-| [LoginProxy-v0.2.0.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.2.0) | 0.2.0 | 2022/09/19 00:14:29 | 20.58KB | 2 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.2.0/LoginProxy-v0.2.0.mcdr) |
 
 ## mc_uuid
 

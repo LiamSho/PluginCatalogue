@@ -680,7 +680,7 @@ flowchart LR
 - 版本: 2.3.0
   - 元数据版本: 2.3.0
   - 发布版本: 2.3.0
-- 总下载量: 1043
+- 总下载量: 1044
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/ChatBridge
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -710,7 +710,7 @@ flowchart LR
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 187 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
+| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 188 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 443 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
 | [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 18 | [下载](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 
@@ -1758,40 +1758,6 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
 | [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2151 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
-
-## login_proxy
-
-### 基本信息
-
-- 插件 ID: `login_proxy`
-- 版本: *数据拉取失败*
-- 总下载量: 15
-- 作者: [zyxkad](https://github.com/zyxkad)
-- 仓库: https://github.com/kmcsr/login_proxy_mcdr
-- 标签: [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: *数据拉取失败*
-
-### 插件依赖
-
-*数据拉取失败*
-
-### 包依赖
-
-*数据拉取失败*
-
-### 介绍
-
-*无*
-
-### 下载
-
-> :warning: 注意：使用插件之前，先阅读仓库中的 README。
-
-| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
-| --- | --- | --- | --- | --- | --- |
-| [LoginProxy-v0.3.1.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.1) | 0.3.1 | 2022/10/23 06:38:37 | 22.72KB | 4 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.1/LoginProxy-v0.3.1.mcdr) |
-| [LoginProxy-v0.3.0.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.0) | 0.3.0 | 2022/09/20 23:13:39 | 21.34KB | 7 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.0/LoginProxy-v0.3.0.mcdr) |
-| [LoginProxy-v0.2.0.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.2.0) | 0.2.0 | 2022/09/19 00:14:29 | 20.58KB | 2 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.2.0/LoginProxy-v0.2.0.mcdr) |
 
 ## mc_uuid
 
