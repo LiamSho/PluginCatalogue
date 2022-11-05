@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"ea55ea1baf40f8891c63acdce0b987b577a538b694f0c082b14f5a0650bf7d86\"",
+  "etag": "\"afe2b6397dac1a952a94f793b154dd708b9764d33f16601ec717da310964f9d4\"",
   "id": "carpetbotlist",
   "latest_version": "2.1.1",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "CarpetBotList-v2.1.1.mcdr",
           "size": 1936,
-          "download_count": 1675,
+          "download_count": 1676,
           "created_at": "2021-08-23T06:17:05Z",
           "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.1/CarpetBotList-v2.1.1.mcdr"
         }
