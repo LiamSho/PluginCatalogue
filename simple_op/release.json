@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"78892a885426a00ae3d4f06e49ecd0262679d94daa7dba4a2fb23f0dcda473a4\"",
+  "etag": "\"ce4a1845f2fc5957f60b70b92cca644d2c096ea5709084f532d2bc73615fc8a0\"",
   "id": "simple_op",
   "latest_version": "1.2.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "SimpleOP-v1.2.0.mcdr",
           "size": 1978,
-          "download_count": 1905,
+          "download_count": 1906,
           "created_at": "2021-08-26T13:44:28Z",
           "browser_download_url": "https://github.com/MCDReforged/SimpleOP/releases/download/v1.2.0/SimpleOP-v1.2.0.mcdr"
         }
