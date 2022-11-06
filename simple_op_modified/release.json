@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"7173ab40d71b17efb9415a4aa31d195086c354ec310ad76abd82088932ae8bb4\"",
+  "etag": "\"2509b59baedca80de9e52c67defccb32e705f30f5c791edeb41bd7f30d870efa\"",
   "id": "simple_op_modified",
   "latest_version": "1.1.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "SimpleOPModified-v1.1.0.mcdr",
           "size": 5703,
-          "download_count": 1482,
+          "download_count": 1483,
           "created_at": "2021-08-23T06:23:11Z",
           "browser_download_url": "https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr"
         }
