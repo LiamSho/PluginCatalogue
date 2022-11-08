@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"838447775ee4439ebb52d9a2c6f40df5095bc119189a17dca029dee1d48e7f4b\"",
+  "etag": "\"6d30f1e0cef7a0640abca1844ed348150db7149b538cbaeda4cb546db7b2e0a0\"",
   "id": "jrrps",
   "latest_version": "2.3.2",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "jrrp2.3.2.mcdr",
           "size": 2771,
-          "download_count": 54,
+          "download_count": 56,
           "created_at": "2022-03-20T01:21:46Z",
           "browser_download_url": "https://github.com/SkyDynamic/jrrps/releases/download/2.3.2/jrrp2.3.2.mcdr"
         }
