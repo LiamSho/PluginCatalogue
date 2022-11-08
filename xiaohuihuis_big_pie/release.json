@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"011e75b16be3068b2498ebec339d511d211856da0f0ec3166a315ffc3d0a9a54\"",
+  "etag": "\"2d9e99230fe4d8f8304b401584d20fcec7579475e815d81128f3b27f63d8b805\"",
   "id": "xiaohuihuis_big_pie",
   "latest_version": "0.0.1",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "XiaoHuiHui.sBigPie-v0.0.1.mcdr",
           "size": 1181,
-          "download_count": 60,
+          "download_count": 61,
           "created_at": "2022-05-21T16:10:31Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-0.0.1/XiaoHuiHui.sBigPie-v0.0.1.mcdr"
         }
