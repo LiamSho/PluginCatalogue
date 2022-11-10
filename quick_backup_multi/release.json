@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"bedb4758437fa836ec7f7bc6197e86f6a219a74bed1b2a226472567c0c8744f7\"",
+  "etag": "\"cd80b6262555225607a3f30d5efbb44eb2d907fb7c4990d702175ac09c892456\"",
   "id": "quick_backup_multi",
   "latest_version": "1.7.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "QuickBackupM-v1.7.0.mcdr",
           "size": 22417,
-          "download_count": 266,
+          "download_count": 267,
           "created_at": "2022-10-03T04:13:26Z",
           "browser_download_url": "https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr"
         }
