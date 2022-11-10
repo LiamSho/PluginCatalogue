@@ -1845,7 +1845,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 插件 ID: `mcd_task`
 - 插件名: Task
 - 版本: 2.3.2
-  - 元数据版本: 2.3.2+build.64
+  - 元数据版本: 2.3.3+build.65
   - 发布版本: 2.3.2
 - 总下载量: 3146
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
@@ -3065,44 +3065,6 @@ classDiagram
 | --- | --- | --- | --- | --- | --- |
 | [SimpleOP-v1.2.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:44:28 | 1.93KB | 1912 | [下载](https://github.com/MCDReforged/SimpleOP/releases/download/v1.2.0/SimpleOP-v1.2.0.mcdr) |
 | [SimpleOP-v1.1.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.1.0) | 1.1.0 | 2021/08/22 03:50:39 | 1.89KB | 1319 | [下载](https://github.com/MCDReforged/SimpleOP/releases/download/v1.1.0/SimpleOP-v1.1.0.mcdr) |
-
-## simple_op_modified
-
-### 基本信息
-
-- 插件 ID: `simple_op_modified`
-- 插件名: Simple OP Modified
-- 版本: 1.1.0
-  - 元数据版本: 1.1.0
-  - 发布版本: 1.1.0
-- 总下载量: 2785
-- 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
-- 仓库: https://github.com/Lazy-Bing-Server/SimpleOPModified
-- 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: !!op to get op, !!restart to restart
-
-### 插件依赖
-
-| 插件 ID | 依赖需求 |
-| --- | --- |
-
-### 包依赖
-
-| Python 包 | 依赖需求 |
-| --- | --- |
-
-### 介绍
-
-`!!op` 配置自动发放OP, 或 `!!restart` 重启服务端
-
-### 下载
-
-> :warning: 注意：使用插件之前，先阅读仓库中的 README。
-
-| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
-| --- | --- | --- | --- | --- | --- |
-| [SimpleOPModified-v1.1.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.1.0) | 1.1.0 | 2021/08/23 06:23:11 | 5.57KB | 1483 | [下载](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.1.0/SimpleOPModified-v1.1.0.mcdr) |
-| [SimpleOPModified-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/tag/1.0.0) | 1.0.0 | 2021/08/19 09:22:07 | 5.7KB | 1302 | [下载](https://github.com/Lazy-Bing-Server/SimpleOPModified/releases/download/1.0.0/SimpleOPModified-v1.0.0.mcdr) |
 
 ## simple_test
 
