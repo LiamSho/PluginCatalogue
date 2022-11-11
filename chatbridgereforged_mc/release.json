@@ -1,47 +1,47 @@
 {
   "schema_version": 2,
-  "etag": "\"9ce9d4fbb1e1ac2d771db67f301146951043a429fd64a895688b3f75965cabde\"",
+  "etag": "\"a9a7b9930bde5540c41ce9fd1376b1463d9594e40540bfe30442ddac225cf22c\"",
   "id": "chatbridgereforged_mc",
-  "latest_version": "0.2.5",
+  "latest_version": "0.2.6",
   "releases": [
     {
-      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.5",
-      "name": "0.2.5-release",
-      "tag_name": "0.2.5",
-      "created_at": "2022-07-15T17:11:32Z",
+      "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.6",
+      "name": "0.2.6-release",
+      "tag_name": "0.2.6",
+      "created_at": "2022-11-11T04:07:04Z",
       "assets": [
         {
           "name": "ChatBridgeReforged_cqhttp.py",
-          "size": 41014,
-          "download_count": 28,
-          "created_at": "2022-07-15T17:07:38Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.5/ChatBridgeReforged_cqhttp.py"
+          "size": 41046,
+          "download_count": 0,
+          "created_at": "2022-11-11T04:10:56Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.6/ChatBridgeReforged_cqhttp.py"
         },
         {
           "name": "ChatBridgeReforged_MC.py",
-          "size": 32249,
-          "download_count": 48,
-          "created_at": "2022-07-15T17:07:39Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.5/ChatBridgeReforged_MC.py"
+          "size": 32218,
+          "download_count": 0,
+          "created_at": "2022-11-11T04:10:57Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.6/ChatBridgeReforged_MC.py"
         },
         {
           "name": "ChatBridgeReforged_MC.pyz",
-          "size": 50563,
-          "download_count": 75,
-          "created_at": "2022-07-31T17:19:46Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.5/ChatBridgeReforged_MC.pyz"
+          "size": 50532,
+          "download_count": 0,
+          "created_at": "2022-11-11T04:10:58Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.6/ChatBridgeReforged_MC.pyz"
         },
         {
           "name": "ChatBridgeReforged_Server.zip",
-          "size": 35836,
-          "download_count": 54,
-          "created_at": "2022-07-15T17:07:38Z",
-          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.5/ChatBridgeReforged_Server.zip"
+          "size": 35712,
+          "download_count": 0,
+          "created_at": "2022-11-11T04:10:54Z",
+          "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.6/ChatBridgeReforged_Server.zip"
         }
       ],
-      "description": "# 0.2.0\r\n## Description\r\n- Add new event on_player_joined and on_player_left\r\n- New cqhttp client\r\n- Rtext added\r\n\r\n## Changes\r\n### Server Change\r\n- New utility\r\n  - Rtext\r\n\r\n### BUGFIX and Improvements\r\n- better logging processing\r\n\r\n# 0.2.1\r\n### BUGFIX and Improvements\r\n- FIXED BUG of CBR sever can't reply\r\n\r\n# 0.2.2\r\n### BUGFIX and Improvements\r\n- FIXED #7 \r\n\r\n# 0.2.3\r\n### BUGFIX and Improvements\r\n- FIXED #11 \r\n- FIXED client non-string object log exception\r\n- FIXED say command in server, and patch some debug message\r\n- FIXED past help messages won't delete after reload\r\n- FIXED empty password \r\n\r\n# 0.2.4\r\n### BUGFIX and Improvements\r\n\r\n- FIXED restart guardian end after receive stop from server\r\n- FIXED #11\r\n- FIXED CQ client restart Guardian\r\n- FIXED CQ client ping guardian\r\n- FIXED CQ client sending bug\r\n- Improved CQ client stop\r\n- Improved CQ client wordings\r\n- Split network and client at .pyz Client\r\n- Split Client Class of CBR Sever to a single .py file\r\n\r\n# 0.2.5\r\n### BUGFIX and Improvements\r\n\r\n- FIXED receiver and JSON decode error\r\n- FIXED guardian countdown error\r\n- Improved Formatter implement\r\n- Change file structure of .pyz client\r\n- Catch OS error while sending a message through a socket of the client",
+      "description": "# 0.2\r\n## Description\r\n- Add new event on_player_joined and on_player_left\r\n- New cqhttp client\r\n- Rtext added\r\n\r\n## Changes\r\n### Server Change\r\n- New Utility\r\n  - Rtext\r\n\r\n### BUGFIX and Improvements\r\n- better logging processing\r\n\r\n# 0.2.1\r\n### BUGFIX and Improvements\r\n- FIXED BUG of CBR sever can't reply\r\n\r\n# 0.2.2\r\n### BUGFIX and Improvements\r\n- FIXED #7 \r\n\r\n# 0.2.3\r\n### BUGFIX and Improvements\r\n- FIXED #11 \r\n- FIXED client non-string object log exception\r\n- FIXED say command in server, and patch some debug message\r\n- FIXED past help messages won't delete after reload\r\n- FIXED empty password \r\n\r\n# 0.2.4\r\n### BUGFIX and Improvements\r\n\r\n- FIXED restart guardian end after receiving stop from server\r\n- FIXED #11\r\n- FIXED CQ client restart Guardian\r\n- FIXED CQ client ping guardian\r\n- FIXED CQ client sending bug\r\n- Improved CQ client stop\r\n- Improved CQ client wording\r\n- Split network and client at .pyz Client\r\n- Split the Client Class of CBR Sever to a single .py file\r\n\r\n# 0.2.5\r\n### BUGFIX and Improvements\r\n\r\n- FIXED receiver and JSON decode error\r\n- FIXED guardian countdown error\r\n- Improved Formatter implement\r\n- Change the file structure of .pyz client\r\n- Catch OS error while sending a message through a socket of the client\r\n\r\n# 0.2.6\r\n### BUGFIX and Improvements\r\n- FIXED import error\r\n- FIXED cqhttp client message collision error\r\n- Improve error logging",
       "prerelease": false,
-      "parsed_version": "0.2.5"
+      "parsed_version": "0.2.6"
     },
     {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1",
