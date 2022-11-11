@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"8d6f321b1be3ffea9acc8f9e45fdaf86237e07a087d008e1d42ad473fcd1ed76\"",
+  "etag": "\"c27f6870841c8ba5a1bf4e3ee5785f85a8eec79ebe6f59e7c4113968df636efb\"",
   "id": "gamemode",
   "latest_version": "0.1.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "Gamemode-v0.1.0.mcdr",
           "size": 3097,
-          "download_count": 211,
+          "download_count": 213,
           "created_at": "2022-06-30T09:29:07Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr"
         }
