@@ -190,7 +190,7 @@
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 3739
+- 总下载量: 3741
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - 仓库: https://github.com/TISUnion/Beep
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -217,7 +217,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 2412 | [下载](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 2414 | [下载](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1327 | [下载](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## bingo
@@ -229,7 +229,7 @@
 - 版本: 0.0.2
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
-- 总下载量: 59
+- 总下载量: 61
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
@@ -264,7 +264,7 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 42 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
+| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 44 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
 | [Bingo-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.1) | 0.0.1 | 2022/06/16 12:57:06 | 1.31KB | 17 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.1/Bingo-v0.0.1.mcdr) |
 
 ## bot

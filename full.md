@@ -190,7 +190,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 3739
+- Total downloads: 3741
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -217,7 +217,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 2412 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 2414 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1327 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## bingo
@@ -229,7 +229,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 0.0.2
   - Metadata version: 0.0.2
   - Release version: 0.0.2
-- Total downloads: 59
+- Total downloads: 61
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -264,7 +264,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 42 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
+| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 44 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
 | [Bingo-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.1) | 0.0.1 | 2022/06/16 12:57:06 | 1.31KB | 17 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.1/Bingo-v0.0.1.mcdr) |
 
 ## bot
