@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"d060cfd4419f03a8256f667ae405270d40b54d8b45d3c1d6f84db879b902d68e\"",
+  "etag": "\"f5f1e12928880969a2d7ca8890da4dd1fc2ce4ccf148daf003d96bca0dd2d1a0\"",
   "id": "kpi",
   "latest_version": "1.2.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "KPI-v1.2.0.mcdr",
           "size": 17793,
-          "download_count": 14,
+          "download_count": 16,
           "created_at": "2022-10-23T06:38:13Z",
           "browser_download_url": "https://github.com/kmcsr/kpi_mcdr/releases/download/v1.2.0/KPI-v1.2.0.mcdr"
         }
