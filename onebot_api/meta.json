@@ -1,7 +1,7 @@
 {
   "id": "onebot_api",
   "name": "OneBot API",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": "https://github.com/HuajiMUR233/OneBotAPI",
   "labels": [
     "api"

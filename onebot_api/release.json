@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
-  "etag": "\"61d4d5829ae0ac773539fdc3e8446b3d7b019ee5228da999a34d884a3e30da8b\"",
+  "etag": "\"f1c2591cec1095b847e77b22b25135475980f0ed145cea8515de53cac1c20b3a\"",
   "id": "onebot_api",
-  "latest_version": "1.0.1",
+  "latest_version": "1.1.1",
   "releases": [
+    {
+      "url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.1.1",
+      "name": "1.1.1",
+      "tag_name": "1.1.1",
+      "created_at": "2022-11-16T12:59:49Z",
+      "assets": [
+        {
+          "name": "OneBotAPI-v1.1.1.mcdr",
+          "size": 3803,
+          "download_count": 0,
+          "created_at": "2022-11-16T13:02:15Z",
+          "browser_download_url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.1.1/OneBotAPI-v1.1.1.mcdr"
+        }
+      ],
+      "description": "只是补个忘记了的更新",
+      "prerelease": false,
+      "parsed_version": "1.1.1"
+    },
     {
       "url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1",
       "name": "1.0.1",
