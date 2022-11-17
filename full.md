@@ -723,7 +723,7 @@ Chatbridge v2
 - Version: 0.2.6
   - Metadata version: 0.2.6-dev031
   - Release version: 0.2.6
-- Total downloads: 27
+- Total downloads: 29
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/ChatBridgeReforged
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -752,7 +752,7 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.6) | 0.2.6 | 2022/11/11 04:10:58 | 49.35KB | 3 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.6/ChatBridgeReforged_MC.pyz) |
+| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.6) | 0.2.6 | 2022/11/11 04:10:58 | 49.35KB | 5 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.6/ChatBridgeReforged_MC.pyz) |
 | [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1) | 0.1.1 | 2022/03/04 06:12:36 | 46.96KB | 16 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz) |
 | [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2) | 0.0.2 | 2022/01/15 16:33:44 | 44.9KB | 8 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.pyz) |
 
@@ -861,7 +861,7 @@ A plugin to check cpu temp regularly.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 2471
+- Total downloads: 2473
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -887,7 +887,7 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 2471 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
+| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 2473 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
 
 ## database_api
 
@@ -1400,7 +1400,7 @@ Make file transfers faster!
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 2445
+- Total downloads: 2447
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
 - Labels: [`Information`](/labels/information/readme.md)
@@ -1426,7 +1426,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 624 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
+| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 626 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1821 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
@@ -1970,7 +1970,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 - Version: 2.1.0
   - Metadata version: 2.1.0
   - Release version: 2.1.0
-- Total downloads: 96
+- Total downloads: 98
 - Authors: [Flyky](https://github.com/Flyky)
 - Repository: https://github.com/Flyky/MCDRpost
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1999,7 +1999,7 @@ A MCDR plugin for post/teleport items
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRpost-v2.1.0.mcdr](https://github.com/Flyky/MCDRpost/releases/tag/2.1.0) | 2.1.0 | 2022/06/16 16:32:20 | 8.73KB | 96 | [Download](https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr) |
+| [MCDRpost-v2.1.0.mcdr](https://github.com/Flyky/MCDRpost/releases/tag/2.1.0) | 2.1.0 | 2022/06/16 16:32:20 | 8.73KB | 98 | [Download](https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr) |
 
 ## minecraft_data_api
 
@@ -2010,7 +2010,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 3677
+- Total downloads: 3679
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -2040,7 +2040,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 3677 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 3679 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -2728,7 +2728,7 @@ Database-based Carpet fake player management
 - Version: 1.7.0
   - Metadata version: 1.7.0
   - Release version: 1.7.0
-- Total downloads: 8408
+- Total downloads: 8409
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2763,7 +2763,7 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 323 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
+| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 324 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
 | [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1580 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
 | [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 619 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 
