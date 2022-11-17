@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"ced2fe6a5d3dc399eebdd4325c71abb5f91b4102c80b32c3325a388313f19f30\"",
+  "etag": "\"e3e27f6366eb0d490bc389a9f64595bdf7d43968a6847d4209169df29da0ae5f\"",
   "id": "more_command_nodes",
   "latest_version": "1.1.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "MoreCommandNodes-v1.1.0.mcdr",
           "size": 1428,
-          "download_count": 274,
+          "download_count": 278,
           "created_at": "2022-07-18T15:27:09Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.1.0/MoreCommandNodes-v1.1.0.mcdr"
         }
