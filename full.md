@@ -1887,7 +1887,7 @@ Shows tasks of project in progress
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 2916
+- Total downloads: 2918
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1916,7 +1916,7 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 1607 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
+| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 1609 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
 | [MCDRBot-v1.1.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 01:19:33 | 74.62KB | 1309 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.1.0/MCDRBot-v1.1.0.mcdr) |
 
 ## mcdreforged_plugin_manager
@@ -2010,7 +2010,7 @@ A MCDR plugin for post/teleport items
 - Version: 1.4.1
   - Metadata version: 1.4.1
   - Release version: 1.4.1
-- Total downloads: 3692
+- Total downloads: 3693
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Labels: [`API`](/labels/api/readme.md)
@@ -2040,7 +2040,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 3692 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 3693 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -2092,7 +2092,7 @@ A MCDReforged api plugin to get player data information and more
 - Version: 1.0.3
   - Metadata version: 1.0.3
   - Release version: 1.0.3
-- Total downloads: 331
+- Total downloads: 332
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2176,7 +2176,7 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 293 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
+| [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 294 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
 | [MirrorServerReforged-v1.0.2.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2) | 1.0.2 | 2022/02/05 07:17:57 | 8.16KB | 13 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr) |
 | [MirrorServerReforged-v1.0.1.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1) | 1.0.1 | 2022/01/25 01:25:31 | 8.13KB | 22 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.1/MirrorServerReforged-v1.0.1.mcdr) |
 
@@ -2189,7 +2189,7 @@ Now, I'll introduce the content of the config file:
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 23
+- Total downloads: 24
 - Authors: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
 - Repository: https://github.com/VisualSpliter/MirrorServerSync
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2215,7 +2215,7 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerSync-v1.0.1.mcdr](https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1) | 1.0.1 | 2022/05/18 06:23:05 | 3.28KB | 23 | [Download](https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr) |
+| [MirrorServerSync-v1.0.1.mcdr](https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1) | 1.0.1 | 2022/05/18 06:23:05 | 3.28KB | 24 | [Download](https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr) |
 | [MirrorServerSync-v1.0.0.mcdr](https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.0) | 1.0.0 | 2022/05/17 08:58:02 | 3.24KB | 0 | [Download](https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.0/MirrorServerSync-v1.0.0.mcdr) |
 
 ## mirror_sync_reforged
@@ -2227,7 +2227,7 @@ Now, I'll introduce the content of the config file:
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 154
+- Total downloads: 155
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2254,7 +2254,7 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 60 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
+| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 61 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
 | [MirrorSyncReforged-v1.2.2.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2) | 1.2.2 | 2022/06/26 10:33:41 | 5.01KB | 25 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.2/MirrorSyncReforged-v1.2.2.mcdr) |
 | [MirrorSyncReforged-v1.2.1.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1) | 1.2.1 | 2022/04/07 09:33:53 | 5.03KB | 51 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr) |
 
@@ -2396,7 +2396,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 1456
+- Total downloads: 1457
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
@@ -2424,7 +2424,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 224 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
+| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 225 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
 | [MultiRconAPI-V2.0.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0) | 2.0.0 | 2022/01/20 17:52:27 | 4.17KB | 16 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.0/MultiRconAPI-V2.0.0.pyz) |
 | [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1216 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
