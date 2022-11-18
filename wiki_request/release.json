@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"92d4885d693d710939b32cc645c778d6beceb951d4552be61ce21a96cec11b6c\"",
+  "etag": "\"19d5ee40a33446bfbdb75eb680c5a1d3645b0d83e9b4714ba99a55512f99d7ff\"",
   "id": "wiki_request",
   "latest_version": "3.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "WikiRequest-v3.0.mcdr",
           "size": 2871,
-          "download_count": 257,
+          "download_count": 258,
           "created_at": "2021-10-17T10:56:07Z",
           "browser_download_url": "https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr"
         },
