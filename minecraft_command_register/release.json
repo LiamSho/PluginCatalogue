@@ -1,9 +1,45 @@
 {
   "schema_version": 2,
-  "etag": "\"4b5b974601b77f7241bde20f986f6ed0536915fe8f35a367971c77611550f2c7\"",
+  "etag": "\"ed43d760309e934837ba19b82a8468a9afd39daecd107b08c0ac6eec07a870d2\"",
   "id": "minecraft_command_register",
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.1",
   "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.1.1",
+      "name": "minecraft_command_register: v1.1.1",
+      "tag_name": "minecraft_command_register-v1.1.1",
+      "created_at": "2022-11-20T23:20:25Z",
+      "assets": [
+        {
+          "name": "MinecraftCommandRegister-v1.1.1.mcdr",
+          "size": 1331,
+          "download_count": 1,
+          "created_at": "2022-11-20T23:21:04Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.1.1/MinecraftCommandRegister-v1.1.1.mcdr"
+        }
+      ],
+      "description": "## [1.1.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/minecraft_command_register-v1.1.0...minecraft_command_register-v1.1.1) (2022-11-20)\n\n\n### Bug Fixes\n\n* **minecraft_command_register:** 🐛 fix execute command ([87157ed](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/87157ed152095976acd7c7ac06491ce03e4724f2))",
+      "prerelease": false,
+      "parsed_version": "1.1.1"
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.1.0",
+      "name": "minecraft_command_register: v1.1.0",
+      "tag_name": "minecraft_command_register-v1.1.0",
+      "created_at": "2022-11-20T22:32:28Z",
+      "assets": [
+        {
+          "name": "MinecraftCommandRegister-v1.1.0.mcdr",
+          "size": 1334,
+          "download_count": 1,
+          "created_at": "2022-11-20T22:33:08Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.1.0/MinecraftCommandRegister-v1.1.0.mcdr"
+        }
+      ],
+      "description": "## [1.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/minecraft_command_register-v1.0.0...minecraft_command_register-v1.1.0) (2022-11-20)\n\n\n### Features\n\n* **minecraft_command_register:** ✨ add debug logs ([53098b2](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/53098b20d5904970e6ba959b6cca8e8ac7409967))\n\n\n### Bug Fixes\n\n* **minecraft_command_register:** 🔥 remove event listener ([4dc2dbb](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/4dc2dbb27de685adb283410a36c6602bea5b15ca))",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
     {
       "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.0.0",
       "name": "minecraft_command_register: v1.0.0",
