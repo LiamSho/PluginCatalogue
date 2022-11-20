@@ -2009,7 +2009,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 插件 ID: `minecraft_command_register`
 - 插件名: Minecraft Command Register
 - 版本: 1.0.0
-  - 元数据版本: 1.0.1
+  - 元数据版本: 1.1.0
   - 发布版本: 1.0.0
 - 总下载量: 1
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
