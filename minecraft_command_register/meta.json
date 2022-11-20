@@ -1,7 +1,7 @@
 {
   "id": "minecraft_command_register",
   "name": "Minecraft Command Register",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "labels": [
     "api"
