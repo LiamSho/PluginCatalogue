@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"282bf691ea0e695772386441ccc968c54d8b97df9a8442e363f351943c81f4f5\"",
+  "etag": "\"fabe34464662ad2f7160e02ccaa3add12234df9e8cf9398e9f0ee332e3ebdba4\"",
   "id": "lazytp",
   "latest_version": "2.0.1",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "LazyTeleport-v2.0.1.mcdr",
           "size": 20019,
-          "download_count": 1400,
+          "download_count": 1402,
           "created_at": "2021-08-27T16:14:43Z",
           "browser_download_url": "https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr"
         }
