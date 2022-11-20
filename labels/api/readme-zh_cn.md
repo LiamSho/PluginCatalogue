@@ -6,7 +6,7 @@
 
 具有标签 `API` 的插件的索引
 
-插件数量: 13
+插件数量: 14
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [KPI](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个MCDR插件代码共享库 | 2022/10/23 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
+| [Minecraft Command Register](/plugins/minecraft_command_register/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 在 Minecraft 中注册 MCDReforged 指令 | 2022/11/20 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 一个用于获取 Minecraft 服务端版本的 API 插件 | 2022/08/27 | [`API`](/labels/api/readme-zh_cn.md) |
 | [MoreCommandNodes](/plugins/more_command_nodes/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 更多的指令节点 | 2022/07/18 | [`API`](/labels/api/readme-zh_cn.md) |
