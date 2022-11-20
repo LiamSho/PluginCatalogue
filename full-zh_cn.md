@@ -3242,10 +3242,10 @@ classDiagram
 
 - 插件 ID: `smart_servertime`
 - 插件名: SmartServerTime
-- 版本: 1.2.0
-  - 元数据版本: 1.2.0
-  - 发布版本: 1.2.0
-- 总下载量: 129
+- 版本: 1.2.1
+  - 元数据版本: 1.2.1
+  - 发布版本: 1.2.1
+- 总下载量: 130
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -3258,7 +3258,7 @@ classDiagram
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 | [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.2.0 |
 | [delayexe](/plugins/delayexe/readme-zh_cn.md) | \>=1.2.1 |
-| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.3.0 |
+| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.3.3 |
 
 ### 包依赖
 
@@ -3275,9 +3275,9 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [SmartServerTime-v1.2.1.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/11/20 20:00:33 | 17.48KB | 1 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.1/SmartServerTime-v1.2.1.mcdr) |
 | [SmartServerTime-v1.2.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.0) | 1.2.0 | 2022/10/23 06:39:51 | 17.51KB | 17 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.0/SmartServerTime-v1.2.0.mcdr) |
 | [SmartServerTime-v1.1.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.1.0) | 1.1.0 | 2022/09/18 02:03:24 | 20.17KB | 12 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.1.0/SmartServerTime-v1.1.0.mcdr) |
-| [SmartServerTime-v1.0.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.0.0) | 1.0.0 | 2022/05/11 00:00:58 | 8.18KB | 100 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.0.0/SmartServerTime-v1.0.0.mcdr) |
 
 ## start_stop_helper_r
 
