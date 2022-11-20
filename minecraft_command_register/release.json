@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "etag": "\"4b5b974601b77f7241bde20f986f6ed0536915fe8f35a367971c77611550f2c7\"",
+  "id": "minecraft_command_register",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.0.0",
+      "name": "minecraft_command_register: v1.0.0",
+      "tag_name": "minecraft_command_register-v1.0.0",
+      "created_at": "2022-11-20T17:02:21Z",
+      "assets": [
+        {
+          "name": "MinecraftCommandRegister-v1.0.0.mcdr",
+          "size": 1368,
+          "download_count": 1,
+          "created_at": "2022-11-20T17:02:54Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.0.0/MinecraftCommandRegister-v1.0.0.mcdr"
+        }
+      ],
+      "description": "## 1.0.0 (2022-11-20)\n\n\n### Features\n\n* **minecraft_command_register:** 🎉 new plugin minecraft_command_register ([2006045](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/200604503d80543cecaa85de87194dca14443956))",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ],
+  "latest_version": "1.0.0"
+}
