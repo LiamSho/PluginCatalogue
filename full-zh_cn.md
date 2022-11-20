@@ -2009,7 +2009,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 插件 ID: `minecraft_command_register`
 - 插件名: Minecraft Command Register
 - 版本: 1.0.0
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.0.1
   - 发布版本: 1.0.0
 - 总下载量: 1
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -3242,10 +3242,10 @@ classDiagram
 
 - 插件 ID: `smart_servertime`
 - 插件名: SmartServerTime
-- 版本: 1.2.1
-  - 元数据版本: 1.2.1
-  - 发布版本: 1.2.1
-- 总下载量: 130
+- 版本: 1.2.3
+  - 元数据版本: 1.2.3
+  - 发布版本: 1.2.3
+- 总下载量: 132
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -3258,7 +3258,7 @@ classDiagram
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 | [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.2.0 |
 | [delayexe](/plugins/delayexe/readme-zh_cn.md) | \>=1.2.1 |
-| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.3.3 |
+| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.3.4 |
 
 ### 包依赖
 
@@ -3275,9 +3275,9 @@ classDiagram
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [SmartServerTime-v1.2.3.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.3) | 1.2.3 | 2022/11/20 20:44:57 | 17.49KB | 1 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.3/SmartServerTime-v1.2.3.mcdr) |
+| [SmartServerTime-v1.2.2.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.2) | 1.2.2 | 2022/11/20 20:34:21 | 17.48KB | 1 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.2/SmartServerTime-v1.2.2.mcdr) |
 | [SmartServerTime-v1.2.1.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/11/20 20:00:33 | 17.48KB | 1 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.1/SmartServerTime-v1.2.1.mcdr) |
-| [SmartServerTime-v1.2.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.0) | 1.2.0 | 2022/10/23 06:39:51 | 17.51KB | 17 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.0/SmartServerTime-v1.2.0.mcdr) |
-| [SmartServerTime-v1.1.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.1.0) | 1.1.0 | 2022/09/18 02:03:24 | 20.17KB | 12 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.1.0/SmartServerTime-v1.1.0.mcdr) |
 
 ## start_stop_helper_r
 
