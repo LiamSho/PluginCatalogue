@@ -1,7 +1,7 @@
 {
   "id": "smart_servertime",
   "name": "SmartServerTime",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "repository": "https://github.com/kmcsr/smart_servertime_mcdr",
   "labels": [
     "management"
@@ -13,7 +13,7 @@
     "mcdreforged": ">=2.0.0",
     "kpi": ">=1.2.0",
     "delayexe": ">=1.2.1",
-    "loginproxy": ">=0.3.0"
+    "loginproxy": ">=0.3.3"
   },
   "requirements": [],
   "description": {
