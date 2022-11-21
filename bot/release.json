@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"deee60f032a0c1a2e9d9c7b46b59cdfc90869a003f7042243acedab4a7f6c51f\"",
+  "etag": "\"5df0efe533a598f03eb8d69f7944cd23fa34a365a5075df4555ace0d7ccc6e7b\"",
   "id": "bot",
   "latest_version": "1.0.3",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "Bot-v1.0.2.mcdr",
           "size": 13387,
-          "download_count": 107,
+          "download_count": 109,
           "created_at": "2022-10-03T22:20:24Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.3/Bot-v1.0.2.mcdr"
         }
