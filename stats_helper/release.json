@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"713398ac193219f27094a2bdbc0107a33f8be533db807b2e6c7a0f50240e3f08\"",
+  "etag": "\"4824f9573031742bb731c4e77587ae578f651be71c85fe757551cf39b3025d9c\"",
   "id": "stats_helper",
   "latest_version": "7.5.1",
   "releases": [
@@ -39,6 +39,24 @@
       "description": "- use `#all` as stat_target to query the sum of the stat class",
       "prerelease": false,
       "parsed_version": "7.5.0"
+    },
+    {
+      "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0",
+      "name": "",
+      "tag_name": "v7.4.0",
+      "created_at": "2022-03-08T15:04:43Z",
+      "assets": [
+        {
+          "name": "StatsHelper-v7.4.0.mcdr",
+          "size": 23500,
+          "download_count": 73,
+          "created_at": "2022-03-08T15:06:34Z",
+          "browser_download_url": "https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr"
+        }
+      ],
+      "description": "- Added config option `player_name_blacklist` for you to customize the blacklist for filtering out bots (#8)",
+      "prerelease": false,
+      "parsed_version": "7.4.0"
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.3.1",
