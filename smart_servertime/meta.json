@@ -1,7 +1,7 @@
 {
   "id": "smart_servertime",
   "name": "SmartServerTime",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "repository": "https://github.com/kmcsr/smart_servertime_mcdr",
   "labels": [
     "management"
