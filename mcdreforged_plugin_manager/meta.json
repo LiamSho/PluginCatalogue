@@ -1,7 +1,7 @@
 {
   "id": "mcdreforged_plugin_manager",
   "name": "MCDReforged Plugin Manager",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "repository": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
   "labels": [
     "management"

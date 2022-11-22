@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
-  "etag": "\"d2744024aaf64b254c526b34dc5caeb1e4b036cbcdc621bfed9052c2a63b76ca\"",
+  "etag": "\"a663680e2c917c63cfb638bbabe1c7c9db5bde749db0a010421a439651d6f090\"",
   "id": "mcdreforged_plugin_manager",
-  "latest_version": "1.2.1",
+  "latest_version": "1.3.0",
   "releases": [
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.0",
+      "name": "MCDReforgedPluginManager v1.3.0",
+      "tag_name": "v1.3.0",
+      "created_at": "2022-11-22T15:08:19Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.3.0.mcdr",
+          "size": 21969,
+          "download_count": 0,
+          "created_at": "2022-11-22T15:10:19Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.0/MCDReforgedPluginManager-v1.3.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\n- Proxy support when requesting web resources (#1)",
+      "prerelease": false,
+      "parsed_version": "1.3.0"
+    },
     {
       "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.1",
       "name": "MCDReforgedPluginManager v1.2.1",
