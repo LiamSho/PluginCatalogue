@@ -9,7 +9,7 @@
 - Plugin ID: `mcd_seen`
 - Plugin Name: Seen
 - Version: 1.1.0
-  - Metadata version: 1.1.1
+  - Metadata version: 1.2.0-alpha.1
   - Release version: 1.1.0
 - Total downloads: 2956
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
