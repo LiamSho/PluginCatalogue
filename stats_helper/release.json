@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"9b5d947e78245ff78fe7c2772f240f186637b1803e92b65933afe226b4a8abde\"",
+  "etag": "\"b2d6f5fad5acb0b952a6fe4ca8a508365966847823c101786a9c4bf7dcda14f5\"",
   "id": "stats_helper",
   "latest_version": "7.5.1",
   "releases": [
@@ -93,24 +93,6 @@
       "description": "- MCDR 2.1+ translation logic\r\n- Config file: select if save-all command is used when executing stuffs\r\n\r\n```json\r\n{\r\n    \"save_world_on_query\": false,\r\n    \"save_world_on_rank\": false,\r\n    \"save_world_on_scoreboard\": true\r\n}\r\n```",
       "prerelease": false,
       "parsed_version": "7.2.0"
-    },
-    {
-      "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.3",
-      "name": "Stats Helper v7.1.3",
-      "tag_name": "v7.1.3",
-      "created_at": "2021-08-16T17:10:39Z",
-      "assets": [
-        {
-          "name": "StatsHelper-v7.1.3.mcdr",
-          "size": 22964,
-          "download_count": 1344,
-          "created_at": "2021-08-16T17:11:23Z",
-          "browser_download_url": "https://github.com/TISUnion/StatsHelper/releases/download/v7.1.3/StatsHelper-v7.1.3.mcdr"
-        }
-      ],
-      "description": "Added LICENSE into plugin\r\n\r\nProper help message formatting",
-      "prerelease": false,
-      "parsed_version": "7.1.3"
     },
     {
       "url": "https://github.com/TISUnion/StatsHelper/releases/tag/v7.1.1",
