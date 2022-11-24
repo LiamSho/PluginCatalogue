@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"5d6d6a4a34246dbe0fae04127d6fb02d698bf82a58b412b2c133138c3cfbb227\"",
+  "etag": "\"17bd12e2326bfe2239ee103ab313bfdfc7549f66736eefcfb96af63ad6bd5784\"",
   "id": "simple_translator",
   "latest_version": "1.3.1",
   "releases": [
@@ -31,7 +31,7 @@
         {
           "name": "SimpleTranslator-v1.3.0.mcdr",
           "size": 13824,
-          "download_count": 3,
+          "download_count": 4,
           "created_at": "2022-07-02T21:09:53Z",
           "browser_download_url": "https://github.com/skuzow/simple-translator/releases/download/v1.3.0/SimpleTranslator-v1.3.0.mcdr"
         }
