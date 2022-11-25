@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"86762d142e053e11a8d1d10c9c5acc9e240ed67cf8ebb6a8293fee85ae4a90ec\"",
+  "etag": "\"8f1e47e36ee4ead1ee16d5337d4daa933cfa30df475275a68f92229f666164bd\"",
   "id": "bot_plugin",
   "latest_version": "1.0.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "BotPlugin-v1.0.0.mcdr",
           "size": 17657,
-          "download_count": 300,
+          "download_count": 301,
           "created_at": "2022-01-09T04:38:06Z",
           "browser_download_url": "https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr"
         }
