@@ -37,7 +37,7 @@ Plugin Amount: 77
 | [DatabaseAPI](/plugins/database_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Database API to access database | 2022/06/30 | [`API`](/labels/api/readme.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2022/10/01 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
-| [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/10/23 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
+| [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/11/25 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`Tool`](/labels/tool/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
@@ -48,7 +48,7 @@ Plugin Amount: 77
 | [joinMOTD++](/plugins/join_motd_plus/readme.md) | [Alex3236](https://github.com/alex3236) | Display content when players join the server. (with many useful features) | N/A | [`Information`](/labels/information/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | 2022/03/20 | [`Tool`](/labels/tool/readme.md) |
-| [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2022/10/23 | [`API`](/labels/api/readme.md) |
+| [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2022/11/25 | [`API`](/labels/api/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | 2022/04/09 | [`Tool`](/labels/tool/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | 2021/08/26 | [`Management`](/labels/management/readme.md) |
@@ -85,7 +85,7 @@ Plugin Amount: 77
 | [simple_test](/plugins/simple_test/readme.md) | [Ricky](https://github.com/R1ckyH) | testing basic server problem. | 2021/10/25 | [`Information`](/labels/information/readme.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`Tool`](/labels/tool/readme.md) |
 | [SmartBackup](/plugins/smart_backup/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Backup Plugin | 2022/05/11 | [`Management`](/labels/management/readme.md) |
-| [SmartServerTime](/plugins/smart_servertime/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Auto Start/Stop Plugin | 2022/11/21 | [`Management`](/labels/management/readme.md) |
+| [SmartServerTime](/plugins/smart_servertime/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Auto Start/Stop Plugin | 2022/11/25 | [`Management`](/labels/management/readme.md) |
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang) | Start and stop server helper | 2022/06/30 | [`Management`](/labels/management/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2022/03/05 | [`Management`](/labels/management/readme.md) |
