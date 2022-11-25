@@ -1,7 +1,7 @@
 {
   "id": "timed_quick_backup_multi",
   "name": "Timed QBM",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "repository": "https://github.com/TISUnion/TimedQBM",
   "labels": [
     "management"
