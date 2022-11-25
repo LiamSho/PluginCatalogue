@@ -9,7 +9,7 @@
 - 插件 ID: `timed_quick_backup_multi`
 - 插件名: Timed QBM
 - 版本: 1.1.0
-  - 元数据版本: 1.1.0
+  - 元数据版本: 1.2.0
   - 发布版本: 1.1.0
 - 总下载量: 2590
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)

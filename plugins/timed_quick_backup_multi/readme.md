@@ -9,7 +9,7 @@
 - Plugin ID: `timed_quick_backup_multi`
 - Plugin Name: Timed QBM
 - Version: 1.1.0
-  - Metadata version: 1.1.0
+  - Metadata version: 1.2.0
   - Release version: 1.1.0
 - Total downloads: 2590
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
