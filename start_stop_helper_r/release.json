@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"3ef1ae6d79014c08206a5d0c943534aa3f17d6089e2b23d2fe8856cc821a9c5e\"",
+  "etag": "\"07260756467df03ecafd5643cd88c4c23f62052c3d5a0982b5d12f060ef82a72\"",
   "id": "start_stop_helper_r",
   "latest_version": "0.1.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "StartStopHelperR-v0.1.0.mcdr",
           "size": 1751,
-          "download_count": 252,
+          "download_count": 254,
           "created_at": "2022-06-30T10:01:17Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.1.0/StartStopHelperR-v0.1.0.mcdr"
         }
