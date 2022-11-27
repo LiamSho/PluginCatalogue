@@ -2,6 +2,7 @@
   "schema_version": 2,
   "etag": "\"237338a8c0500257f14a0c0f4a4a1e718510727bf354a35b2bbb993f7fa825a4\"",
   "id": "loginproxy",
+  "latest_version": "0.4.0",
   "releases": [
     {
       "url": "https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.4.0",
@@ -165,6 +166,5 @@
       "prerelease": false,
       "parsed_version": "0.1.0"
     }
-  ],
-  "latest_version": "0.4.0"
+  ]
 }
