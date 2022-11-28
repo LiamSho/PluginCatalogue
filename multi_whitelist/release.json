@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"1143b4bb09e73d0c36faa411a3f01cddfbfe3816da606aa1aec9dd42a3cb13a1\"",
+  "etag": "\"89bc7c5b6fbe65beaa3789562ffdcc3a6c2dd6dacc3f1ebd5ee360a573123e0e\"",
   "id": "multi_whitelist",
   "latest_version": "3.0.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "multi_whitelist-3.0.0.mcdr",
           "size": 17402,
-          "download_count": 170,
+          "download_count": 171,
           "created_at": "2021-10-26T16:12:21Z",
           "browser_download_url": "https://github.com/R1ckyH/multi_whitelist/releases/download/v3.0.0/multi_whitelist-3.0.0.mcdr"
         }
