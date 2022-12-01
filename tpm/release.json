@@ -2,6 +2,7 @@
   "schema_version": 2,
   "etag": "\"7bc6fa8b00cf0ca18c23aab540442860af7e1ccc4c06e87b7fc22a9584e04831\"",
   "id": "tpm",
+  "latest_version": "0.2.1",
   "releases": [
     {
       "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.2.1",
@@ -57,6 +58,5 @@
       "prerelease": false,
       "parsed_version": "0.1.0"
     }
-  ],
-  "latest_version": "0.2.1"
+  ]
 }
