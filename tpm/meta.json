@@ -1,0 +1,21 @@
+{
+  "id": "tpm",
+  "name": "TpManager",
+  "version": "0.2.1",
+  "repository": "https://github.com/kmcsr/tpmanager_mcdr",
+  "labels": [
+    "tool"
+  ],
+  "authors": [
+    "zyxkad"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.0.0",
+    "kpi": ">=1.3.0"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "A Minecraft teleport manager",
+    "zh_cn": "一个Minecraft服务器传送管理"
+  }
+}
