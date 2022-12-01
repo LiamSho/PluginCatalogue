@@ -9,7 +9,7 @@
 - 插件 ID: `minecraft_command_register`
 - 插件名: Minecraft Command Register
 - 版本: 1.1.1
-  - 元数据版本: 1.1.1
+  - 元数据版本: 1.2.0
   - 发布版本: 1.1.1
 - 总下载量: 41
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)

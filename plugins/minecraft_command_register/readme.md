@@ -9,7 +9,7 @@
 - Plugin ID: `minecraft_command_register`
 - Plugin Name: Minecraft Command Register
 - Version: 1.1.1
-  - Metadata version: 1.1.1
+  - Metadata version: 1.2.0
   - Release version: 1.1.1
 - Total downloads: 41
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
