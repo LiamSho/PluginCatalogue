@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"ad8f8c936b17fa3c05e7517f5f2a8f334e76a7bd9712bd9ceaa373116d79f6bb\"",
+  "etag": "\"a64e8d2ca9e9e7ff3967c3a6756ee9b00728cccc07e64ca14bf67082b0c50481\"",
   "id": "minecraft_command_register",
   "latest_version": "1.2.0",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "MinecraftCommandRegister-v1.2.0.mcdr",
           "size": 1611,
-          "download_count": 5,
+          "download_count": 6,
           "created_at": "2022-12-01T20:51:49Z",
           "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.2.0/MinecraftCommandRegister-v1.2.0.mcdr"
         }
