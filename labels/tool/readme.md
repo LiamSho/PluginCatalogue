@@ -20,14 +20,14 @@ Plugin Amount: 38
 | [Cato Plugin](/plugins/cato/readme.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | 2022/09/10 | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/R1ckyH) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | 2022/11/11 | [`Tool`](/labels/tool/readme.md) |
-| [ColoredChat](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Support formatting codes for vanilla | 2021/08/23 | [`Tool`](/labels/tool/readme.md) |
+| [ColoredChat](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Support formatting codes for vanilla | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | 2021/08/22 | [`Tool`](/labels/tool/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2022/11/25 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`Tool`](/labels/tool/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
-| [Gamemode](/plugins/gamemode/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Change to spectator mode for observe, teleport to origin position when change back to survival mode | 2022/06/30 | [`Tool`](/labels/tool/readme.md) |
+| [Gamemode](/plugins/gamemode/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Change to spectator mode for observe, teleport to origin position when change back to survival mode | 2022/12/02 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrp](/plugins/jrrp/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`Tool`](/labels/tool/readme.md) |
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | 2022/03/20 | [`Tool`](/labels/tool/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | 2021/08/27 | [`Tool`](/labels/tool/readme.md) |
