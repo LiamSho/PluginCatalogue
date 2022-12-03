@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"9dab7e885b0aec39e77d4b68e3c494d6dd69f86fca1ebcb7adc40d3fd8ac2cf9\"",
+  "etag": "\"caf58bc844edd523dc6dc693ec75384e8e68c0498c460718f5c98cd3e58baf6c\"",
   "id": "tpm",
   "latest_version": "0.2.1",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "TpManager-v0.2.1.mcdr",
           "size": 16802,
-          "download_count": 6,
+          "download_count": 7,
           "created_at": "2022-11-28T02:31:44Z",
           "browser_download_url": "https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.2.1/TpManager-v0.2.1.mcdr"
         }
