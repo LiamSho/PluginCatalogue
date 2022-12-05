@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"81bdd2505ab3d4383c15b6db8df6cd51e2b1ca20d31d2eb0875ae105eef2d2f5\"",
+  "etag": "\"98e63acda7f78442b202bd725154608a8b12028a3215bc68d356a678b59fbcde\"",
   "id": "carpet_tick",
   "latest_version": "1.1.1",
   "releases": [
@@ -13,7 +13,7 @@
         {
           "name": "CarpetTick-v1.1.1.mcdr",
           "size": 3542,
-          "download_count": 42,
+          "download_count": 43,
           "created_at": "2022-08-27T16:04:57Z",
           "browser_download_url": "https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.1/CarpetTick-v1.1.1.mcdr"
         }
