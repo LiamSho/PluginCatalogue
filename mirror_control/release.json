@@ -2,6 +2,7 @@
   "schema_version": 2,
   "etag": "\"5eb4e467bf9b7c9cbd86a805d5907088e24bb4e4ea57e0cd5d3af7ddf5fb4159\"",
   "id": "mirror_control",
+  "latest_version": "1.0.0",
   "releases": [
     {
       "url": "https://github.com/charassss/Mirror-Control/releases/tag/v1.0.0",
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
