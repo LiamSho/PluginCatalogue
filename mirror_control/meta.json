@@ -1,0 +1,20 @@
+{
+  "id": "mirror_control",
+  "name": "Mirror Control",
+  "version": "1.0.1",
+  "repository": "https://github.com/charassss/Mirror-Control",
+  "labels": [
+    "management"
+  ],
+  "authors": [
+    "Chara_SS"
+  ],
+  "dependencies": {},
+  "requirements": [
+    "mcdreforged~=2.6.0"
+  ],
+  "description": {
+    "en_us": "A plugin to control mirror server",
+    "zh_cn": "一个控制镜像服务器的插件"
+  }
+}
