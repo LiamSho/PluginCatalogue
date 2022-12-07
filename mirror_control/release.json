@@ -1,9 +1,45 @@
 {
   "schema_version": 2,
-  "etag": "\"5eb4e467bf9b7c9cbd86a805d5907088e24bb4e4ea57e0cd5d3af7ddf5fb4159\"",
+  "etag": "\"275705cb63b44587dd5e92b3bf7f8b2311fe026322c3561c7edd1f797ec3fe56\"",
   "id": "mirror_control",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.2",
   "releases": [
+    {
+      "url": "https://github.com/charassss/Mirror-Control/releases/tag/v1.0.2",
+      "name": "Mirror Control 1.0.2",
+      "tag_name": "v1.0.2",
+      "created_at": "2022-12-07T09:25:23Z",
+      "assets": [
+        {
+          "name": "MirrorControl-v1.0.2.mcdr",
+          "size": 4258,
+          "download_count": 0,
+          "created_at": "2022-12-07T09:26:32Z",
+          "browser_download_url": "https://github.com/charassss/Mirror-Control/releases/download/v1.0.2/MirrorControl-v1.0.2.mcdr"
+        }
+      ],
+      "description": "使用ChatGPT对语言文件以及英文版README进行了翻译",
+      "prerelease": false,
+      "parsed_version": "1.0.2"
+    },
+    {
+      "url": "https://github.com/charassss/Mirror-Control/releases/tag/v1.0.1",
+      "name": "Mirror Control 1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2022-12-06T13:55:31Z",
+      "assets": [
+        {
+          "name": "MirrorControl-v1.0.1.mcdr",
+          "size": 4240,
+          "download_count": 0,
+          "created_at": "2022-12-06T13:58:40Z",
+          "browser_download_url": "https://github.com/charassss/Mirror-Control/releases/download/v1.0.1/MirrorControl-v1.0.1.mcdr"
+        }
+      ],
+      "description": "修复了一些已知错误\r\n增加了若干功能",
+      "prerelease": false,
+      "parsed_version": "1.0.1"
+    },
     {
       "url": "https://github.com/charassss/Mirror-Control/releases/tag/v1.0.0",
       "name": "Mirror Control 1.0.0",
