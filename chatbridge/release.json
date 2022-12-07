@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "etag": "\"d6c29b89332692f530ca643472bf5465580b0a1d7aba0404e354537609a93806\"",
+  "etag": "\"50ec358ae4c36cd52b9bbc06526554f6a0649df5d2132ea68fda9e4872df5e1b\"",
   "id": "chatbridge",
   "latest_version": "2.3.0",
   "releases": [
@@ -23,24 +23,6 @@
       "parsed_version": "2.3.0"
     },
     {
-      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0",
-      "name": "",
-      "tag_name": "v2.2.0",
-      "created_at": "2022-03-10T06:22:09Z",
-      "assets": [
-        {
-          "name": "ChatBridge.pyz",
-          "size": 41540,
-          "download_count": 445,
-          "created_at": "2022-03-10T06:23:41Z",
-          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz"
-        }
-      ],
-      "description": "## CLI server changes:\r\n- Better thread name displaying\r\n- Auto-trim login timeout connections\r\n- Added secret `thread_dump` command in cli server for debug",
-      "prerelease": false,
-      "parsed_version": "2.2.0"
-    },
-    {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1",
       "name": "",
       "tag_name": "v2.1.1",
@@ -57,24 +39,6 @@
       "description": "- Added `!!help` command in khl bot\r\n- Fixed missing newline in !!help in discord bot (#21)",
       "prerelease": false,
       "parsed_version": "2.1.1"
-    },
-    {
-      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.0",
-      "name": "",
-      "tag_name": "v2.1.0",
-      "created_at": "2021-11-16T11:24:40Z",
-      "assets": [
-        {
-          "name": "ChatBridge.pyz",
-          "size": 40833,
-          "download_count": 187,
-          "created_at": "2021-11-16T11:27:38Z",
-          "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.1.0/ChatBridge.pyz"
-        }
-      ],
-      "description": "- removed hardcoded \"TIS\" in server (online command result in discord/khl bot), use new value `server_display_name` in config\r\n- also apply markdown formatting in stats result for discord bot\r\n- dumps config after load for easier updating",
-      "prerelease": false,
-      "parsed_version": "2.1.0"
     },
     {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.0.4",
