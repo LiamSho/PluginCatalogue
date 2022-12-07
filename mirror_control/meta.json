@@ -1,7 +1,7 @@
 {
   "id": "mirror_control",
   "name": "Mirror Control",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/charassss/Mirror-Control",
   "labels": [
     "management"
