@@ -9,7 +9,7 @@
 - 插件 ID: `mirror_control`
 - 插件名: Mirror Control
 - 版本: 1.0.0
-  - 元数据版本: 1.0.1
+  - 元数据版本: 1.0.2
   - 发布版本: 1.0.0
 - 总下载量: 0
 - 作者: [Chara_SS](https://github.com/charassss/)
