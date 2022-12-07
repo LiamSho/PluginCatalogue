@@ -2180,9 +2180,9 @@ A MCDReforged api plugin to get player data information and more
 
 - Plugin ID: `mirror_control`
 - Plugin Name: Mirror Control
-- Version: 1.0.0
+- Version: 1.0.2
   - Metadata version: 1.0.2
-  - Release version: 1.0.0
+  - Release version: 1.0.2
 - Total downloads: 0
 - Authors: [Chara_SS](https://github.com/charassss/)
 - Repository: https://github.com/charassss/Mirror-Control
@@ -2202,57 +2202,15 @@ A MCDReforged api plugin to get player data information and more
 
 ### Introduction
 
-## Mirror Control
-
-## [中文版本](./README.md)
-
-#### Usage
-
-- `!!mirror` Displays help message and portable management
-- `!!mirror start <server_name>` Start the mirror server (including sync operation)
-- `!!mirror restart <server_name>` Restart the mirror server (including sync operation)
-- `!!mirror stop <server_name>` Stop the mirror server
-- `!!mirror sync <server_name>` Sync the mirror server
-
-`server_name` should be similar to *default* in the configuration file
-
-#### Configuration file structure
-
-Please modify the configuration file before using this plugin *but after you first start
-
-\* means items you need to modify
-
-```
-
-config.json
-	|- permission (int 1->4)
-	|		|- start
-	|		|- sync
-	|		|- stop
-	|		|- restart
-	|
-    |- this_server (str dir)
-    |    	|- work_directory *
-    |
-    |- server
-    		|- default * (Change to whatever you want, just don't leave it as 'default'. It's ugly.) |       |
-    		|		|- name * (Any server nickname you want)
-    		|		|- location * (An absolute address)
-    		|		|- target_region_location * (Its region file address)
-    		-		|- command * (Start command. Can simply be filled in with 'start.bat' or 'sh start.sh')   |
-    		-		|- rcon
-    		|			|- enable * (boolean true)
-    		|			|- port * 
-    		|			|- passwd *
-    		|
-    		|- ...
-```
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [MirrorControl-v1.0.2.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.2) | 1.0.2 | 2022/12/07 09:26:32 | 4.16KB | 0 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.2/MirrorControl-v1.0.2.mcdr) |
+| [MirrorControl-v1.0.1.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.1) | 1.0.1 | 2022/12/06 13:58:40 | 4.14KB | 0 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.1/MirrorControl-v1.0.1.mcdr) |
 | [MirrorControl-v1.0.0.mcdr](https://github.com/charassss/Mirror-Control/releases/tag/v1.0.0) | 1.0.0 | 2022/12/06 09:27:33 | 3.86KB | 0 | [Download](https://github.com/charassss/Mirror-Control/releases/download/v1.0.0/MirrorControl-v1.0.0.mcdr) |
 
 ## mirror_server_reforged
